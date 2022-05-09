@@ -1,0 +1,49 @@
+{
+    "name": "whoL05.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Changes in the burden of disease associated with social development",
+        "B": "Changes in the burden of disease associated with economic development",
+        "C": "Changes in the burden of disease associated with population development",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "1",
+        "question": "Which country has the lowest value in terms of Non-communicable disease?",
+        "A": "Sub-Saharan Africa",
+        "B": "India",
+        "C": "Middle East",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest value in terms of Non-communicable disease?",
+        "A": "China",
+        "B": "Middle East",
+        "C": "Established Market Economies",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest value in terms of Communicable disease?",
+        "A": "Sub-Saharan Africa",
+        "B": "Middle East",
+        "C": "Established Market Economies",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the highest value in terms of Communicable disease?",
+        "A": "China",
+        "B": "Sub-Saharan Africa",
+        "C": "India",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

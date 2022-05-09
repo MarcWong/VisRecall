@@ -1,0 +1,50 @@
+{
+    "name": "02wEIH1uspxsk1E7VW-KRA==.0.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Confirmed COVID-19 Cases in the United States",
+        "B": "Recovered COVID-19 Cases in the United States",
+        "C": "COVID-19 Deaths in the United States",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "Jan 2020-Sep 2020",
+        "B": "Jan 2020-Dec 2020",
+        "C": "Jan 2020-Mar 2020",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "Which of the following date has more than 10000 confirmed cases?",
+        "A": "19mar2020",
+        "B": "04mar2020",
+        "C": "18mar2020",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "As of 23 Mar 2020, how many confirmed cases does United States have?",
+        "A": "10000-20000",
+        "B": "20000-30000",
+        "C": "more than 30000",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "When did the number of confirmed cases start rapid increasing?",
+        "A": "04mar2020",
+        "B": "19feb2020",
+        "C": "05feb2020",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

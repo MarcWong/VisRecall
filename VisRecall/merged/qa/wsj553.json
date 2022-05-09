@@ -1,0 +1,49 @@
+{
+  "name": "wsj553.png",
+  "vistype": "other",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Male representation on the boards of the largest listed companies in January 2012",
+    "B": "Female representation on the boards of the largest listed companies in January 201",
+    "C": "Male representation as CEO's of the largest listed companies in January 201",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2010",
+    "B": "2011",
+    "C": "2012",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which country has the highest percentage of Female representation ?",
+    "A": "U.S.",
+    "B": "Italy",
+    "C": "Norway",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which country has the highest percentage of Female representation ?",
+    "A": "U.S.",
+    "B": "Italy",
+    "C": "Norway",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q5": {
+    "type": "2",
+    "question": "Whats the source of information visualization?",
+    "A": "Sud Deutsche",
+    "B": "Euro News",
+    "C": "European Commision",
+    "D": "I can not remember",
+    "answer": "C"
+  }
+}

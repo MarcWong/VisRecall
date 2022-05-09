@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_532.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Car accidents in America",
+        "B": "Car manufactures in America",
+        "C": "Car thefts in America",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Where does the source come from?",
+        "A": "Insurance-claim",
+        "B": "Police-claim",
+        "C": "Consultant-claim",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which model has the highest overall theft loss?",
+        "A": "Cadillac Escalade",
+        "B": "Ford f-250 Crew 4WD(2008-2009)",
+        "C": "Chevrolet Corvette Z06",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which model has the lowest claim frequency?",
+        "A": "Volvo S80",
+        "B": "Saturn VUE(2008-2009)",
+        "C": "Toyota Sienna 4WD",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which brand occured most times in the list of HIGHEST LOSSES?",
+        "A": "Cadillac",
+        "B": "Ford",
+        "C": "Chevrolet",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

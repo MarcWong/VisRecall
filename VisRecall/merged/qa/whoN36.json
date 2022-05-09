@@ -1,0 +1,49 @@
+{
+    "name": "whoN36.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Countries reporting awareness campaigns on cancer",
+        "B": "Countries reporting awareness campaigns on alcohol",
+        "C": "Countries reporting awareness campaigns on tobacco",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2006",
+        "B": "2007",
+        "C": "2008",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which awareness campaign get most reported?",
+        "A": "Drink-driving",
+        "B": "Youth",
+        "C": "Social harm",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which awareness campaign get least reported?",
+        "A": "Social harm",
+        "B": "Youth",
+        "C": "Indigenous people",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "What is the number of countries reporting Drink-driving?",
+        "A": "Around 100",
+        "B": "Around 120",
+        "C": "Around 140",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

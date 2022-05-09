@@ -1,0 +1,49 @@
+{
+    "name": "wsj88.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Top 10 political entities that spent most of their money on behalf of candidates in the election",
+        "B": "Top 20 political entities that spent most of their money on behalf of candidates in the election",
+        "C": "Top 50 political entities that spent most of their money on behalf of candidates in the election",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "1",
+        "question": "Which entity has spent the maximum?",
+        "A": "Restore our future",
+        "B": "American Crossroads/Crossroads GPS",
+        "C": "SEIU",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which entity has spent the minimum?",
+        "A": "AFSCME",
+        "B": "Moveon.org",
+        "C": "AFT",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "What currency is used to denote the spending?",
+        "A": "Euros",
+        "B": "Dollars",
+        "C": "Yens",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What year's data is seen in the visualization?",
+        "A": "2008",
+        "B": "2005",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

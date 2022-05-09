@@ -1,0 +1,49 @@
+{
+    "name": "economist daily chart65.jpg",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualisation?",
+        "A": "The average age of cabinets and the population in different countries",
+        "B": "The average age of cabinets and the policeman in different counties ",
+        "C": "The average age of cabinets and the fireman in different countries ",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data did not display in this visualisation?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest value of the age of cabinet ministers?",
+        "A": "China",
+        "B": "United States",
+        "C": "India",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "What is the average age of cabinet ministers in China ?",
+        "A": "65",
+        "B": "63",
+        "C": "60",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Which color did not used to display the data in this visualisation?",
+        "A": "yellow",
+        "B": "red",
+        "C": "blue",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

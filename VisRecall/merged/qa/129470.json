@@ -1,0 +1,49 @@
+{
+    "name": "129470.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualisation?",
+        "A": "Earnings from international visitors",
+        "B": "Earnings from international shops",
+        "C": "Earnings from international trade",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is not displayed in this visualisation?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest value in 2008?",
+        "A": "Pakistan",
+        "B": "Azerbaijan",
+        "C": "Tonga",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the lowest value in 2009?",
+        "A": "Pakistan",
+        "B": "Azerbaijan",
+        "C": "Tonga",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which currency has been chosen in this visualisation?",
+        "A": "Euro",
+        "B": "US dollar",
+        "C": "yen",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

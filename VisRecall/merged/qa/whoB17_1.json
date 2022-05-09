@@ -1,0 +1,49 @@
+{
+    "name": "whoB17_1.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Adolescence pregnancy rates by educational level in selected countries",
+        "B": "Adolescence pregnancy rates by educational level in all countries",
+        "C": "Adolescence pregnancy rates by educational level in selected cities",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "1",
+        "question": "Which category has the highest rate?",
+        "A": "Primary education only",
+        "B": "No education",
+        "C": "Secondary education or higher",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which category has the lowest rate?",
+        "A": "Secondary education or higher",
+        "B": "No education",
+        "C": "Primary education only",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "What is the median pregnancy rate in No education category?",
+        "A": "Above 50%",
+        "B": "Below 40%",
+        "C": "Above 60%",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the year value seen in the visualization?",
+        "A": "1990 - 2005",
+        "B": "1995 - 2005",
+        "C": "2000 - 2005",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

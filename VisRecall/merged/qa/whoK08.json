@@ -1,0 +1,49 @@
+{
+    "name": "whoK08.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "Which region are the selected contries from?",
+        "A": "South America",
+        "B": "South Africa",
+        "C": "Sub-Saharan Africa",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's Population is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest value in Population in 2010?",
+        "A": "Togo",
+        "B": "Ghana",
+        "C": "Malawi",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the highest water supply coverage in 2010?",
+        "A": "Namibia",
+        "B": "Gambia",
+        "C": "Ghana",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which country has the most population that gained access to improved sources of drinking water since 1995?",
+        "A": "Ghana",
+        "B": "Malawi",
+        "C": "Namibia",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

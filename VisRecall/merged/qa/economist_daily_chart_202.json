@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_202.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Anticipated personal spending on healthcare service",
+        "B": "Anticipated personal spending on public transportation",
+        "C": "Anticipated personal spending on Christmas gifts",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest anticipated personal spending on Christmas gifts in this visualization?",
+        "A": "United States",
+        "B": "Finland",
+        "C": "Luxembourg",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest anticipated personal spending on Christmas gifts in this visualization?",
+        "A": "Greece",
+        "B": "Germany",
+        "C": "Netherlands",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the lowest GDP per person in this visualization?",
+        "A": "South Africa",
+        "B": "Poland",
+        "C": "Ukraine",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

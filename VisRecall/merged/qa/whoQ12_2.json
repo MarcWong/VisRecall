@@ -1,0 +1,49 @@
+{
+    "name": "whoQ12_2.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Proportion of population at malaria risk protected by IRS by WHO Region",
+        "B": "Proportion of population at HIV risk protected by IRS by WHO Region",
+        "C": "Proportion of population at malaria risk protected by WHO by IRS Region",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2002-2011",
+        "B": "2000-2010",
+        "C": "2009-2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which Region has the highest value in 2010?",
+        "A": "Western Pacific",
+        "B": "Americas",
+        "C": "Africa",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which Region has the lowest value in 2003?",
+        "A": "Western Pacific",
+        "B": "Americas",
+        "C": "Africa",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Where does the data come from?",
+        "A": "NMCP reports",
+        "B": "WHO reports",
+        "C": "IRS reports",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "wsj340.png",
+    "vistype": "pie",
+    "Q1": {
+        "question": "Which utility is this graph concerned with?",
+		"type": "2",
+        "A": "Electricity",
+        "B": "Telephone",
+        "C": "Sanitation",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "This graph represents data from which country?",
+		"type": "2",
+        "A": "France",
+        "B": "Germany",
+        "C": "India",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "Which energy source is the main one in India?",
+		"type": "2",
+        "A": "Nuclear",
+        "B": "Hydroelectric",
+        "C": "Coal",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "Which share of electricity source does hydroelectric represent?",
+		"type": "2",
+        "A": "1/5",
+        "B": "1/4",
+        "C": "1/4",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "What is the source of data contained in this graph?",
+		"type": "2",
+        "A": "World Health Organization",
+        "B": "India's Ministry of Power",
+        "C": "India Electric",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

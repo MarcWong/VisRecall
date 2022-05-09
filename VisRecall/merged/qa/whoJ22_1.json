@@ -1,0 +1,49 @@
+{
+  "name": "whoJ22_1.png",
+  "vistype": "table", 
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "New cases of yaws",
+    "B": "Sanitation and drinking water",
+    "C": "Population at risk",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2008-2010",
+    "B": "2010-2012",
+    "C": "2012-2014",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which country in 2010 has the highest value of expenditure?",
+    "A": "Burkina Faso",
+    "B": "Kenya",
+    "C": "Lesotho",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which country in 2008 has the lowest value of expenditure?",
+    "A": "Lesotho",
+    "B": "Madagascar",
+    "C": "Nepal",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "What is the expenditure of Kenya in 2008?",
+    "A": "Around 3 million dollars",
+    "B": "Around 30 million dollars",
+    "C": "Around 300 million dollars",
+    "D": "I can not remember",
+    "answer": "C"
+  }
+}

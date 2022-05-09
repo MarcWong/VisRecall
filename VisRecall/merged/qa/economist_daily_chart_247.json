@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_247.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Exchange rate and merchandise trade-deficit between the US and China",
+        "B": "Exchange rate and merchandise trade-deficit between the US and Russia",
+        "C": "Exchange rate and merchandise trade-deficit between Europe and China",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period's data is displayed in this visualization?",
+        "A": "2006-2010",
+        "B": "2007-2011",
+        "C": "2008-2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "Numerically speaking, what is the trend of the exchange rate in the period?",
+        "A": "The exchange rate decreases",
+        "B": "The exchange rate increases",
+        "C": "The exchange rate remains stable",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "In which quarter the merchandise trade-deficit is the largest?",
+        "A": "2009",
+        "B": "2010",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "In which range the merchandise trade-deficit in the period?",
+        "A": "100-200 billion",
+        "B": "150-250 billion",
+        "C": "200-300 billion",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

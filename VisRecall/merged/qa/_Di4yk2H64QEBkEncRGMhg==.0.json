@@ -1,0 +1,50 @@
+{
+    "name": "_Di4yk2H64QEBkEncRGMhg==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Height and Weight by Continents",
+        "B": "Height and Weight by Eating Habits",
+        "C": "Height and Weight by Sex",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "1",
+        "question": "Who is the tallest male in this visualization?",
+        "A": "Philip",
+        "B": "Ronald",
+        "C": "William",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Who is the tallest female in this visualization?",
+        "A": "Barbara",
+        "B": "Jane",
+        "C": "Mary",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Who is the weightest male in this visualization?",
+        "A": "Philip",
+        "B": "Ronald",
+        "C": "William",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Who is the shortest person in this visualization?",
+        "A": "Joyce",
+        "B": "Alice",
+        "C": "Thomas",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

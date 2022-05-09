@@ -1,0 +1,49 @@
+{
+    "name": "0Gc4n4lYDn4V19CtJzo_eg==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "What your Car says about your Salary",
+        "B": "What your Cat says about your Salary",
+        "C": "What your Car says about your Payment",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What is the correlation between car price and salary?",
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Not obvious",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "What does the X-axis stand for?",
+        "A": "Salary",
+        "B": "Car Price",
+        "C": "Year",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "What does the Y-axis stand for?",
+        "A": "Salary",
+        "B": "Car Price",
+        "C": "Year",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "What is the unit of values?",
+        "A": "Euro",
+        "B": "American dollar",
+        "C": "RMB",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

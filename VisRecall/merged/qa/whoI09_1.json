@@ -1,0 +1,49 @@
+{
+  "name": "whoI09_1.png",
+  "vistype": "table",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Survey of animals in studies",
+    "B": "Break down of development aid",
+    "C": "Number of cases of yaws reported in indonesia",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "4",
+    "question": "What does the n column stands for?",
+    "A": "age",
+    "B": "number of animals",
+    "C": "number of studies",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which animal has the highest number of studies?",
+    "A": "juvenile pig",
+    "B": "adult pig",
+    "C": "adult cattle",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which animal has the lowest ranking?",
+    "A": "adult deer",
+    "B": "adult cats",
+    "C": "adult horses",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q5": {
+    "type": "1",
+    "question": "Which animal has the highest Mean prevalence?",
+    "A": "adult pig",
+    "B": "juvenile pig",
+    "C": "adult cattle",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

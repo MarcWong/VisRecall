@@ -1,0 +1,49 @@
+{
+    "name": "whoQ06_2.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Change over time in allocation of international funds for leukemia control",
+        "B": "Change over time in allocation of international funds for HIV control",
+        "C": "Change over time in allocation of international funds for malaria control",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which period of data does this visualization show?",
+        "A": "1999-2010",
+        "B": "2001-2010",
+        "C": "2003-2010",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "4",
+        "question": "How funding for African countries has changed over this time period?",
+        "A": "unchanged",
+        "B": "lower",
+        "C": "higher",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which region has the highest value in 2010?",
+        "A": "African Region",
+        "B": "20% of countries with largest population at risk",
+        "C": "20% of countries with lowest GNI per capita",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which region has the lowest value in 2010?",
+        "A": "African Region",
+        "B": "20% of countries with largest population at risk",
+        "C": "20% of countries with lowest GNI per capita",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

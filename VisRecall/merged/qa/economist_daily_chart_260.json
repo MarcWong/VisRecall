@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_260.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Gross government debt",
+        "B": "Gross government costs for education",
+        "C": "GDP forecast of government",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest value?",
+        "A": "Japan",
+        "B": "Italy",
+        "C": "Belgium",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest value?",
+        "A": "Britain",
+        "B": "Spain",
+        "C": "Canada",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the highest debt that held abroad?",
+        "A": "Spain",
+        "B": "United States",
+        "C": "Greece",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

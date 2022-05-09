@@ -1,0 +1,49 @@
+{
+    "name": "wsj8.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Gender gap in the large US banks and securities firms",
+        "B": "Gender gap in the large US banks and consulting firms",
+        "C": "Gender gap in the large US banks and accounting firms",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "1",
+        "question": "Which bank or firm has the most women executives?",
+        "A": "Bank of America",
+        "B": "Citigroup",
+        "C": "Wells Fargo",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which bank or firm has the least women executives?",
+        "A": "Bank of America",
+        "B": "Citigroup",
+        "C": "Wells Fargo",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "How many banks and firms are displayed in the visualization?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the source of the figure?",
+        "A": "CNN",
+        "B": "The Wall Street Journal",
+        "C": "The Times",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

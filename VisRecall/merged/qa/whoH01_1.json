@@ -1,0 +1,49 @@
+{
+    "name": "whoH01_1.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Figure 1: Urban VS Rural Births in Perceng During 2006-2007",
+        "B": "Select Median Characteristics of Active Permanent Modifications",
+        "C": "Covered Transactions by Sector and Year, 2009-2011",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "Which color stands for Urban birth?",
+        "A": "Blue",
+        "B": "Pink",
+        "C": "Orange",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "Which color stands for Rural birth?",
+        "A": "Blue",
+        "B": "Pink",
+        "C": "Orange",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which region has higher births?",
+        "A": "Urban",
+        "B": "Same",
+        "C": "Rural",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the Urban births in percentange?",
+        "A": "40%-50%",
+        "B": "30%-40%",
+        "C": "20%-30%",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "8XT9tstaX3P7OjmkeT1xTg==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Change in life expectancy with GDP per capita in different regions",
+        "B": "Comparison of GDP per capita of different regions",
+        "C": "Comparison of the average life expectancy of different regions",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2005",
+        "B": "2006",
+        "C": "2007",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "4",
+        "question": "How does life expectancy change with GDP growth?",
+        "A": "always higher",
+        "B": "Becoming higher then staying at a certain level",
+        "C": "always lower",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest GDP per capita during this period?",
+        "A": "Africa",
+        "B": "Americas",
+        "C": "Asia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the highest GDP per capita during this period?",
+        "A": "Asia",
+        "B": "Americas",
+        "C": "Europe",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

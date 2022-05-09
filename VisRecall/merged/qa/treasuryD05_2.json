@@ -1,0 +1,49 @@
+{
+    "name": "treasuryD05_2.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Covered Transactions by Sector and Year, 2009-2011",
+        "B": "Select Median Characteristics of Active Permanent Modifications",
+        "C": "Homeowner's HOPE Hotline Volume",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What is the trend of Front-End Debt-to-Income Ratio from Before Modification to After Modification?",
+        "A": "Decreased",
+        "B": "Didn't change",
+        "C": "Increased",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "What is the trend of Back-End Debt-to-Income Ratio from Before Modification to After Modification?",
+        "A": "Decreased",
+        "B": "Didn't change",
+        "C": "Increased",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "Compare Front-End Debt-to-Income Ratio with Back-End, which one is larger before modification??",
+        "A": "Front-End",
+        "B": "Back-End",
+        "C": "Same",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "How large is the Median Decrease of Median Monthly Housing Payment countries?",
+        "A": "0 to -200",
+        "B": "-200 to -400",
+        "C": "-400 to -600",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

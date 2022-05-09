@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_229.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Human development index according to UN Human Development Report",
+        "B": "Human development index according to EU Human Development Report",
+        "C": "Human development index according to WHO Human Development Report",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What does the grey icon represent?",
+        "A": "Life expectancy at birth",
+        "B": "Income per person",
+        "C": "Expected years of schooling",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest rank?",
+        "A": "Norway",
+        "B": "United States",
+        "C": "Germany",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which years has the lowest rank?",
+        "A": "Brazil",
+        "B": "Russia",
+        "C": "Congo",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "How many countries are taken into consideration for the ranking?",
+        "A": "Around 100 and below",
+        "B": "Around 150 and below",
+        "C": "Around 180 and above",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

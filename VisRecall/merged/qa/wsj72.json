@@ -1,0 +1,49 @@
+{
+  "name": "wsj72.png",
+  "vistype": "line",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Federal income as a percentage as GDP",
+    "B": "State income as a percentage as GDP",
+    "C": "Federal income and spending as a percentage as GDP",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q2": {
+    "type": "1",
+    "question": "When does the highest spending occur?",
+    "A": "1980-1990",
+    "B": "1990-2000",
+    "C": "2000-2010",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q3": {
+    "type": "2",
+    "question": "What is the priority for next president?",
+    "A": "To widen the gap",
+    "B": "To narrow the gap",
+    "C": "To maintain it as it is",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q4": {
+    "type": "2",
+    "question": "What is the source of the data?",
+    "A": "Washington post",
+    "B": "White House",
+    "C": "Department of Social welfare",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "What percentage is the most recent year's income?",
+    "A": "15.7%",
+    "B": "18.7%",
+    "C": "22.7%",
+    "D": "I can not remember",
+    "answer": "A"
+  }
+}

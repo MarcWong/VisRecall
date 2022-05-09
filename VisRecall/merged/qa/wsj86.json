@@ -1,0 +1,49 @@
+{
+    "name": "wsj86.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Rising Tide",
+        "B": "Falling Tide",
+        "C": "Rising GDP",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "4",
+        "question": "Which data is marked in red?",
+        "A": "Greek budget report",
+        "B": "IMF's World Economic Outlook",
+        "C": "Original bailout program",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "Which type of data overlapped with IMF's world Economic Outlook in 2009-2011?",
+        "A": "Greek budget report",
+        "B": "Original bailout program",
+        "C": "Review of bailout program",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which type of data has the lowest value in 2009?",
+        "A": "Greek budget report",
+        "B": "Original bailout program",
+        "C": "Review of bailout program",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Which year's data are all estimates?",
+        "A": "2009",
+        "B": "2010",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

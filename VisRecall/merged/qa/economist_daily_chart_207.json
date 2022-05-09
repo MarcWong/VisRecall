@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_207.png",
+    "vistype": "line",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It shows the income inequality of multiple countries over time",
+        "B": "It shows the income increase of multiple countries over time",
+        "C": "It shows the income decrease of multiple countries over time",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "Which metric is used for the visualization?",
+		"type": "2",
+        "A": "OECD coefficient",
+        "B": "Spearman's coefficient",
+        "C": "Gini coefficient",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "What period of data does this visualization show?",
+		"type": "3",
+        "A": "1975-2006",
+        "B": "1975-2007",
+        "C": "1975-2008",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "Which country has the highest income inequality at the end (2008)?",
+		"type": "1",
+        "A": "Germany",
+        "B": "United States",
+        "C": "Britain",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "question": "Which country has the lowest income inequality?",
+		"type": "1",
+        "A": "United States",
+        "B": "Sweden",
+        "C": "Germany",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "whoQ42_1.png",
+    "vistype": "bar",
+    "Q1": {
+        "question": "Which time range is this graph visualizing?",
+		"type": "3",
+        "A": "2007-2011",
+        "B": "2007-2010",
+        "C": "2001-2007",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "What is the object being examined in the chart's content?",
+		"type": "3",
+        "A": "Blood",
+        "B": "Urine",
+        "C": "Saliva",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "question": "Which country has the highest blood examination rate?",
+		"type": "1",
+        "A": "Algeria",
+        "B": "Togo",
+        "C": "Liberia",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "Which country has an examination rate of around 15%?",
+		"type": "2",
+        "A": "Niger",
+        "B": "Gambia",
+        "C": "Mali",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "question": "Which country pairs have approximately similar annual blood examination rates?",
+		"type": "4",
+        "A": "Liberia and Niger",
+        "B": "Ghana and Nigeria",
+        "C": "Cape Verde and Togo",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

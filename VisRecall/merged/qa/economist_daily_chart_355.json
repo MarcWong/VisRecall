@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_355.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "World temperature",
+        "B": "World population",
+        "C": "World birth rate",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which is the earliest year displayed in this visualization?",
+        "A": "1900",
+        "B": "1950",
+        "C": "2000",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which is the last year displayed in this visualization?",
+        "A": "2050",
+        "B": "2100",
+        "C": "2150",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "What are the two classes in the X-axis?",
+        "A": "Young and Old",
+        "B": "Poor and Rich",
+        "C": "Male and Female",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the source?",
+        "A": "UK",
+        "B": "US",
+        "C": "UN",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

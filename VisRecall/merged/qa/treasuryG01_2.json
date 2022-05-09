@@ -1,0 +1,49 @@
+{
+    "name": "treasuryG01_2.png",
+    "vistype": "table",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Marketable Treasury Coupon Flows",
+        "B": "Maturing Coupon Securities",
+        "C": "Coupon Payments",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2009",
+        "B": "2010",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which date has the highest total outflows?",
+        "A": "February 15,2010",
+        "B": "March 15,2010",
+        "C": "April 15, 2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which date has the highest maturing coupon securities?",
+        "A": "February 15,2010",
+        "B": "March 15,2010",
+        "C": "April 15, 2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which date has the highest total outflows?",
+        "A": "February 15,2010",
+        "B": "March 15,2010",
+        "C": "April 15, 2010",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

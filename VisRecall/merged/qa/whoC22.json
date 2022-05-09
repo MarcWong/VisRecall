@@ -1,0 +1,49 @@
+{
+    "name": "whoC22.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Burden of leishmaniasis, by WHO region",
+        "B": "Burden of rabies, by WHO region",
+        "C": "Burden of tuberculosis, by WHO region",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2007",
+        "B": "2008",
+        "C": "2009",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which region has the highest value?",
+        "A": "Africa",
+        "B": "Eastern Mediterranean",
+        "C": "South-East Asia",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which region has the second highest value?",
+        "A": "Africa",
+        "B": "Eastern Mediterranean",
+        "C": "South-East Asia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Which color is used to represent the region with the highest value?",
+        "A": "Deep Blue",
+        "B": "Light Blue",
+        "C": "Grey",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

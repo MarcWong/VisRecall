@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_244.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of the visualization?",
+        "A": "Historic Stockmarket Returns",
+        "B": "Home-Loan Hiatus",
+        "C": "Three-month LIBOR",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What is the first period listed in the visualization?",
+        "A": "1910-1914",
+        "B": "1914-1918",
+        "C": "1919-1928",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "What is the latest period listed in the visualization",
+        "A": "2008",
+        "B": "2005",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the largest stockmarket return in the visualization?",
+        "A": "Japan",
+        "B": "United States",
+        "C": "Germany",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "During Which period the stockmarket return is the lowest for World??",
+        "A": "1914-1918, First world war",
+        "B": "1929-1931, Wall Street crash",
+        "C": "1939-1948, Second world war and aftermath",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

@@ -1,0 +1,49 @@
+{
+  "name": "economist_daily_chart_420.png",
+  "vistype": "scatter", 
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Deaths due to increased Bool pressure",
+    "B": "Deaths due to type 2 diabetes",
+    "C": "Traffic cameras and road deaths",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2001-2005",
+    "B": "2005-2009",
+    "C": "2009-2013",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which country has the highest value of deaths?",
+    "A": "Spain",
+    "B": "Slovenia",
+    "C": "Ukraine",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which country has the highest number of cameras?",
+    "A": "Cyprus",
+    "B": "Britain",
+    "C": "Estonia",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "How many deaths are there in Ukraine?",
+    "A": "Around 50-60",
+    "B": "Around 40-50",
+    "C": "Around 30-40",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

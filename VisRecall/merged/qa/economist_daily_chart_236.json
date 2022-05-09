@@ -1,0 +1,49 @@
+{
+  "name": "economist_daily_chart_236.png",
+  "vistype": "line",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Real Average after-tax income in US",
+    "B": "Real Average after-tax income in Germany",
+    "C": "Real Average after-tax income in Europe",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "1979-2007",
+    "B": "1989-2005",
+    "C": "1995-2005",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q3": {
+    "type": "4",
+    "question": "How many times did the recession occur?",
+    "A": "1",
+    "B": "2",
+    "C": "4",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "3",
+    "question": "In what range does Top 1 percent be around 2005-2007?",
+    "A": "Around 250-300",
+    "B": "Around 350-400",
+    "C": "Around 450-500",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "In what range does 21st to 80th percentiles be around 1990-2000?",
+    "A": "Around 100-150",
+    "B": "Around 150-200",
+    "C": "Around 200-250",
+    "D": "I can not remember",
+    "answer": "A"
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "whoJ38_2.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Comparing donor commitments on Sanitation and drinking-water",
+        "B": "Comparing private commitments on Sanitation and drinking-water",
+        "C": "Comparing public commitments on Sanitation and drinking-water",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "3",
+        "question": "What is the percentage of aid commitments for sanitation in the visualization?",
+        "A": "30%",
+        "B": "34%",
+        "C": "40%",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What is maximum percentage of aid is allocated?",
+        "A": "More than 75%",
+        "B": "More than 65%",
+        "C": "More than 80%",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "What does the blue represent for?",
+        "A": "Drinking-water",
+        "B": "Sanitation",
+        "C": "AEDs",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which year's data is seen in the visualization?",
+        "A": "2008",
+        "B": "2005 and 2006",
+        "C": "2011 and 2012",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "wsj135.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Home-Loan Hiatus",
+        "B": "In the Mix",
+        "C": "Historic stockmarket returns",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "3",
+        "question": "What does the green bar graph indicate?",
+        "A": "Home purchase",
+        "B": "Refinance",
+        "C": "Housing Market",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What does the orange bar graph indicate?",
+        "A": "Refinance",
+        "B": "Housing Market",
+        "C": "Home purchase",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "In which year does the highest Refinance value appear?",
+        "A": "2003",
+        "B": "2006",
+        "C": "2009",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the value of Home purchase of the most recent year(2011)?",
+        "A": "2.4 million",
+        "B": "3.2 million",
+        "C": "4.3 million",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

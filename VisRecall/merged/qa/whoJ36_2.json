@@ -1,0 +1,49 @@
+{
+    "name": "whoJ36_2.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this figure?",
+        "A": "Trends in sanitation and water aid commitments for fragile or conflict-affected states, 2004-2010",
+        "B": "Trends in sanitation and food aid commitments for fragile or conflict-affected states, 2004-2010",
+        "C": "Trends in sanitation and tent aid commitments for fragile or conflict-affected states, 2004-2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "3",
+        "question": "What percentage of water and sanitation first aid in 2004?",
+        "A": "5%",
+        "B": "7%",
+        "C": "9%",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "3",
+        "question": "What percentage of water and sanitation first aid in 2010?",
+        "A": "5%",
+        "B": "7%",
+        "C": "11%",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "In which year was the highest first aid commitment value?",
+        "A": "2008",
+        "B": "2009",
+        "C": "2004",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "When was the data source published",
+        "A": "2004",
+        "B": "2010",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

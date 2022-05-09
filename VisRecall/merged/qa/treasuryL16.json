@@ -1,0 +1,50 @@
+{
+    "name": "treasuryL16.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the main topic of the visualization?",
+        "A": "Critical technology transactions by region within different industry sectors",
+        "B": "Critical technology spendings by region within different industry sectors",
+        "C": "Critical technology earnings by Region within different industry sectors",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year were the data collected?",
+        "A": "2012",
+        "B": "2013",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which region has the highest number of critical technology transactions in most sectors?",
+        "A": "Europe(excluding Russia)",
+        "B": "East Asia",
+        "C": "Canada, Australia & New Zealand",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which sector has the highest number of critical technology transactions?",
+        "A": "Electronics",
+        "B": "Information Technology",
+        "C": "Machinery & Equipment",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which sector has the lowest number of critical technology transactions?",
+        "A": "Metals & Mining",
+        "B": "Aerospace & Defence",
+        "C": "Pharma & Biotech",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

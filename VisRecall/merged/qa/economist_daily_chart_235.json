@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_235.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Government bond yields",
+        "B": "Government Property yields",
+        "C": "Government fund yields",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which period of data does this visualization show?",
+        "A": "2009-2010",
+        "B": "2010-2011",
+        "C": "2011-2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest yields during this period?",
+        "A": "Greece",
+        "B": "Italy",
+        "C": "France",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest yields during this period?",
+        "A": "Greece",
+        "B": "Italy",
+        "C": "France",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What are the highest yields in Greece during this period?",
+        "A": "Around 5%",
+        "B": "Around 15%",
+        "C": "Around 25%",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

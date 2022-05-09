@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_127.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Tourism and GDP",
+        "B": "Foreign exchange reserves and GDP",
+        "C": "Military spending and GDP",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2001-2010",
+        "B": "2002-2010",
+        "C": "2002-2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the biggest GDP growth in this period?",
+        "A": "China",
+        "B": "Angola",
+        "C": "Ethiopia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the biggest Military spending growth in this period?",
+        "A": "Ecuador",
+        "B": "Kazakhstan",
+        "C": "Armenia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Which country has a negative growth in military spending?",
+        "A": "Italy",
+        "B": "Canada",
+        "C": "Singapore",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

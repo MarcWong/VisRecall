@@ -1,0 +1,49 @@
+{
+  "name": "1_WnR3D8lP-2AK6XsHM74Q==.0.png",
+  "vistype": "line",
+    "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "House Prices trend Forecast in US",
+    "B": "House proces trend Forecast in Europe",
+    "C": "House prices tredn Forecast in Germany",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2003-2013",
+    "B": "2003-2011",
+    "C": "2003-2012",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q3": {
+    "type": "2",
+    "question": "Which year has the highest value?",
+    "A": "2012-2013",
+    "B": "2009-2010",
+    "C": "2006-2007",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "3",
+    "question": "By how much percent are the house prices forecasted to rise by Early 2016?",
+    "A": "10",
+    "B": "30",
+    "C": "50",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "2",
+    "question": "What is the name of the organization that prepared the forecasting prices?",
+    "A": "MarketOracle.co.de",
+    "B": "MarketOracle.co.uk",
+    "C": "MarketOracle.co.us",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

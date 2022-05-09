@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_319.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Developed-market overheating index",
+        "B": "Emerging-market overheating index",
+        "C": "Developed-market economic recession index",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "1",
+        "question": "Which country has the highest overheating index?",
+        "A": "Argentina",
+        "B": "Brazil",
+        "C": "Singapore",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the lowest overheating index?",
+        "A": "Saudi Arabia",
+        "B": "Malaysia",
+        "C": "Hungary",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "What is the minimum value of economic index in this visualization?",
+        "A": "Less than 10",
+        "B": "10-20",
+        "C": "20-30",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Which country doesn't appear in this visualization?",
+        "A": "China",
+        "B": "Russia",
+        "C": "US",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

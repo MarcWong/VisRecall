@@ -1,0 +1,49 @@
+{
+    "name": "whoB36_1.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "HIV prevalence in women aged 15-49 years",
+        "B": "Public opinion on austerity",
+        "C": "Mortality rates due to cardiovascular diseases",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What is the scale of Y-axis?",
+        "A": "Rates per 1 000 women",
+        "B": "Rates per 10 000 women",
+        "C": "Rates per 100 000 women",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What is the highest rates ranged in?",
+        "A": "12-14 per 100 000 women",
+        "B": "14-16 per 100 000 women",
+        "C": "16-18 per 100 000 women",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the highest rates in the visualization?",
+        "A": "USA",
+        "B": "Sweden",
+        "C": "France",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which country has the lowest rates in the visualization?",
+        "A": "Sweden",
+        "B": "France",
+        "C": "Canada",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

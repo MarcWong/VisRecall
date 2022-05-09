@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_218.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "US troops abroad",
+        "B": "North America troops abroad",
+        "C": "America troops abroad",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What years' data is displayed in this visualization?",
+        "A": "1900-2011",
+        "B": "1920-2011",
+        "C": "1950-2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "Which region is displayed in deep green?",
+        "A": "Americas",
+        "B": "East Asia",
+        "C": "Middle East",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "Which region is displayed in blue?",
+        "A": "Americas",
+        "B": "East Asia",
+        "C": "Middle East",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "What is the range of Y-axis?",
+        "A": "0-1.0",
+        "B": "0-1.1",
+        "C": "0-1.2",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

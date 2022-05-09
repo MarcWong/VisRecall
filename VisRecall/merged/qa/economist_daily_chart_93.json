@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_93.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Retirement ranked by life expectancy at effective retirement age in 2010, men, years",
+        "B": "Retirement ranked by GDP at effective retirement age in 2010, men, years",
+        "C": "Retirement ranked by alphabetical order at effective retirement age in 2010, men, years",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is compared with 2010's data in this visualization?",
+        "A": "1970",
+        "B": "1980",
+        "C": "1990",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the largest effective retirement age in 2010?",
+        "A": "Ireland",
+        "B": "Poland",
+        "C": "Switzerland",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the smallest official retirement age in 2010?",
+        "A": "Italy",
+        "B": "Australia",
+        "C": "Greece",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the range of year in this visualization?",
+        "A": "60-90",
+        "B": "55-90",
+        "C": "50-90",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

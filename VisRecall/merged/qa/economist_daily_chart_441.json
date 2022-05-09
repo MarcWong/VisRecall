@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_441.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Adult and youth unemployment as % of labour force",
+        "B": "Adult and youth unemployment as % of labour wage",
+        "C": "Adult and youth unemployment as % of labour market ",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which year is seen in the visualization?",
+        "A": "2011",
+        "B": "2010",
+        "C": "2015",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest unemployment rank?",
+        "A": "Spain",
+        "B": "Estonia",
+        "C": "Slovakia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which years has the lowest unemployment rank?",
+        "A": "Germany",
+        "B": "Austria",
+        "C": "Switzerland",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What age interval is considered as Adult?",
+        "A": "Aged around 25 - 54",
+        "B": "Aged around 20 - 50",
+        "C": "Aged around 25 - 40",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

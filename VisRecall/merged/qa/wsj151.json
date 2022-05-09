@@ -1,0 +1,49 @@
+{
+  "name": "wsj151.png",
+  "vistype": "other",
+  "Q1": {
+    "type": "0",
+    "question": "What is the title of this visualization?",
+    "A": "Global Slowdown",
+    "B": "Slow but Steady",
+    "C": "Balancing Act",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "3",
+    "question": "How many share of global gross domestic product does Euro area has?",
+    "A": "11%",
+    "B": "18%",
+    "C": "22%",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which country has the biggest growth in gross domestic product in 2012?",
+    "A": "U.S.",
+    "B": "Euro area",
+    "C": "China",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "2",
+    "question": "What is the correct ordering of growth in gross domestic product in 2012?(From highest to lowest)",
+    "A": "China, World, Euro area, U.S.",
+    "B": "China, Euro area, World, U.S.",
+    "C": "China, World, U.S., Euro area",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q5": {
+    "type": "2",
+    "question": "What this the source of the visualization?",
+    "A": "SIPRI",
+    "B": "Wall Street Journal",
+    "C": "European Commission",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

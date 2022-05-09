@@ -1,0 +1,49 @@
+{
+  "name": "economist_daily_chart_206.png",
+  "vistype": "other",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Energy in Czech Republic",
+    "B": "Energy in Germany",
+    "C": "Energy in United states of america",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "1990-2009",
+    "B": "1999-2009",
+    "C": "1990-2010",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q3": {
+    "type": "3",
+    "question": "By what percentage did coal production drop by during 1990-2010 in Czech?",
+    "A": "51",
+    "B": "21",
+    "C": "38",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which country has the highest drop in coal production during 1990-2010 in percentage?",
+    "A": "Czech republic",
+    "B": "Australia",
+    "C": "Turkey",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q5": {
+    "type": "1",
+    "question": "which is the largest source of electricity production in Greece?",
+    "A": "Nuclear",
+    "B": "Coal",
+    "C": "Oil and gas",
+    "D": "I can not remember",
+    "answer": "C"
+  }
+}

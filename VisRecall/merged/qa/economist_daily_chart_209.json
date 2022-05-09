@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_209.png",
+    "vistype": "line",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It shows the worker acitivty of different countries",
+        "B": "It shows the sales activity of different countries",
+        "C": "It shows the manufacturing activity of different countries",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "question": "Which metric is used for the visualization?",
+		"type": "2",
+        "A": "Employee hiring rate",
+        "B": "Number of employees",
+        "C": "Purchasing manager index",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "What period of data does this visualization show?",
+		"type": "2",
+        "A": "2008-2011",
+        "B": "2007-2012",
+        "C": "2009-2013",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "question": "Which value does the horizonal red line indicate?",
+		"type": "3",
+        "A": "50",
+        "B": "100",
+        "C": "75",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "Whats the lowest purchasing manager index achieved?",
+		"type": "1",
+        "A": "around 20",
+        "B": "around 30",
+        "C": "around 25",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

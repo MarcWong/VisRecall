@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_184.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Ageing of population",
+        "B": "Urbanisation",
+        "C": "Population growth",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1950-2010",
+        "B": "1950-2045",
+        "C": "1950-2030",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "By 2045, which area is expected to have the highest level of urbanization?",
+        "A": "US",
+        "B": "Western Europe",
+        "C": "Brazil",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which area had the lowest level of urbanization in 1950?",
+        "A": "China",
+        "B": "India",
+        "C": "South-East Asia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "What percentage of Indians are expected to live in urban areas by 2045?",
+        "A": "About 50%",
+        "B": "About 60%",
+        "C": "About 70%",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

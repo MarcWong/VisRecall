@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_267.png",
+    "vistype": "other",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "The Chinese biggest employers",
+        "B": "The world's biggest employers",
+        "C": "The American biggest employers",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2000",
+        "C": "2020",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which one is the biggest employer in this visualization?",
+        "A": "US Department of Defence",
+        "B": "Walmart",
+        "C": "McDonald's",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which of the following companies has the least employees in this visualization?",
+        "A": "Chinese People's Liberation Army",
+        "B": "State Grid Corporation of China",
+        "C": "Hon Hai Precision Industry",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "How many employees does Walmart have?",
+        "A": "Around 1 million",
+        "B": "Around 1.5 million",
+        "C": "Around 2 million",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

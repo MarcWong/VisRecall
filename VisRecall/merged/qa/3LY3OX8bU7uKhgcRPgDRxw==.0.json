@@ -1,0 +1,49 @@
+{
+    "name": "3LY3OX8bU7uKhgcRPgDRxw==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Geothermal power total installed costs by project, technology and capacity",
+        "B": "Wind power total installed costs by project, technology and capacity",
+        "C": "Thermal power total installed costs by project, technology and capacity",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2008-2013",
+        "B": "2007-2020",
+        "C": "2012-2033",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which type of data has the highest value?",
+        "A": "Binary",
+        "B": "Flash types",
+        "C": "Enhanced geothermal",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which type of data has the lowest value?",
+        "A": "Binary",
+        "B": "Flash types",
+        "C": "Enhanced geothermal",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Where does the data source come from?",
+        "A": "IRENA Renewable Cost Database and Global Data, 2016",
+        "B": "IRENA Renewable price Database and local Data, 2016",
+        "C": "Arena Renewable Cost Database and Global Data, 2020",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

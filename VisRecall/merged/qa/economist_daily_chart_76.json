@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_76.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the main topic of the visualization?",
+        "A": "Historic stockmarket returns",
+        "B": "Football wage costs",
+        "C": "Three-month LIBOR",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "When does the peak of JPMorgan Chase LIBOR rate appears?",
+        "A": "September 1st - October 1st",
+        "B": "October 1st - November 1st",
+        "C": "November 1st - December 1st",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which one has the highest LIBOR rate?",
+        "A": "Barclays",
+        "B": "JPMorgan Chase",
+        "C": "Official rate",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which event is not appeared in the visualization?",
+        "A": "LEHMAN BROTHERS COLLAPES",
+        "B": "BARCLAYS CONTACT WITH BANK OF ENDLAND",
+        "C": "JPMORGAN CHASE CONTACT WITH BANK OF ENGLAND",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the range of highest LIBOR rate in the visualization?",
+        "A": "5.0-5.5",
+        "B": "4.5-5.0",
+        "C": "4.0-4.5",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

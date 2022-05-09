@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_257.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Democracy and inequality between the sexes",
+        "B": "Democracy and equality between the sexes",
+        "C": "Democracy and inequality between the youth and senior",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "What area does the green circle represent?",
+        "A": "Western Europe",
+        "B": "Americas",
+        "C": "Asia & Oceania",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the highest UN gender-inequality index?",
+        "A": "UAE",
+        "B": "Yemen",
+        "C": "Russia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the highest EIU democracy index?",
+        "A": "Cuba",
+        "B": "Japan",
+        "C": "Norway",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

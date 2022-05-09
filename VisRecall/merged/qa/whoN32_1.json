@@ -1,0 +1,50 @@
+{
+    "name": "whoN32_1.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Blood lipid concentration limits for young novice drivers",
+        "B": "Blood glucose concentration limits for young novice drivers",
+        "C": "Blood alcohol concentration limits for young novice drivers",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2004",
+        "B": "2008",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "At which concentration has the largest number of countries?",
+        "A": "0.05 and 0.08",
+        "B": "0.06 and 0.10",
+        "C": "0.00 and 0.02",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "At which concentration has the smallest number of countries?",
+        "A": "0.05 and 0.08",
+        "B": "0.01 and 0.06",
+        "C": "0.00 and 0.02",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Approximately how many countries have blood alcohol concentration limits for young drivers of 0?",
+        "A": "22",
+        "B": "42",
+        "C": "52",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

@@ -1,0 +1,49 @@
+{
+    "name": "whoB10_1.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Share of women in the health workforce, selected countries",
+        "B": "Share of men in the health workforce, selected countries",
+        "C": "Share of women in the digital workforce, selected countries",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1989-2007",
+        "B": "1989-1997",
+        "C": "1994-1997",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest value?",
+        "A": "Russian Federation",
+        "B": "Uganda",
+        "C": "Hungary",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest value?",
+        "A": "Germany",
+        "B": "Cambodia",
+        "C": "Thailand",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "In Thailand, what percentage of women are in the health workforce?",
+        "A": "50%",
+        "B": "75%",
+        "C": "100%",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

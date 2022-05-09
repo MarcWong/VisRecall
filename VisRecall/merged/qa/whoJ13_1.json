@@ -1,0 +1,49 @@
+{
+    "name": "whoJ13_1.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0", 
+        "question": "What is the theme of this visualization?",
+        "A": "Contribution of household tariffs (and costs associated with self-supply)",
+        "B": "Contribution of industry tariffs (and costs associated with self-supply)",
+        "C": "Contribution of tourism tariffs (and costs associated with self-supply)",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest values in both columns?",
+        "A": "Lesotho",
+        "B": "Thailand",
+        "C": "Iran (Islamic Rebulic of)",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the lowest values in both columns?",
+        "A": "Lesotho",
+        "B": "Thailand",
+        "C": "Iran (Islamic Rebulic of)",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which country has not available data?",
+        "A": "Lesotho",
+        "B": "Thailand",
+        "C": "Iran (Islamic Rebulic of)",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

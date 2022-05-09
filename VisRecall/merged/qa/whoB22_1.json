@@ -1,0 +1,50 @@
+{
+    "name": "whoB22_1.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Deaths in animals attributable to six leading risk factors",
+        "B": "Deaths in men attributable to six leading risk factors",
+        "C": "Deaths in women attributable to six leading risk factors",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2004",
+        "B": "2005",
+        "C": "2006",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which factor accounts for the largest percentage of deaths among the world?",
+        "A": "Unmet contraceptive need",
+        "B": "Unsafe sex",
+        "C": "Alcohol use",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which factor accounts for the largest percentage of deaths among the high-income countries?",
+        "A": "Unmet contraceptive need",
+        "B": "Unsafe sex",
+        "C": "Alcohol use",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "In the countries at which income level Tobacco use brings about higher percentage of deaths?",
+        "A": "Low-income countries",
+        "B": "Middle-income countries",
+        "C": "High-income countries",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

@@ -1,0 +1,49 @@
+{
+    "name": "treasuryL01.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Covered Transactions, Withdrawals, and Presidential Decisions, 2009-2011",
+        "B": "Covered Transactions by Sector and Year, 2009-2011",
+        "C": "Homeowner's HOPE Hotline Volume",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "1",
+        "question": "Which year has the highest Number of Notices?",
+        "A": "2009",
+        "B": "2010",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which year has the highest Notices Withdrawn During Review?",
+        "A": "2009",
+        "B": "2010",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which kind of transactions, withdrawals, or presidential decisions has the largest number in total?",
+        "A": "Number of Notices",
+        "B": "Notices Withdrawn During Review",
+        "C": "Number of Investigations",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which kind of transactions, withdrawals, or presidential decisions has the lowest number in total?",
+        "A": "Number of Investigations",
+        "B": "Presidential Decisions",
+        "C": "Notices Withdrawn During Investigations",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

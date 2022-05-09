@@ -1,0 +1,49 @@
+{
+    "name": "whoN19_1.png",
+    "vistype": "bar",
+    "Q1": {
+        "question": "What is the theme of this table?",
+		"type": "0",
+        "A": "C-Annual blood examination rate",
+        "B": "Alcolhol-attrubutable death",
+        "C": "Child mortality",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "question": "In what year was this data gathered?",
+		"type": "2",
+        "A": "2000",
+        "B": "2002",
+        "C": "2004",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "Which income group has the highest death rate?",
+		"type": "1",
+        "A": "High income",
+        "B": "Upper middle income",
+        "C": "Lower middle income",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "question": "Which income group has the lowest death rate?",
+		"type": "1",
+        "A": "High income",
+        "B": "Upper middle income",
+        "C": "Lower middle income",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "How many deaths per million does the Upper middle income group have?",
+		"type": "3",
+        "A": "Around 700",
+        "B": "Around 800",
+        "C": "Around 900",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

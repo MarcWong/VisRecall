@@ -1,0 +1,49 @@
+{
+    "name": "treasuryB06.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "The crisis response helped stabilize the housing market",
+        "B": "The crisis response helped stabilize the car market",
+        "C": "The crisis response helped stabilize the stock market",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "How does the conventional mortgage rates change in the figure?",
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain stable",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "What program helped the borrowers to stay in their home?",
+        "A": "Loan modification programs",
+        "B": "Mortgage modification programs",
+        "C": "Finace modification programs",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "How many permanent loan modifications have been there since April 2009?",
+        "A": "2.6 million",
+        "B": "5 million",
+        "C": "6.5 million",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Where is the data from?",
+        "A": "U.S Department of the Treasury",
+        "B": "U.S Department of Housing and Urban Development",
+        "C": "U.S Depratment of Commerce",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

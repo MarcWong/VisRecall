@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_531.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Commodity prices for the year 2009 and 2010",
+        "B": "Commodity prices for the year 2020 and 2021",
+        "C": "Commodity prices for 2009",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What are the commodities seen in the visualization?",
+        "A": "Coffee and Lemon juice",
+        "B": "Tea and Coffee",
+        "C": "Coffee, Orange juice and Wheat",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which commodity has recorded the highest price?",
+        "A": "Wheat",
+        "B": "Tea",
+        "C": "Orange juice",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has recorded the lowest price?",
+        "A": "Wheat",
+        "B": "Orange juice",
+        "C": "Tea",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What interval values does the visualization show?",
+        "A": "60 to 100",
+        "B": "60 to 150",
+        "C": "60 to 600",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

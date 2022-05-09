@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_137.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Wildfire",
+        "B": "Tree planting",
+        "C": "Paper consumption",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "3",
+        "question": "What is the height of trees in the visualization?",
+        "A": "40-foot trees",
+        "B": "42-foot trees",
+        "C": "44-foot trees",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country consumes the most 40-foot trees per person?",
+        "A": "Belgium",
+        "B": "Austria",
+        "C": "Finland",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country consumes the fewest 40-foot trees per person?",
+        "A": "China",
+        "B": "India",
+        "C": "Azerbaijian",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which country is not in the visualization?",
+        "A": "Switzerland",
+        "B": "Norway",
+        "C": "Portugal",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

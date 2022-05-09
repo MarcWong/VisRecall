@@ -1,0 +1,50 @@
+{
+    "name": "whoB08_1.png",
+    "vistype": "pie",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Distribution of those who usually collect water in 15 developing countries",
+        "B": "Distribution of those who usually collect water in 15 developed countries",
+        "C": "Distribution of those who usually collect water in 15 underdeveloped countries",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2005-2006",
+        "B": "2006-2007",
+        "C": "2007-2008",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "Who usually goes to collect water than others?",
+        "A": "Women",
+        "B": "Men",
+        "C": "Boys",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "What is the percentage of Men?",
+        "A": "25%",
+        "B": "64%",
+        "C": "4%",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "What is the percentage of Girls?",
+        "A": "25%",
+        "B": "4%",
+        "C": "7%",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

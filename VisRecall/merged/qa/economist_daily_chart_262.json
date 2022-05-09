@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_262.png",
+    "vistype": "table",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Excess female deaths",
+        "B": "Excess male deaths",
+        "C": "Excess human deaths",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2008",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest number of female deaths between the ages of 5-14?",
+        "A": "Sub-Saharan Africa",
+        "B": "India",
+        "C": "South Asia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest number of female deaths between the ages of 15-49?",
+        "A": "China",
+        "B": "Europe and Central Asia",
+        "C": "Latin America and the Caribbean",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the lowest number of female deaths under 60?",
+        "A": "Europe and Central Asia",
+        "B": "India",
+        "C": "Latin America and the Caribbean",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_250.png",
+    "vistype": "bar",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It shows nobel prices in chemistry",
+        "B": "It shows nobel prices in physics",
+        "C": "It shows nobel prices in mathematics",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "What is the first decade the visualization reports?",
+		"type": "2",
+        "A": "1910",
+        "B": "1890",
+        "C": "1900",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "question": "Which sub-discipline is always shown on the bottom of each bar?",
+		"type": "3",
+        "A": "Organic",
+        "B": "Biological",
+        "C": "Physical",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "How many nobel prizes are awarded at most each decade?",
+		"type": "2",
+        "A": "10",
+        "B": "20",
+        "C": "5",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "Which sub-discipline is awarded the least amount of nobel prized on average?",
+		"type": "1",
+        "A": "Biological",
+        "B": "Organic",
+        "C": "Physical",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

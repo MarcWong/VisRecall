@@ -1,0 +1,50 @@
+{
+    "name": "wsj593.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Top10 EU countries in terms of travel and tourism contribution to GDP",
+        "B": "Top10 EU countries in terms of manufacturing contribution to GDP",
+        "C": "Top10 EU countries in terms of agriculture contribution to GDP",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest value?",
+        "A": "Spain",
+        "B": "Slovenia",
+        "C": "Malta",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest value?",
+        "A": "Cyprus",
+        "B": "Hungary",
+        "C": "Estonia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Which country's data has a different color from other countries?",
+        "A": "Spain",
+        "B": "Hungary",
+        "C": "Greece",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

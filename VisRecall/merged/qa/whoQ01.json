@@ -1,0 +1,49 @@
+{
+    "name": "whoQ01.png",
+    "vistype": "table",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of the visualization?",
+        "A": "C-Annual blood examination rate, 2007-2011",
+        "B": "Alcohol-attribute deaths per million inhabitants by income group and the world, 2004",
+        "C": "Percentage of reporting forms received by month and by WHO region, 2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which region is not included in this visualization?",
+        "A": "Region of the Americas",
+        "B": "Middle-East Asia",
+        "C": "South-East Asia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "Which region only has two data entries(September and October)?",
+        "A": "South-East Asia",
+        "B": "African",
+        "C": "European",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which region has the lowest number of Total coundtries/areas in this visualization?",
+        "A": "European",
+        "B": "African",
+        "C": "Western pacific",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which month has the highest number of percentage of reporting forms received by WHO Region?",
+        "A": "June",
+        "B": "August",
+        "C": "October",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

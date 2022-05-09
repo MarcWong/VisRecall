@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_189.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Executive growth in FTSE 350 companies",
+        "B": "Executive skillset in FTSE 350 companies",
+        "C": "Executive pay and performance in FTSE 350 Companies",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What does the light blue represent?",
+        "A": "performance",
+        "B": "pay",
+        "C": "earnings",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which category has the maximum value?",
+        "A": "Bonus",
+        "B": "Long-term incentive plan",
+        "C": "Total earnings",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which category has the minimum value?",
+        "A": "Earnings per share",
+        "B": "Year-end share price",
+        "C": "Pre-tax profit",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the name of the country used in visualization?",
+        "A": "Kenya",
+        "B": "Ghana",
+        "C": "Cabo Verde",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

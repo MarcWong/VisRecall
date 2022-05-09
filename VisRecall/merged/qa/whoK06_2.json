@@ -1,0 +1,49 @@
+{
+    "name": "whoK06_2.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Ten countries with the largest population without access to a stable internet access",
+        "B": "Ten countries with the largest population without access to an improved electrical system",
+        "C": "Ten countries with the largest population without access to an improved drinking water source",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2000",
+        "B": "2010",
+        "C": "2020",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which of the following countries accounts for the highest proportion?",
+        "A": "China",
+        "B": "India",
+        "C": "Nigeria",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which of the following countries accounts for the lowest proportion?",
+        "A": "Bangladesh",
+        "B": "Sudan",
+        "C": "Kenya",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What's the population in the rest of the world without improved drinking water source?",
+        "A": "97",
+        "B": "119",
+        "C": "292",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

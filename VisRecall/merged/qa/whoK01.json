@@ -1,0 +1,49 @@
+{
+    "name": "whoK01.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "1",
+        "question": "What is the theme of this visualization?",
+        "A": "Trends in global forest coverage",
+        "B": "Trends in global sea water coverage",
+        "C": "Trends in global drinking water coverage",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which period of data does this visualization show?",
+        "A": "1990-2000",
+        "B": "1990-2005",
+        "C": "1990-2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "4",
+        "question": "What are the trends of coverage over this period?",
+        "A": "lower",
+        "B": "higher",
+        "C": "fast constant",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "2",
+        "question": "Which year is projected in this visualization?",
+        "A": "2013",
+        "B": "2014",
+        "C": "2015",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "In which year has the MDG target been met?",
+        "A": "2000",
+        "B": "2005",
+        "C": "2010",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

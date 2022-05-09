@@ -1,0 +1,50 @@
+{
+    "name": "whoB26_1.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What does the visualization illustrate",
+        "A": "Incidence rates of COVID-19 infections",
+        "B": "Incidence rates of HIV infections",
+        "C": "Incidence rate of cervical cancer",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year was the data collected?",
+        "A": "2003",
+        "B": "2004",
+        "C": "2014",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What is the highest incidence rate in this visualization?",
+        "A": "30 to <50",
+        "B": "50 to <100",
+        "C": "20 to <30",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which continent is the least affected?",
+        "A": "Europe",
+        "B": "North America",
+        "C": "Oceania",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "How many colors were used in the legend?",
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_162.png",
+    "vistype": "line",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It shows the number of smartphones shipped per year",
+        "B": "It shows the number of server devices shipped per year",
+        "C": "It shows the number of personal computer devices shipped per year",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "question": "What type of phone was sold the most within a year?",
+		"type": "2",
+        "A": "Nokia",
+        "B": "Android",
+        "C": "iPhone",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "question": "What period of data does this visualization show?",
+		"type": "3",
+        "A": "1975-2011",
+        "B": "1985-2010",
+        "C": "1980-2012",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "question": "What is the most selling group of devices every year since 1985?",
+		"type": "1",
+        "A": "Android phones",
+        "B": "Macintosh",
+        "C": "PC total",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "question": "What is the source of the data?",
+		"type": "3",
+        "A": "Brantico",
+        "B": "Asymco",
+        "C": "Asyntra",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

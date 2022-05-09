@@ -1,0 +1,49 @@
+{
+    "name": "whoJ24_2.png",
+    "vistype": "pie",
+    "Q1": {
+        "question": "Which infrastructure is discussed in this figure?",
+		"type": "3",
+        "A": "Sanitation",
+        "B": "Healthcare buildings",
+        "C": "Roads",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "Which living area is mentioned in this chart?",
+		"type": "3",
+        "A": "Cities",
+        "B": "Suburbs",
+        "C": "Rural areas",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "What percentage of respondent countries find the supply of skilled labour and technicians adequately developed to meet needs in rural sanitation?",
+		"type": "3",
+        "A": "68%",
+        "B": "20%",
+        "C": "18%",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "question": "How many countries responded to the survey?",
+		"type": "2",
+        "A": "73",
+        "B": "68",
+        "C": "18",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "In what year was the survey publicized?",
+		"type": "2",
+        "A": "2011",
+        "B": "1973",
+        "C": "2021",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

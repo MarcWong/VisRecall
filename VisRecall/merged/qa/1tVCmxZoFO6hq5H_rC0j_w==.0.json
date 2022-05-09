@@ -1,0 +1,49 @@
+{
+    "name": "1tVCmxZoFO6hq5H_rC0j_w==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Changes in employment rate 65-69 with material deprivation in different regions",
+        "B": "Comparison of employment rate of different regions",
+        "C": "Comparison of the material deprivation of different regions",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "1",
+        "question": "Which country has the most material deprivation?",
+        "A": "Bulgaria",
+        "B": "Romania",
+        "C": "Latvia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the least material deprivation?",
+        "A": "Spain",
+        "B": "Belgium",
+        "C": "Luxembourg",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the highest employment rate 65-69?",
+        "A": "Romania",
+        "B": "Poland",
+        "C": "Portugal",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the lowest employment rate 65-69?",
+        "A": "Bulgaria",
+        "B": "France",
+        "C": "Slovakia",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

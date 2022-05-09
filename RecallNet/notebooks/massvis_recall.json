@@ -1,0 +1,1747 @@
+{
+    "economist_daily_chart_103.png": {
+        "expert_score": "1.4",
+        "mean_prediction": "0.6526242",
+        "type0_prediction": "0.7693369"
+    },
+    "economist_daily_chart_106.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.59069777",
+        "type0_prediction": "0.6385198"
+    },
+    "economist_daily_chart_110.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.62736744",
+        "type0_prediction": "0.7389466"
+    },
+    "economist_daily_chart_116.png": {
+        "expert_score": "2.125",
+        "mean_prediction": "0.6193146",
+        "type0_prediction": "0.7434572"
+    },
+    "economist_daily_chart_124.png": {
+        "expert_score": "1.9090909090909092",
+        "mean_prediction": "0.5933149",
+        "type0_prediction": "0.63973683"
+    },
+    "economist_daily_chart_129.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.6148833",
+        "type0_prediction": "0.74162596"
+    },
+    "economist_daily_chart_153.png": {
+        "expert_score": "1.875",
+        "mean_prediction": "0.6188406",
+        "type0_prediction": "0.7405883"
+    },
+    "economist_daily_chart_165.png": {
+        "expert_score": "1.5555555555555556",
+        "mean_prediction": "0.6034341",
+        "type0_prediction": "0.6516661"
+    },
+    "economist_daily_chart_167.png": {
+        "expert_score": "0.8",
+        "mean_prediction": "0.57328755",
+        "type0_prediction": "0.62960786"
+    },
+    "economist_daily_chart_18.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.58709306",
+        "type0_prediction": "0.63950187"
+    },
+    "economist_daily_chart_187.png": {
+        "expert_score": "2.3333333333333335",
+        "mean_prediction": "0.5704299",
+        "type0_prediction": "0.6180464"
+    },
+    "economist_daily_chart_219.png": {
+        "expert_score": "2.4444444444444446",
+        "mean_prediction": "0.6305591",
+        "type0_prediction": "0.747808"
+    },
+    "economist_daily_chart_240.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6195485",
+        "type0_prediction": "0.74439514"
+    },
+    "economist_daily_chart_258.png": {
+        "expert_score": "0.8181818181818182",
+        "mean_prediction": "0.5985512",
+        "type0_prediction": "0.66529727"
+    },
+    "economist_daily_chart_268.png": {
+        "expert_score": "2.6666666666666665",
+        "mean_prediction": "0.6234554",
+        "type0_prediction": "0.7502826"
+    },
+    "economist_daily_chart_317.png": {
+        "expert_score": "2.3",
+        "mean_prediction": "0.6351654",
+        "type0_prediction": "0.7566254"
+    },
+    "economist_daily_chart_324.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6187876",
+        "type0_prediction": "0.75107867"
+    },
+    "economist_daily_chart_35.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.60050285",
+        "type0_prediction": "0.6467935"
+    },
+    "economist_daily_chart_380.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6182935",
+        "type0_prediction": "0.74277675"
+    },
+    "economist_daily_chart_390.png": {
+        "expert_score": "2.3333333333333335",
+        "mean_prediction": "0.63064075",
+        "type0_prediction": "0.7276634"
+    },
+    "economist_daily_chart_392.png": {
+        "expert_score": "1.8571428571428572",
+        "mean_prediction": "0.5887467",
+        "type0_prediction": "0.6759593"
+    },
+    "economist_daily_chart_4.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.59462684",
+        "type0_prediction": "0.63441557"
+    },
+    "economist_daily_chart_406.png": {
+        "expert_score": "2.125",
+        "mean_prediction": "0.6550516",
+        "type0_prediction": "0.75928026"
+    },
+    "economist_daily_chart_416.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6149327",
+        "type0_prediction": "0.7476257"
+    },
+    "economist_daily_chart_430.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6427703",
+        "type0_prediction": "0.76749367"
+    },
+    "economist_daily_chart_439.png": {
+        "expert_score": "1.8",
+        "mean_prediction": "0.5920104",
+        "type0_prediction": "0.63726085"
+    },
+    "economist_daily_chart_449.png": {
+        "expert_score": "0.6",
+        "mean_prediction": "0.588266",
+        "type0_prediction": "0.6461664"
+    },
+    "economist_daily_chart_45.png": {
+        "expert_score": "2.5",
+        "mean_prediction": "0.58956355",
+        "type0_prediction": "0.6502356"
+    },
+    "economist_daily_chart_453.png": {
+        "expert_score": "1.8",
+        "mean_prediction": "0.6530614",
+        "type0_prediction": "0.7663078"
+    },
+    "economist_daily_chart_454.png": {
+        "expert_score": "1.1666666666666667",
+        "mean_prediction": "0.5886583",
+        "type0_prediction": "0.63458115"
+    },
+    "economist_daily_chart_46.png": {
+        "expert_score": "2.3125",
+        "mean_prediction": "0.6491836",
+        "type0_prediction": "0.7552171"
+    },
+    "economist_daily_chart_475.png": {
+        "expert_score": "2.2666666666666666",
+        "mean_prediction": "0.6494352",
+        "type0_prediction": "0.7889371"
+    },
+    "economist_daily_chart_48.png": {
+        "expert_score": "2.1538461538461537",
+        "mean_prediction": "0.6447696",
+        "type0_prediction": "0.74866724"
+    },
+    "economist_daily_chart_490.png": {
+        "expert_score": "2.3333333333333335",
+        "mean_prediction": "0.62032086",
+        "type0_prediction": "0.74888945"
+    },
+    "economist_daily_chart_491.png": {
+        "expert_score": "1.6",
+        "mean_prediction": "0.58728844",
+        "type0_prediction": "0.67988265"
+    },
+    "economist_daily_chart_493.png": {
+        "expert_score": "1.4166666666666667",
+        "mean_prediction": "0.604566",
+        "type0_prediction": "0.6511099"
+    },
+    "economist_daily_chart_5.png": {
+        "expert_score": "1.8",
+        "mean_prediction": "0.6051991",
+        "type0_prediction": "0.6540281"
+    },
+    "economist_daily_chart_516.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.63956916",
+        "type0_prediction": "0.7426005"
+    },
+    "economist_daily_chart_520.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.63794243",
+        "type0_prediction": "0.7655411"
+    },
+    "economist_daily_chart_521.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.61930776",
+        "type0_prediction": "0.748795"
+    },
+    "economist_daily_chart_529.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.61965954",
+        "type0_prediction": "0.7476311"
+    },
+    "economist_daily_chart_53.png": {
+        "expert_score": "2.2857142857142856",
+        "mean_prediction": "0.58391374",
+        "type0_prediction": "0.62906426"
+    },
+    "economist_daily_chart_54.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.5856418",
+        "type0_prediction": "0.6314357"
+    },
+    "economist_daily_chart_66.png": {
+        "expert_score": "1.4285714285714286",
+        "mean_prediction": "0.62004",
+        "type0_prediction": "0.7458705"
+    },
+    "economist_daily_chart_69.png": {
+        "expert_score": "1.2727272727272727",
+        "mean_prediction": "0.6189195",
+        "type0_prediction": "0.7395625"
+    },
+    "economist_daily_chart_75.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6192386",
+        "type0_prediction": "0.7431876"
+    },
+    "economist_daily_chart_85.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.5933921",
+        "type0_prediction": "0.63643104"
+    },
+    "economist_daily_chart_89.png": {
+        "expert_score": "1.4444444444444444",
+        "mean_prediction": "0.6055433",
+        "type0_prediction": "0.62715554"
+    },
+    "economist_daily_chart_99.png": {
+        "expert_score": "1.3076923076923077",
+        "mean_prediction": "0.62124693",
+        "type0_prediction": "0.7462341"
+    },
+    "np_48.png": {
+        "expert_score": "2.142857142857143",
+        "mean_prediction": "0.6048413",
+        "type0_prediction": "0.6320703"
+    },
+    "treasuryA10.png": {
+        "expert_score": "1.6",
+        "mean_prediction": "0.5820331",
+        "type0_prediction": "0.6583815"
+    },
+    "treasuryB04.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.572775",
+        "type0_prediction": "0.63626003"
+    },
+    "treasuryB10.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.5979424",
+        "type0_prediction": "0.6525191"
+    },
+    "treasuryB15.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.59685946",
+        "type0_prediction": "0.648544"
+    },
+    "treasuryD04_3.png": {
+        "expert_score": "0.6666666666666666",
+        "mean_prediction": "0.60225445",
+        "type0_prediction": "0.67117304"
+    },
+    "treasuryD05_1.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.6043305",
+        "type0_prediction": "0.6115132"
+    },
+    "treasuryD08.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6145445",
+        "type0_prediction": "0.6811003"
+    },
+    "treasuryG02_2.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.59302926",
+        "type0_prediction": "0.6767729"
+    },
+    "treasuryG05_1.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6114187",
+        "type0_prediction": "0.68985176"
+    },
+    "treasuryG06_2.png": {
+        "expert_score": "0.5714285714285714",
+        "mean_prediction": "0.6068216",
+        "type0_prediction": "0.69132614"
+    },
+    "treasuryG07_2.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.60214037",
+        "type0_prediction": "0.6862509"
+    },
+    "treasuryI01_2.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.6206653",
+        "type0_prediction": "0.68543863"
+    },
+    "treasuryI02_1.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.62067723",
+        "type0_prediction": "0.6854466"
+    },
+    "treasuryK01.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.611338",
+        "type0_prediction": "0.617098"
+    },
+    "treasuryK03_2.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.5968964",
+        "type0_prediction": "0.6506131"
+    },
+    "treasuryK05_1.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.60286266",
+        "type0_prediction": "0.66523165"
+    },
+    "treasuryK06.png": {
+        "expert_score": "1.6666666666666667",
+        "mean_prediction": "0.5971647",
+        "type0_prediction": "0.64748055"
+    },
+    "treasuryL04_1.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.5924104",
+        "type0_prediction": "0.69232345"
+    },
+    "treasuryL10_1.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.6104216",
+        "type0_prediction": "0.74653834"
+    },
+    "treasuryL11_2.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.58738047",
+        "type0_prediction": "0.656926"
+    },
+    "treasuryL13.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.600685",
+        "type0_prediction": "0.60607654"
+    },
+    "treasuryL16.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.58622843",
+        "type0_prediction": "0.656503"
+    },
+    "v482_n7386_5_f5.png": {
+        "expert_score": "1.3846153846153846",
+        "mean_prediction": "0.606468",
+        "type0_prediction": "0.648476"
+    },
+    "v482_n7386_7_f2.png": {
+        "expert_score": "1.125",
+        "mean_prediction": "0.62070495",
+        "type0_prediction": "0.68547374"
+    },
+    "v483_n7387_20_f2.png": {
+        "expert_score": "1.875",
+        "mean_prediction": "0.6065424",
+        "type0_prediction": "0.68959403"
+    },
+    "v483_n7387_5_f1.png": {
+        "expert_score": "0.8",
+        "mean_prediction": "0.6137462",
+        "type0_prediction": "0.6786304"
+    },
+    "v483_n7387_7_f4.png": {
+        "expert_score": "0.2",
+        "mean_prediction": "0.6199466",
+        "type0_prediction": "0.6851053"
+    },
+    "v483_n7388_11_f2.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.62070495",
+        "type0_prediction": "0.68547374"
+    },
+    "v483_n7388_14_f3.png": {
+        "expert_score": "1.2",
+        "mean_prediction": "0.6117139",
+        "type0_prediction": "0.6362622"
+    },
+    "v483_n7389_24_f3.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6291723",
+        "type0_prediction": "0.6203423"
+    },
+    "v483_n7390_14_f2.png": {
+        "expert_score": "0.1",
+        "mean_prediction": "0.60571235",
+        "type0_prediction": "0.6884869"
+    },
+    "v483_n7390_21_f4.png": {
+        "expert_score": "1.5555555555555556",
+        "mean_prediction": "0.6207028",
+        "type0_prediction": "0.68547493"
+    },
+    "v483_n7390_8_f1.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6002193",
+        "type0_prediction": "0.66722167"
+    },
+    "v483_n7391_1_f1.png": {
+        "expert_score": "1.8333333333333333",
+        "mean_prediction": "0.6017208",
+        "type0_prediction": "0.674683"
+    },
+    "v483_n7391_3_f5.png": {
+        "expert_score": "1.6923076923076923",
+        "mean_prediction": "0.60634416",
+        "type0_prediction": "0.614"
+    },
+    "v483_n7391_8_f1.png": {
+        "expert_score": "0.25",
+        "mean_prediction": "0.6060691",
+        "type0_prediction": "0.6838458"
+    },
+    "v484_n7392_14_f3.png": {
+        "expert_score": "1.8571428571428572",
+        "mean_prediction": "0.6177402",
+        "type0_prediction": "0.63390553"
+    },
+    "v484_n7393_20_f1.png": {
+        "expert_score": "1.25",
+        "mean_prediction": "0.6197631",
+        "type0_prediction": "0.68440455"
+    },
+    "v484_n7393_6_f4.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.61831725",
+        "type0_prediction": "0.68226963"
+    },
+    "v484_n7394_10_f4.png": {
+        "expert_score": "0.8571428571428571",
+        "mean_prediction": "0.6112837",
+        "type0_prediction": "0.6915994"
+    },
+    "v484_n7394_5_f2.png": {
+        "expert_score": "0.42857142857142855",
+        "mean_prediction": "0.61568815",
+        "type0_prediction": "0.6809549"
+    },
+    "v484_n7394_5_f5.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.59652233",
+        "type0_prediction": "0.6331356"
+    },
+    "v484_n7394_8_f2.png": {
+        "expert_score": "0.6",
+        "mean_prediction": "0.60299027",
+        "type0_prediction": "0.6739823"
+    },
+    "v484_n7394_8_f4.png": {
+        "expert_score": "0.75",
+        "mean_prediction": "0.61719483",
+        "type0_prediction": "0.6420772"
+    },
+    "v484_n7395_11_f1.png": {
+        "expert_score": "1.1666666666666667",
+        "mean_prediction": "0.61188173",
+        "type0_prediction": "0.6336385"
+    },
+    "v485_n7397_14_f3.png": {
+        "expert_score": "1.4",
+        "mean_prediction": "0.60415167",
+        "type0_prediction": "0.6707391"
+    },
+    "v485_n7397_15_f1.png": {
+        "expert_score": "0.45454545454545453",
+        "mean_prediction": "0.5899385",
+        "type0_prediction": "0.62042457"
+    },
+    "v485_n7397_6_f4.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.61538565",
+        "type0_prediction": "0.6804728"
+    },
+    "v485_n7399_13_f4.png": {
+        "expert_score": "0.8333333333333334",
+        "mean_prediction": "0.61944765",
+        "type0_prediction": "0.6855292"
+    },
+    "v485_n7399_9_f2.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.6081367",
+        "type0_prediction": "0.63100696"
+    },
+    "v485_n7400_14_f1.png": {
+        "expert_score": "1.5714285714285714",
+        "mean_prediction": "0.61560667",
+        "type0_prediction": "0.658224"
+    },
+    "v485_n7400_14_f2.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.5998989",
+        "type0_prediction": "0.64249355"
+    },
+    "v485_n7400_15_f2.png": {
+        "expert_score": "1.0714285714285714",
+        "mean_prediction": "0.5947678",
+        "type0_prediction": "0.63747567"
+    },
+    "v486_n7401_8_f1.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.602675",
+        "type0_prediction": "0.62510216"
+    },
+    "v486_n7401_8_f2.png": {
+        "expert_score": "1.5714285714285714",
+        "mean_prediction": "0.5959031",
+        "type0_prediction": "0.6641117"
+    },
+    "v486_n7403_19_f2.png": {
+        "expert_score": "0.5714285714285714",
+        "mean_prediction": "0.6040987",
+        "type0_prediction": "0.6870232"
+    },
+    "v486_n7403_1_f8.png": {
+        "expert_score": "0.375",
+        "mean_prediction": "0.56361353",
+        "type0_prediction": "0.6277046"
+    },
+    "v486_n7404_1_f2.png": {
+        "expert_score": "1.8666666666666667",
+        "mean_prediction": "0.60754913",
+        "type0_prediction": "0.6448297"
+    },
+    "v486_n7404_20_f6.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.61506194",
+        "type0_prediction": "0.68054014"
+    },
+    "v486_n7404_6_f1.png": {
+        "expert_score": "1.25",
+        "mean_prediction": "0.5993258",
+        "type0_prediction": "0.660793"
+    },
+    "v486_n7404_9_f2.png": {
+        "expert_score": "0.6666666666666666",
+        "mean_prediction": "0.61758435",
+        "type0_prediction": "0.68119085"
+    },
+    "v487_n7405_21_f2.png": {
+        "expert_score": "0.6666666666666666",
+        "mean_prediction": "0.62299496",
+        "type0_prediction": "0.6350698"
+    },
+    "v487_n7405_22_f1.png": {
+        "expert_score": "1.4285714285714286",
+        "mean_prediction": "0.62070495",
+        "type0_prediction": "0.68547374"
+    },
+    "v487_n7405_6_f4.png": {
+        "expert_score": "0.6666666666666666",
+        "mean_prediction": "0.60552067",
+        "type0_prediction": "0.6380367"
+    },
+    "v487_n7405_7_f1.png": {
+        "expert_score": "0.8",
+        "mean_prediction": "0.61922956",
+        "type0_prediction": "0.6836857"
+    },
+    "v487_n7406_13_f2.png": {
+        "expert_score": "1.1111111111111112",
+        "mean_prediction": "0.58275753",
+        "type0_prediction": "0.63164395"
+    },
+    "v487_n7406_13_f5.png": {
+        "expert_score": "1.0909090909090908",
+        "mean_prediction": "0.6121363",
+        "type0_prediction": "0.67762506"
+    },
+    "v487_n7407_15_f3.png": {
+        "expert_score": "1.7142857142857142",
+        "mean_prediction": "0.6195928",
+        "type0_prediction": "0.6271997"
+    },
+    "v487_n7407_22_f2.png": {
+        "expert_score": "2.2142857142857144",
+        "mean_prediction": "0.60411817",
+        "type0_prediction": "0.6757416"
+    },
+    "v487_n7407_22_f4.png": {
+        "expert_score": "1.8333333333333333",
+        "mean_prediction": "0.6013745",
+        "type0_prediction": "0.6226264"
+    },
+    "v487_n7408_15_f3.png": {
+        "expert_score": "0.25",
+        "mean_prediction": "0.6079177",
+        "type0_prediction": "0.681171"
+    },
+    "v488_n7410_13_f4.png": {
+        "expert_score": "1.7272727272727273",
+        "mean_prediction": "0.617272",
+        "type0_prediction": "0.62168455"
+    },
+    "v488_n7410_15_f3.png": {
+        "expert_score": "2.5",
+        "mean_prediction": "0.5811149",
+        "type0_prediction": "0.62905926"
+    },
+    "v488_n7411_6_f4.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.6173454",
+        "type0_prediction": "0.6807521"
+    },
+    "v488_n7411_9_f1.png": {
+        "expert_score": "1.1",
+        "mean_prediction": "0.6096208",
+        "type0_prediction": "0.6072582"
+    },
+    "v488_n7412_1_f3.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6123743",
+        "type0_prediction": "0.6812412"
+    },
+    "v488_n7412_1_f4.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.5945537",
+        "type0_prediction": "0.6176088"
+    },
+    "v488_n7412_4_f1.png": {
+        "expert_score": "1.2222222222222223",
+        "mean_prediction": "0.6034296",
+        "type0_prediction": "0.6771955"
+    },
+    "v488_n7412_7_f1.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.62070453",
+        "type0_prediction": "0.68547434"
+    },
+    "v488_n7412_8_f1.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6210628",
+        "type0_prediction": "0.62004614"
+    },
+    "v488_n7412_9_f1.png": {
+        "expert_score": "1.5714285714285714",
+        "mean_prediction": "0.6162308",
+        "type0_prediction": "0.70697176"
+    },
+    "v488_n7413_3_f2.png": {
+        "expert_score": "0.5714285714285714",
+        "mean_prediction": "0.62517345",
+        "type0_prediction": "0.6165365"
+    },
+    "v489_n7414_20_f1.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.62052137",
+        "type0_prediction": "0.6854003"
+    },
+    "v489_n7414_25_f2.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.61049956",
+        "type0_prediction": "0.6914966"
+    },
+    "v489_n7415_12_f5.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.59056455",
+        "type0_prediction": "0.62178653"
+    },
+    "v489_n7415_7_f2.png": {
+        "expert_score": "1.7272727272727273",
+        "mean_prediction": "0.61203784",
+        "type0_prediction": "0.61520296"
+    },
+    "v489_n7416_15_f2.png": {
+        "expert_score": "1.875",
+        "mean_prediction": "0.62321836",
+        "type0_prediction": "0.6159365"
+    },
+    "v489_n7416_3_f4.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6168761",
+        "type0_prediction": "0.6240856"
+    },
+    "v489_n7416_4_f6.png": {
+        "expert_score": "0.6923076923076923",
+        "mean_prediction": "0.6134794",
+        "type0_prediction": "0.6247862"
+    },
+    "v490_n7418_12_f1.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.60826415",
+        "type0_prediction": "0.67886835"
+    },
+    "v490_n7418_14_f2.png": {
+        "expert_score": "1.4",
+        "mean_prediction": "0.6203702",
+        "type0_prediction": "0.6851743"
+    },
+    "v490_n7418_1_f2.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.6196696",
+        "type0_prediction": "0.6883856"
+    },
+    "v490_n7418_6_f3.png": {
+        "expert_score": "1.375",
+        "mean_prediction": "0.6091939",
+        "type0_prediction": "0.677686"
+    },
+    "v490_n7419_11_f1.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6171872",
+        "type0_prediction": "0.6072875"
+    },
+    "v490_n7419_2_f1.png": {
+        "expert_score": "1.2",
+        "mean_prediction": "0.6101378",
+        "type0_prediction": "0.6903768"
+    },
+    "v490_n7419_2_f2.png": {
+        "expert_score": "0.875",
+        "mean_prediction": "0.6115277",
+        "type0_prediction": "0.69749075"
+    },
+    "v490_n7419_7_f4.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.6003528",
+        "type0_prediction": "0.6291247"
+    },
+    "v490_n7420_13_f4.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6057723",
+        "type0_prediction": "0.65037525"
+    },
+    "v490_n7420_23_f5.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.611367",
+        "type0_prediction": "0.6179916"
+    },
+    "vis109.png": {
+        "expert_score": "1.2222222222222223",
+        "mean_prediction": "0.5992757",
+        "type0_prediction": "0.66403157"
+    },
+    "vis230.png": {
+        "expert_score": "1.8888888888888888",
+        "mean_prediction": "0.5965215",
+        "type0_prediction": "0.6147867"
+    },
+    "vis250.png": {
+        "expert_score": "2.466666666666667",
+        "mean_prediction": "0.6126299",
+        "type0_prediction": "0.67780924"
+    },
+    "vis278.png": {
+        "expert_score": "2.4",
+        "mean_prediction": "0.60366887",
+        "type0_prediction": "0.6202355"
+    },
+    "vis286.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.62070316",
+        "type0_prediction": "0.6854748"
+    },
+    "vis288.png": {
+        "expert_score": "1.625",
+        "mean_prediction": "0.590909",
+        "type0_prediction": "0.6188193"
+    },
+    "vis328.png": {
+        "expert_score": "2.25",
+        "mean_prediction": "0.57976925",
+        "type0_prediction": "0.6425487"
+    },
+    "vis409.png": {
+        "expert_score": "2.2",
+        "mean_prediction": "0.5893011",
+        "type0_prediction": "0.6557507"
+    },
+    "vis416.png": {
+        "expert_score": "2.2",
+        "mean_prediction": "0.5985812",
+        "type0_prediction": "0.6513602"
+    },
+    "vis417.png": {
+        "expert_score": "2.1666666666666665",
+        "mean_prediction": "0.5975692",
+        "type0_prediction": "0.62505215"
+    },
+    "vis428.png": {
+        "expert_score": "2.5454545454545454",
+        "mean_prediction": "0.6007319",
+        "type0_prediction": "0.6255739"
+    },
+    "vis499.png": {
+        "expert_score": "2.3846153846153846",
+        "mean_prediction": "0.5892734",
+        "type0_prediction": "0.6241529"
+    },
+    "vis512.png": {
+        "expert_score": "1.9166666666666667",
+        "mean_prediction": "0.5988049",
+        "type0_prediction": "0.662629"
+    },
+    "vis564.png": {
+        "expert_score": "2.1",
+        "mean_prediction": "0.597617",
+        "type0_prediction": "0.64324975"
+    },
+    "vis586.png": {
+        "expert_score": "1.8",
+        "mean_prediction": "0.6207116",
+        "type0_prediction": "0.6856223"
+    },
+    "vis618.png": {
+        "expert_score": "2.1",
+        "mean_prediction": "0.6202488",
+        "type0_prediction": "0.6844669"
+    },
+    "vis625.png": {
+        "expert_score": "2.090909090909091",
+        "mean_prediction": "0.60115504",
+        "type0_prediction": "0.64656186"
+    },
+    "vis630.png": {
+        "expert_score": "1.6363636363636365",
+        "mean_prediction": "0.6065575",
+        "type0_prediction": "0.6450582"
+    },
+    "vis652.png": {
+        "expert_score": "2.75",
+        "mean_prediction": "0.5932087",
+        "type0_prediction": "0.6225787"
+    },
+    "vis67.png": {
+        "expert_score": "2.1333333333333333",
+        "mean_prediction": "0.6008944",
+        "type0_prediction": "0.6552617"
+    },
+    "vis678.png": {
+        "expert_score": "1.5384615384615385",
+        "mean_prediction": "0.61029464",
+        "type0_prediction": "0.65702176"
+    },
+    "vis697.png": {
+        "expert_score": "2.4615384615384617",
+        "mean_prediction": "0.60454655",
+        "type0_prediction": "0.68967366"
+    },
+    "vis708.png": {
+        "expert_score": "1.8333333333333333",
+        "mean_prediction": "0.5979827",
+        "type0_prediction": "0.66826177"
+    },
+    "vis729.png": {
+        "expert_score": "1.8181818181818181",
+        "mean_prediction": "0.6076941",
+        "type0_prediction": "0.6723663"
+    },
+    "vis768.png": {
+        "expert_score": "1.7",
+        "mean_prediction": "0.60984963",
+        "type0_prediction": "0.6086445"
+    },
+    "vis831.png": {
+        "expert_score": "1.9090909090909092",
+        "mean_prediction": "0.62752485",
+        "type0_prediction": "0.6340371"
+    },
+    "vis850.png": {
+        "expert_score": "2.2777777777777777",
+        "mean_prediction": "0.61781186",
+        "type0_prediction": "0.67262554"
+    },
+    "vis859.png": {
+        "expert_score": "1.6363636363636365",
+        "mean_prediction": "0.6133297",
+        "type0_prediction": "0.66823775"
+    },
+    "vis87.png": {
+        "expert_score": "1.6",
+        "mean_prediction": "0.5996474",
+        "type0_prediction": "0.59818125"
+    },
+    "visMost108.png": {
+        "expert_score": "2.6666666666666665",
+        "mean_prediction": "0.6122491",
+        "type0_prediction": "0.62193704"
+    },
+    "visMost132.png": {
+        "expert_score": "1.625",
+        "mean_prediction": "0.61164916",
+        "type0_prediction": "0.6710496"
+    },
+    "visMost143.png": {
+        "expert_score": "1.2",
+        "mean_prediction": "0.6082353",
+        "type0_prediction": "0.6757817"
+    },
+    "visMost147.png": {
+        "expert_score": "2.076923076923077",
+        "mean_prediction": "0.5868444",
+        "type0_prediction": "0.6858201"
+    },
+    "visMost187.png": {
+        "expert_score": "2.0714285714285716",
+        "mean_prediction": "0.5927991",
+        "type0_prediction": "0.6203605"
+    },
+    "visMost190.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.5978454",
+        "type0_prediction": "0.6587197"
+    },
+    "visMost215.png": {
+        "expert_score": "1.8333333333333333",
+        "mean_prediction": "0.59669924",
+        "type0_prediction": "0.6624888"
+    },
+    "visMost217.png": {
+        "expert_score": "2.3636363636363638",
+        "mean_prediction": "0.5949344",
+        "type0_prediction": "0.6223303"
+    },
+    "visMost227.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.6048044",
+        "type0_prediction": "0.62074274"
+    },
+    "visMost232.png": {
+        "expert_score": "2.6153846153846154",
+        "mean_prediction": "0.59731036",
+        "type0_prediction": "0.6131844"
+    },
+    "visMost240.png": {
+        "expert_score": "2.2222222222222223",
+        "mean_prediction": "0.6149985",
+        "type0_prediction": "0.62215763"
+    },
+    "visMost244.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.6027669",
+        "type0_prediction": "0.6464523"
+    },
+    "visMost255.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.5952425",
+        "type0_prediction": "0.6152636"
+    },
+    "visMost261.png": {
+        "expert_score": "2.090909090909091",
+        "mean_prediction": "0.596997",
+        "type0_prediction": "0.6124725"
+    },
+    "visMost267.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.59342843",
+        "type0_prediction": "0.64708066"
+    },
+    "visMost271.png": {
+        "expert_score": "2.4166666666666665",
+        "mean_prediction": "0.6229094",
+        "type0_prediction": "0.6988087"
+    },
+    "visMost274.png": {
+        "expert_score": "1.2307692307692308",
+        "mean_prediction": "0.6064115",
+        "type0_prediction": "0.61796486"
+    },
+    "visMost282.png": {
+        "expert_score": "1.8181818181818181",
+        "mean_prediction": "0.60813594",
+        "type0_prediction": "0.64273095"
+    },
+    "visMost357.png": {
+        "expert_score": "2.1666666666666665",
+        "mean_prediction": "0.6079079",
+        "type0_prediction": "0.62814224"
+    },
+    "visMost362.png": {
+        "expert_score": "2.4",
+        "mean_prediction": "0.59350044",
+        "type0_prediction": "0.66374385"
+    },
+    "visMost374.png": {
+        "expert_score": "1.8181818181818181",
+        "mean_prediction": "0.6206352",
+        "type0_prediction": "0.6854715"
+    },
+    "visMost376.png": {
+        "expert_score": "2.769230769230769",
+        "mean_prediction": "0.62575567",
+        "type0_prediction": "0.6200288"
+    },
+    "visMost378.png": {
+        "expert_score": "2.0588235294117645",
+        "mean_prediction": "0.572418",
+        "type0_prediction": "0.6332804"
+    },
+    "visMost420.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.5863609",
+        "type0_prediction": "0.6724539"
+    },
+    "visMost451.png": {
+        "expert_score": "2.3333333333333335",
+        "mean_prediction": "0.5874853",
+        "type0_prediction": "0.65447277"
+    },
+    "visMost456.png": {
+        "expert_score": "2.125",
+        "mean_prediction": "0.59672964",
+        "type0_prediction": "0.644401"
+    },
+    "visMost468.png": {
+        "expert_score": "1.7142857142857142",
+        "mean_prediction": "0.59973586",
+        "type0_prediction": "0.64202434"
+    },
+    "visMost505.png": {
+        "expert_score": "2.2",
+        "mean_prediction": "0.6024183",
+        "type0_prediction": "0.6229805"
+    },
+    "visMost523.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.62043273",
+        "type0_prediction": "0.6852082"
+    },
+    "visMost526.png": {
+        "expert_score": "2.375",
+        "mean_prediction": "0.58512366",
+        "type0_prediction": "0.61431384"
+    },
+    "visMost537.png": {
+        "expert_score": "2.3333333333333335",
+        "mean_prediction": "0.6163018",
+        "type0_prediction": "0.62139857"
+    },
+    "visMost54.png": {
+        "expert_score": "2.2857142857142856",
+        "mean_prediction": "0.6048571",
+        "type0_prediction": "0.6523529"
+    },
+    "visMost545.png": {
+        "expert_score": "1.3846153846153846",
+        "mean_prediction": "0.5910188",
+        "type0_prediction": "0.6257862"
+    },
+    "visMost55.png": {
+        "expert_score": "2.642857142857143",
+        "mean_prediction": "0.6036519",
+        "type0_prediction": "0.6276471"
+    },
+    "visMost575.png": {
+        "expert_score": "2.3333333333333335",
+        "mean_prediction": "0.6216319",
+        "type0_prediction": "0.62400144"
+    },
+    "visMost601.png": {
+        "expert_score": "1.9166666666666667",
+        "mean_prediction": "0.6059027",
+        "type0_prediction": "0.65772015"
+    },
+    "visMost623.png": {
+        "expert_score": "2.272727272727273",
+        "mean_prediction": "0.60744566",
+        "type0_prediction": "0.67136997"
+    },
+    "visMost635.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.6098933",
+        "type0_prediction": "0.6463094"
+    },
+    "visMost645.png": {
+        "expert_score": "1.625",
+        "mean_prediction": "0.6094649",
+        "type0_prediction": "0.65341336"
+    },
+    "visMost657.png": {
+        "expert_score": "1.7692307692307692",
+        "mean_prediction": "0.5881011",
+        "type0_prediction": "0.63883895"
+    },
+    "visMost673.png": {
+        "expert_score": "2.1",
+        "mean_prediction": "0.6214426",
+        "type0_prediction": "0.60964966"
+    },
+    "visMost735.png": {
+        "expert_score": "2.3",
+        "mean_prediction": "0.59261113",
+        "type0_prediction": "0.6577627"
+    },
+    "visMost745.png": {
+        "expert_score": "2.142857142857143",
+        "mean_prediction": "0.6159263",
+        "type0_prediction": "0.60982174"
+    },
+    "visMost755.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.60050213",
+        "type0_prediction": "0.63941693"
+    },
+    "visMost758.png": {
+        "expert_score": "1.375",
+        "mean_prediction": "0.5983196",
+        "type0_prediction": "0.6810266"
+    },
+    "visMost77.png": {
+        "expert_score": "2.2142857142857144",
+        "mean_prediction": "0.6206971",
+        "type0_prediction": "0.68547493"
+    },
+    "visMost82.png": {
+        "expert_score": "2.1666666666666665",
+        "mean_prediction": "0.5944812",
+        "type0_prediction": "0.60034335"
+    },
+    "visMost83.png": {
+        "expert_score": "2.75",
+        "mean_prediction": "0.60406697",
+        "type0_prediction": "0.6121677"
+    },
+    "visMost92.png": {
+        "expert_score": "1.8571428571428572",
+        "mean_prediction": "0.6164424",
+        "type0_prediction": "0.7270511"
+    },
+    "whoB03_1.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.6054854",
+        "type0_prediction": "0.67604154"
+    },
+    "whoB15_1.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.59774625",
+        "type0_prediction": "0.67825574"
+    },
+    "whoB24_1.png": {
+        "expert_score": "2.2",
+        "mean_prediction": "0.616918",
+        "type0_prediction": "0.6218122"
+    },
+    "whoB25_2.png": {
+        "expert_score": "2.111111111111111",
+        "mean_prediction": "0.61949384",
+        "type0_prediction": "0.6823527"
+    },
+    "whoB32_1.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.62061137",
+        "type0_prediction": "0.62438697"
+    },
+    "whoI11_1.png": {
+        "expert_score": "1.3",
+        "mean_prediction": "0.5989843",
+        "type0_prediction": "0.67188984"
+    },
+    "whoI11_2.png": {
+        "expert_score": "0.8",
+        "mean_prediction": "0.60368663",
+        "type0_prediction": "0.62448007"
+    },
+    "whoI12_2.png": {
+        "expert_score": "1.2222222222222223",
+        "mean_prediction": "0.6206637",
+        "type0_prediction": "0.68518955"
+    },
+    "whoI14.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.5961464",
+        "type0_prediction": "0.6234086"
+    },
+    "whoI19.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.6184056",
+        "type0_prediction": "0.68451875"
+    },
+    "whoI22.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.61715937",
+        "type0_prediction": "0.68182427"
+    },
+    "whoJ15_1.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6142695",
+        "type0_prediction": "0.6130049"
+    },
+    "whoJ23.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.62070394",
+        "type0_prediction": "0.6854753"
+    },
+    "whoJ32.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.60606843",
+        "type0_prediction": "0.61046827"
+    },
+    "whoJ33.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6189947",
+        "type0_prediction": "0.6827515"
+    },
+    "whoJ36_1.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.6110808",
+        "type0_prediction": "0.61365193"
+    },
+    "whoJ43_2.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.60704654",
+        "type0_prediction": "0.66094464"
+    },
+    "whoJ44.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.600713",
+        "type0_prediction": "0.6640649"
+    },
+    "whoJ48_2.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6108315",
+        "type0_prediction": "0.6195147"
+    },
+    "whoK04_2.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.6098949",
+        "type0_prediction": "0.62392896"
+    },
+    "whoK07_2.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.6197899",
+        "type0_prediction": "0.6843478"
+    },
+    "whoK12_2.png": {
+        "expert_score": "1.8888888888888888",
+        "mean_prediction": "0.611116",
+        "type0_prediction": "0.66007584"
+    },
+    "whoK17_1.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.6250388",
+        "type0_prediction": "0.62113214"
+    },
+    "whoK19_1.png": {
+        "expert_score": "1.0666666666666667",
+        "mean_prediction": "0.60772306",
+        "type0_prediction": "0.6152569"
+    },
+    "whoK23_2.png": {
+        "expert_score": "1.2727272727272727",
+        "mean_prediction": "0.59978724",
+        "type0_prediction": "0.61095214"
+    },
+    "whoK31.png": {
+        "expert_score": "1.4545454545454546",
+        "mean_prediction": "0.60887057",
+        "type0_prediction": "0.68945616"
+    },
+    "whoL03.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.6131156",
+        "type0_prediction": "0.6268712"
+    },
+    "whoL09.png": {
+        "expert_score": "1.6666666666666667",
+        "mean_prediction": "0.59864765",
+        "type0_prediction": "0.64444995"
+    },
+    "whoL10.png": {
+        "expert_score": "0.7777777777777778",
+        "mean_prediction": "0.6081171",
+        "type0_prediction": "0.6271273"
+    },
+    "whoL11.png": {
+        "expert_score": "1.5555555555555556",
+        "mean_prediction": "0.59783524",
+        "type0_prediction": "0.65505046"
+    },
+    "whoL12.png": {
+        "expert_score": "1.7",
+        "mean_prediction": "0.60573554",
+        "type0_prediction": "0.6779009"
+    },
+    "whoL14.png": {
+        "expert_score": "0.8888888888888888",
+        "mean_prediction": "0.6203007",
+        "type0_prediction": "0.68435746"
+    },
+    "whoN05.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.5832179",
+        "type0_prediction": "0.64087254"
+    },
+    "whoN08.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.59934014",
+        "type0_prediction": "0.61093664"
+    },
+    "whoN10.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.6151645",
+        "type0_prediction": "0.62064046"
+    },
+    "whoN16_1.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.6131289",
+        "type0_prediction": "0.62101287"
+    },
+    "whoN18.png": {
+        "expert_score": "1.1666666666666667",
+        "mean_prediction": "0.609395",
+        "type0_prediction": "0.6149272"
+    },
+    "whoN21_1.png": {
+        "expert_score": "0.5",
+        "mean_prediction": "0.59603864",
+        "type0_prediction": "0.67229545"
+    },
+    "whoN22.png": {
+        "expert_score": "0.875",
+        "mean_prediction": "0.6150968",
+        "type0_prediction": "0.66681224"
+    },
+    "whoN23_2.png": {
+        "expert_score": "3.0",
+        "mean_prediction": "0.60255766",
+        "type0_prediction": "0.6224528"
+    },
+    "whoN32_2.png": {
+        "expert_score": "1.6",
+        "mean_prediction": "0.60485274",
+        "type0_prediction": "0.6675169"
+    },
+    "whoN33.png": {
+        "expert_score": "1.8333333333333333",
+        "mean_prediction": "0.59732425",
+        "type0_prediction": "0.64179194"
+    },
+    "whoO06_2.png": {
+        "expert_score": "0.6",
+        "mean_prediction": "0.5773088",
+        "type0_prediction": "0.6328603"
+    },
+    "whoO12.png": {
+        "expert_score": "3.0",
+        "mean_prediction": "0.6140063",
+        "type0_prediction": "0.6143204"
+    },
+    "whoP16.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6131382",
+        "type0_prediction": "0.62140185"
+    },
+    "whoQ09_2.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.59462816",
+        "type0_prediction": "0.6815767"
+    },
+    "whoQ11_1.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.61492884",
+        "type0_prediction": "0.6871842"
+    },
+    "whoQ14_2.png": {
+        "expert_score": "0.3333333333333333",
+        "mean_prediction": "0.61456245",
+        "type0_prediction": "0.6189001"
+    },
+    "whoQ15_1.png": {
+        "expert_score": "0.75",
+        "mean_prediction": "0.59318775",
+        "type0_prediction": "0.6414652"
+    },
+    "whoQ18_3.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.60444295",
+        "type0_prediction": "0.65633595"
+    },
+    "whoQ26.png": {
+        "expert_score": "1.1111111111111112",
+        "mean_prediction": "0.61499333",
+        "type0_prediction": "0.6162643"
+    },
+    "whoQ32_2.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.6153818",
+        "type0_prediction": "0.6153889"
+    },
+    "whoQ41_1.png": {
+        "expert_score": "1.75",
+        "mean_prediction": "0.6158834",
+        "type0_prediction": "0.664997"
+    },
+    "whoQ42_1.png": {
+        "expert_score": "1.4",
+        "mean_prediction": "0.5968758",
+        "type0_prediction": "0.6573105"
+    },
+    "whoQ44_4.png": {
+        "expert_score": "0.8333333333333334",
+        "mean_prediction": "0.618357",
+        "type0_prediction": "0.6836711"
+    },
+    "whoQ48_4.png": {
+        "expert_score": "0.8571428571428571",
+        "mean_prediction": "0.604703",
+        "type0_prediction": "0.6643026"
+    },
+    "whoQ48_5.png": {
+        "expert_score": "0.75",
+        "mean_prediction": "0.6043172",
+        "type0_prediction": "0.65769404"
+    },
+    "whoQ50_2.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6184259",
+        "type0_prediction": "0.63668835"
+    },
+    "whoQ51_2.png": {
+        "expert_score": "0.8333333333333334",
+        "mean_prediction": "0.60203475",
+        "type0_prediction": "0.65946895"
+    },
+    "whoQ52_4.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.61095357",
+        "type0_prediction": "0.6490041"
+    },
+    "wsj10.png": {
+        "expert_score": "2.272727272727273",
+        "mean_prediction": "0.61773556",
+        "type0_prediction": "0.6276526"
+    },
+    "wsj104.png": {
+        "expert_score": "1.9230769230769231",
+        "mean_prediction": "0.5979839",
+        "type0_prediction": "0.6731855"
+    },
+    "wsj108.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6017605",
+        "type0_prediction": "0.6617424"
+    },
+    "wsj11.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.6142933",
+        "type0_prediction": "0.60718745"
+    },
+    "wsj116.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.6066037",
+        "type0_prediction": "0.60557336"
+    },
+    "wsj129.png": {
+        "expert_score": "1.4545454545454546",
+        "mean_prediction": "0.60501254",
+        "type0_prediction": "0.6611961"
+    },
+    "wsj144.png": {
+        "expert_score": "1.4444444444444444",
+        "mean_prediction": "0.6248475",
+        "type0_prediction": "0.61740226"
+    },
+    "wsj147.png": {
+        "expert_score": "2.1666666666666665",
+        "mean_prediction": "0.6190906",
+        "type0_prediction": "0.68861765"
+    },
+    "wsj162.png": {
+        "expert_score": "2.9166666666666665",
+        "mean_prediction": "0.6083674",
+        "type0_prediction": "0.6941575"
+    },
+    "wsj167.png": {
+        "expert_score": "1.3333333333333333",
+        "mean_prediction": "0.6038179",
+        "type0_prediction": "0.61909336"
+    },
+    "wsj170.png": {
+        "expert_score": "0.75",
+        "mean_prediction": "0.6220658",
+        "type0_prediction": "0.67964464"
+    },
+    "wsj172.png": {
+        "expert_score": "1.1666666666666667",
+        "mean_prediction": "0.608501",
+        "type0_prediction": "0.6228946"
+    },
+    "wsj176.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.6140317",
+        "type0_prediction": "0.6720224"
+    },
+    "wsj184.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.5968137",
+        "type0_prediction": "0.637487"
+    },
+    "wsj20.png": {
+        "expert_score": "2.25",
+        "mean_prediction": "0.6201169",
+        "type0_prediction": "0.6848236"
+    },
+    "wsj21.png": {
+        "expert_score": "2.2",
+        "mean_prediction": "0.580458",
+        "type0_prediction": "0.6775363"
+    },
+    "wsj214.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.62013805",
+        "type0_prediction": "0.6190731"
+    },
+    "wsj220.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.61162263",
+        "type0_prediction": "0.61598086"
+    },
+    "wsj226.png": {
+        "expert_score": "1.8888888888888888",
+        "mean_prediction": "0.6100644",
+        "type0_prediction": "0.67237806"
+    },
+    "wsj233.png": {
+        "expert_score": "2.3846153846153846",
+        "mean_prediction": "0.6182009",
+        "type0_prediction": "0.6094952"
+    },
+    "wsj240.png": {
+        "expert_score": "1.4285714285714286",
+        "mean_prediction": "0.62312",
+        "type0_prediction": "0.6201723"
+    },
+    "wsj259.png": {
+        "expert_score": "2.4285714285714284",
+        "mean_prediction": "0.6079014",
+        "type0_prediction": "0.6855644"
+    },
+    "wsj262.png": {
+        "expert_score": "2.230769230769231",
+        "mean_prediction": "0.58680624",
+        "type0_prediction": "0.6027097"
+    },
+    "wsj264.png": {
+        "expert_score": "1.4615384615384615",
+        "mean_prediction": "0.60944563",
+        "type0_prediction": "0.6723376"
+    },
+    "wsj270.png": {
+        "expert_score": "1.7777777777777777",
+        "mean_prediction": "0.62300086",
+        "type0_prediction": "0.60853285"
+    },
+    "wsj271.png": {
+        "expert_score": "2.2",
+        "mean_prediction": "0.6027496",
+        "type0_prediction": "0.61026865"
+    },
+    "wsj28.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.6005725",
+        "type0_prediction": "0.6955757"
+    },
+    "wsj286.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.602205",
+        "type0_prediction": "0.6588508"
+    },
+    "wsj292.png": {
+        "expert_score": "2.2",
+        "mean_prediction": "0.6121757",
+        "type0_prediction": "0.6092938"
+    },
+    "wsj294.png": {
+        "expert_score": "2.375",
+        "mean_prediction": "0.61569893",
+        "type0_prediction": "0.6208503"
+    },
+    "wsj297.png": {
+        "expert_score": "1.8571428571428572",
+        "mean_prediction": "0.5989543",
+        "type0_prediction": "0.6649289"
+    },
+    "wsj299.png": {
+        "expert_score": "2.1818181818181817",
+        "mean_prediction": "0.6051423",
+        "type0_prediction": "0.6752655"
+    },
+    "wsj308.png": {
+        "expert_score": "1.4285714285714286",
+        "mean_prediction": "0.61003816",
+        "type0_prediction": "0.60690546"
+    },
+    "wsj316.png": {
+        "expert_score": "1.375",
+        "mean_prediction": "0.6100318",
+        "type0_prediction": "0.6700202"
+    },
+    "wsj340.png": {
+        "expert_score": "1.375",
+        "mean_prediction": "0.60130394",
+        "type0_prediction": "0.60803014"
+    },
+    "wsj359.png": {
+        "expert_score": "1.8571428571428572",
+        "mean_prediction": "0.59416246",
+        "type0_prediction": "0.63225895"
+    },
+    "wsj360.png": {
+        "expert_score": "0.0",
+        "mean_prediction": "0.6171618",
+        "type0_prediction": "0.6207669"
+    },
+    "wsj392.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.60224444",
+        "type0_prediction": "0.60939544"
+    },
+    "wsj395.png": {
+        "expert_score": "1.0",
+        "mean_prediction": "0.61262494",
+        "type0_prediction": "0.68072736"
+    },
+    "wsj405.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.6039667",
+        "type0_prediction": "0.666097"
+    },
+    "wsj441.png": {
+        "expert_score": "2.3",
+        "mean_prediction": "0.6222627",
+        "type0_prediction": "0.6152519"
+    },
+    "wsj459.png": {
+        "expert_score": "2.3333333333333335",
+        "mean_prediction": "0.6130302",
+        "type0_prediction": "0.63472694"
+    },
+    "wsj462.png": {
+        "expert_score": "1.625",
+        "mean_prediction": "0.61105555",
+        "type0_prediction": "0.65729415"
+    },
+    "wsj474.png": {
+        "expert_score": "1.875",
+        "mean_prediction": "0.5946794",
+        "type0_prediction": "0.6762944"
+    },
+    "wsj481.png": {
+        "expert_score": "2.125",
+        "mean_prediction": "0.59432137",
+        "type0_prediction": "0.60720557"
+    },
+    "wsj505.png": {
+        "expert_score": "2.7142857142857144",
+        "mean_prediction": "0.6189315",
+        "type0_prediction": "0.61387897"
+    },
+    "wsj508.png": {
+        "expert_score": "1.25",
+        "mean_prediction": "0.6108691",
+        "type0_prediction": "0.6140786"
+    },
+    "wsj511.png": {
+        "expert_score": "1.9230769230769231",
+        "mean_prediction": "0.61884344",
+        "type0_prediction": "0.6120235"
+    },
+    "wsj52.png": {
+        "expert_score": "2.1875",
+        "mean_prediction": "0.62004066",
+        "type0_prediction": "0.6926921"
+    },
+    "wsj521.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.60643303",
+        "type0_prediction": "0.62309235"
+    },
+    "wsj529.png": {
+        "expert_score": "1.6666666666666667",
+        "mean_prediction": "0.5830598",
+        "type0_prediction": "0.6055927"
+    },
+    "wsj533.png": {
+        "expert_score": "1.8333333333333333",
+        "mean_prediction": "0.59500945",
+        "type0_prediction": "0.6247512"
+    },
+    "wsj536.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.60739934",
+        "type0_prediction": "0.6004783"
+    },
+    "wsj54.png": {
+        "expert_score": "2.4",
+        "mean_prediction": "0.59857804",
+        "type0_prediction": "0.61043245"
+    },
+    "wsj540.png": {
+        "expert_score": "1.625",
+        "mean_prediction": "0.6172153",
+        "type0_prediction": "0.61701214"
+    },
+    "wsj55.png": {
+        "expert_score": "1.5",
+        "mean_prediction": "0.5929787",
+        "type0_prediction": "0.62133396"
+    },
+    "wsj557.png": {
+        "expert_score": "2.0",
+        "mean_prediction": "0.61045426",
+        "type0_prediction": "0.6700942"
+    },
+    "wsj561.png": {
+        "expert_score": "2.1818181818181817",
+        "mean_prediction": "0.5914847",
+        "type0_prediction": "0.60710984"
+    },
+    "wsj612.png": {
+        "expert_score": "2.125",
+        "mean_prediction": "0.5982393",
+        "type0_prediction": "0.61593604"
+    },
+    "wsj79.png": {
+        "expert_score": "2.4",
+        "mean_prediction": "0.60665363",
+        "type0_prediction": "0.6006525"
+    },
+    "wsj9.png": {
+        "expert_score": "2.5",
+        "mean_prediction": "0.59658015",
+        "type0_prediction": "0.6401547"
+    },
+    "wsj99.png": {
+        "expert_score": "2.0833333333333335",
+        "mean_prediction": "0.6135405",
+        "type0_prediction": "0.6242973"
+    }
+}

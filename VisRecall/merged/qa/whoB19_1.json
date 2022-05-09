@@ -1,0 +1,49 @@
+{
+  "name": "whoB19_1.png",
+  "vistype": "scatter",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Students of specific age not meeting recommended levels of physical activity",
+    "B": "Students of specific age not meeting recommended levels of Nutrition",
+    "C": "Students of specific age not interested in mathematics",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2003-2010",
+    "B": "2003-2008",
+    "C": "2003-2011",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q3": {
+    "type": "3",
+    "question": "In How many countries was the survey conducted?",
+    "A": "13",
+    "B": "63",
+    "C": "36",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "2",
+    "question": "Only one country has girls doing better than boys, Which region does this country belong to?",
+    "A": "Africa",
+    "B": "Americas",
+    "C": "Western-pacific",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q5": {
+    "type": "2",
+    "question": "What does each data point represent?",
+    "A": "One Country",
+    "B": "One state",
+    "C": "One Continent",
+    "D": "I can not remember",
+    "answer": "A"
+  }
+}

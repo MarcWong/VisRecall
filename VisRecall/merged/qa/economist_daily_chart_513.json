@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_513.png",
+    "vistype": "table",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Best-selling children's books in Britain",
+        "B": "Best-selling science fictions in Britain",
+        "C": "Best-selling political memoirs in Britain",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1998-2008",
+        "B": "1998-2005",
+        "C": "1998-2010",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which book sells best in this visualization?",
+        "A": "My Life",
+        "B": "Dreams of My Father",
+        "C": "Living History",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which book sells the worst in this visualization?",
+        "A": "Chance Witness",
+        "B": "Diaries: In Power",
+        "C": "The Third Man",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "How many copies did My Life sell?",
+        "A": "Around 700,000",
+        "B": "Around 180,000",
+        "C": "Around 60,000",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

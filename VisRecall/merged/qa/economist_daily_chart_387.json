@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_387.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Global lagre conventional weapons exports",
+        "B": "Global agricultural products exports",
+        "C": "Global army dispatch",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which period of data is displayed in this visualization?",
+        "A": "2010-2016",
+        "B": "2006-2010",
+        "C": "2006-2016",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest percentage?",
+        "A": "United States",
+        "B": "Russia",
+        "C": "China",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the lowest percentage?",
+        "A": "France",
+        "B": "Britain",
+        "C": "Germany",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which country is Russia's largest exporter of this product?",
+        "A": "Saudi Arabia",
+        "B": "China",
+        "C": "India",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

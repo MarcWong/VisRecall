@@ -1,0 +1,50 @@
+{
+    "name": "treasuryD10.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the main topic of the visualization?",
+        "A": "Servicer Outreach to 30+ Day Delinquent Homeowners",
+        "B": "Servicer Outreach to 60+ Day Delinquent Homeowners",
+        "C": "Servicer Outreach to 90+ Day Delinquent Homeowners",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "When were the data collected?",
+        "A": "August 2011 - July 2012",
+        "B": "August 2010 - July 2012",
+        "C": "August 2011 - July 2013",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which bank does the most outreach?",
+        "A": "GMAC",
+        "B": "Bank of America",
+        "C": "OneWest",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which bank does the least outreach?",
+        "A": "CitiMortgage",
+        "B": "Wells Fargo",
+        "C": "SPS",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which bank does not show in this viusalization?",
+        "A": "Homeward Residential",
+        "B": "JPMorgan Chase",
+        "C": "Royal Bank of Canada",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_215.png",
+    "vistype": "other",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It shows which countries produce cluster munition",
+        "B": "It shows which countries produce nuclear bombs",
+        "C": "It shows which countries produce weapons",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "What is the color of current producers?",
+		"type": "4",
+        "A": "Light Gray",
+        "B": "Dark blue",
+        "C": "Light blue",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "question": "What is the color of past producers?",
+		"type": "4",
+        "A": "Light Gray",
+        "B": "Dark blue",
+        "C": "Light blue",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "From which year is the data?",
+		"type": "3",
+        "A": "2010",
+        "B": "2012",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "question": "Only one country in africa is currently producing, which one is it?",
+		"type": "2",
+        "A": "Egypt",
+        "B": "South Africa",
+        "C": "Central Africa",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

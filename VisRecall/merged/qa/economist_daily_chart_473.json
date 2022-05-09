@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_473.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "US mid term elections",
+        "B": "US senate elections",
+        "C": "UN elections",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What is the year of latest projection?",
+        "A": "2015",
+        "B": "2010",
+        "C": "2018",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "What is the name of president in the latest projection?",
+        "A": "Bush Junior",
+        "B": "Clinton",
+        "C": "Obama",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "What is the name of president in the first projection?",
+        "A": "Truman",
+        "B": "Kennedy",
+        "C": "Eisenhower",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the interval of seats lost according to the visualization?",
+        "A": "0 to 80",
+        "B": "+10 to - 80",
+        "C": "0 to 100",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

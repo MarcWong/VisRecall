@@ -1,0 +1,49 @@
+{
+    "name": "treasuryJ03_3.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "FHA supports loan lending during crisis",
+        "B": "FHA supports mortgage lending during crisis",
+        "C": "FHA suppresses mortgage lending during crisis",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "When did the mortgage start decreasing?",
+        "A": "2008 Q1",
+        "B": "2009 Q1",
+        "C": "2008 Q3",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "What is the most used origination for mortgage in the figure?",
+        "A": "Purchase",
+        "B": "Refinance",
+        "C": "Both are the same",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "What is the highest percentage for purchase as a mortgage origination?",
+        "A": "around 50%",
+        "B": "around 40%",
+        "C": "around 30%",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Around when did the combination of purchase and refinance reach the lowest percentage in the figure?",
+        "A": "2003-2004",
+        "B": "2008-2010",
+        "C": "2005-2007",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

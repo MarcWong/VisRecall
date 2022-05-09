@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_203.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualisation?",
+        "A": "the global revenue and the market size of puzzel games in different countries  ",
+        "B": "the global revenue and the market size of mobil games in different countries ",
+        "C": "the global revenue and the market size of video games in different countries ",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "From which year in this picture is the forecasting?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which of these global revenues has the highest value all the time?",
+        "A": "Mobile",
+        "B": "PC",
+        "C": "In-game advertising",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which global revenue has the lowest value all the time ?",
+        "A": "Online ",
+        "B": "Console",
+        "C": "donate",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which of these countries has the biggest Market size?",
+        "A": "Germany",
+        "B": "China",
+        "C": "France",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

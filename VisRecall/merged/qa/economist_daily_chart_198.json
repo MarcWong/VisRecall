@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_198.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "World economies",
+        "B": "World imports",
+        "C": "World exports",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1990-2010",
+        "B": "1990-2011",
+        "C": "1990-2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What range of percentage does this visualization show?",
+        "A": "0-60",
+        "B": "0-70",
+        "C": "0-80",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "What decreases as time goes by?",
+        "A": "Developed economies",
+        "B": "Emerging economies",
+        "C": "General economies",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "What increases as time goes by?",
+        "A": "Developed economies",
+        "B": "Emerging economies",
+        "C": "General economies",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

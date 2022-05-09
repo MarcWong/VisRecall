@@ -1,0 +1,49 @@
+{
+    "name": "whoJ23.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Revenues coverage of operating costs for urban utilities",
+        "B": "Revenues coverage of operating costs for rural utilities",
+        "C": "Revenues coverage of operating costs for all utilities",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2001",
+        "B": "2011",
+        "C": "2021",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What percentage of the countries have operating ratio greater than 1.2?",
+        "A": "24",
+        "B": "34",
+        "C": "42",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which of the following accounts for the most?",
+        "A": "operating ratio greater than 1.2",
+        "B": "operating ratio between 0.8 and 1.2",
+        "C": "operating ratio less than 0.8",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "How many countries respond to the survey?",
+        "A": "50",
+        "B": "80",
+        "C": "66",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

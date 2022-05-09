@@ -1,0 +1,49 @@
+{
+    "name": "4dCSXyCVYOxhf_SLYhGkIw==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "GDP versus tourism",
+        "B": "GDP versus global temperature",
+        "C": "GDP versus life expectancy",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2001",
+        "B": "2007",
+        "C": "2009",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which continent has the largest population?",
+        "A": "Americas",
+        "B": "Asia",
+        "C": "Europe",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which continent has the lowest life expectancy?",
+        "A": "Americas",
+        "B": "Asia",
+        "C": "Africa",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "What is the rough relationship between life expectancy and GDP per capita?",
+        "A": "Positively related",
+        "B": "Negatively related",
+        "C": "No obvious relationship",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

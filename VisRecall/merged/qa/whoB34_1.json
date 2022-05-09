@@ -1,0 +1,50 @@
+{
+    "name": "whoB34_1.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Persons aged 60 years and over as a percentage of total population",
+        "B": "Persons aged 50 years and over as a percentage of total population",
+        "C": "Persons aged 40 years and over as a percentage of total population",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period of historical estimate does the visualization show?",
+        "A": "1940-2005",
+        "B": "1950-2005",
+        "C": "1950-2050",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which category has the highest percentage?",
+        "A": "Females, low and middle-income countries",
+        "B": "Males, high-income countries",
+        "C": "Females, high-income countries",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which category has the lowest percentage?",
+        "A": "Females, low and middle-income countries",
+        "B": "Males, low and middle-income countrie",
+        "C": "Males, high-income countries",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which year of projection does the data reflect to?",
+        "A": "2005",
+        "B": "2020",
+        "C": "2050",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

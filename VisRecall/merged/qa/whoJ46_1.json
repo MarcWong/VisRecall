@@ -1,0 +1,49 @@
+{
+    "name": "whoJ46_1.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Are hygiene promotion programmes implemented in primary schools?",
+        "B": "Are hygiene promotion programmes implemented in high schools?",
+        "C": "Are hygiene promotion programmes implemented in colleges?",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "In which percentage of schools do the number of countries are the most similar between urban and rural sanitation?",
+        "A": ">75%",
+        "B": "25-75%",
+        "C": "<25%",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "In which percentage of schools do most countries implement urban sanitations?",
+        "A": ">75%",
+        "B": "25-75%",
+        "C": "<25%",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "In which percentage of schools do most countries implement rural sanitations?",
+        "A": ">75%",
+        "B": "25-75%",
+        "C": "<25%",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

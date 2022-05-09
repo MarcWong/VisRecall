@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_243.png",
+    "vistype": "other",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Economic situation of all continents",
+        "B": "'Occupy' protests around the world",
+        "C": "Youth unemployment rate",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest unemployment rate in 2011?",
+        "A": "Spain",
+        "B": "Italy",
+        "C": "US",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest unemployment rate in 2011?",
+        "A": "Greece",
+        "B": "Japan",
+        "C": "Chile",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the highest percentage of government gross debt in 2011?",
+        "A": "Portugal",
+        "B": "Britain",
+        "C": "Japan",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

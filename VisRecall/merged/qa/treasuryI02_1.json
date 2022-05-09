@@ -1,0 +1,49 @@
+{
+    "name": "treasuryI02_1.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "New and Exisiting Home sales comparing Nation in 2010 and Nation in 2011",
+        "B": "New and Exisiting Home sales comparing Reno in 2010 and Reno in 2011",
+        "C": "New and Exisiting Home sales comparing Reno and Nation in 2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What is the scale used for determining the sale?",
+        "A": "Thousands",
+        "B": "Hundreds",
+        "C": "Lakhs",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What is the highest value of sale reported?",
+        "A": "Above 6500",
+        "B": "Below 5000",
+        "C": "Around 5000",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which year has recorded the highest number of new sale by Reno MSA?",
+        "A": "2006",
+        "B": "2005",
+        "C": "2004",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which year has recorded least number of sales for both Nation and Reno in terms of exisiting sales?",
+        "A": "2000",
+        "B": "2008",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

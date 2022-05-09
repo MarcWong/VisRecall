@@ -1,0 +1,49 @@
+{
+    "name": "whoB25_1.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Covered Transactions by Sector and Year, 2009-2011",
+        "B": "The Standard Model of particle physics",
+        "C": "HIV prevalence in women aged 15-49 years by region, 1990-2007",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What color in the visualization stands for Africa?",
+        "A": "Purple",
+        "B": "Orange",
+        "C": "Blue",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "In what range does the HIV prevalence reach the peak?",
+        "A": "1990-1996",
+        "B": "1996-2002",
+        "C": "2002-2007",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which of these regions has not shown in the legend of this visualization?",
+        "A": "Asia",
+        "B": "Western Pacific",
+        "C": "Europe",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Where does the source come from?",
+        "A": "NMCP reports",
+        "B": "UNAIDS and WHO Database 2009",
+        "C": "2011 GLAAS country survey",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

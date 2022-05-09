@@ -1,0 +1,49 @@
+{
+    "name": "whoF15.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Age distribution of burden of water shortage by income group",
+        "B": "Age distribution of burden of disease by income group",
+        "C": "Age distribution of burden of air pollution by income group",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2014",
+        "B": "2009",
+        "C": "2004",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which age group takes the largest proportion in high-income countries?",
+        "A": "60 years and over",
+        "B": "15-59 years",
+        "C": "0-4 years",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which age group takes the second largest proportion in high-income countries?",
+        "A": "60 years and over",
+        "B": "15-59 years",
+        "C": "0-4 years",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Which age group takes the second largest proportion in low- and middle-income countries?",
+        "A": "60 years and over",
+        "B": "15-59 years",
+        "C": "0-4 years",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

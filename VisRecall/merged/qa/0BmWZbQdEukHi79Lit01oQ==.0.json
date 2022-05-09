@@ -1,0 +1,49 @@
+{
+    "name": "0BmWZbQdEukHi79Lit01oQ==.0.png",
+    "vistype": "other",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Breeding bird numbers",
+        "B": "Breeding bird species abundance",
+        "C": "Breeding bird colors",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which areas are considered in this experience?",
+        "A": "grassland area",
+        "B": "desert area",
+        "C": "Urban fringe",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which area has the highest value?",
+        "A": "Rural area",
+        "B": "Urban area",
+        "C": "Urban fringe",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which area has the lowest value?",
+        "A": "Rural area",
+        "B": "Urban area",
+        "C": "Urban fringe",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which area has the highest average value?",
+        "A": "Rural area",
+        "B": "Urban area",
+        "C": "Urban fringe",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "wsj128.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "How much German pension funds have invested in assets in each country",
+        "B": "How much Finnish pension funds have invested in assets in each country",
+        "C": "How much French pension funds have invested in assets in each country",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2011-2013",
+        "B": "2009-2011",
+        "C": "2010-2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which country is not mentioned in this visualization?",
+        "A": "Spain",
+        "B": "Hungary",
+        "C": "Greece",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the highest value in 2010?",
+        "A": "Italy",
+        "B": "Spain",
+        "C": "Greece",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Compared to year 2010, which country's value decreased the most in year 2012?",
+        "A": "Portugal",
+        "B": "Italy",
+        "C": "Spain",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

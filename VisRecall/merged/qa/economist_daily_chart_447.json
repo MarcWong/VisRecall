@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_447.png",
+    "vistype": "table",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "The Economist poll of forecasters",
+        "B": "The Sociologist poll of forecasters",
+        "C": "The Historian poll of forecasters",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which month's data is displayed in this visualization?",
+        "A": "May",
+        "B": "August",
+        "C": "Decemeber",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "Which period of data does this visualization show?",
+        "A": "2009-2010",
+        "B": "2010-2011",
+        "C": "2011-2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the highest average GDP in 2010?",
+        "A": "Australia",
+        "B": "Germany",
+        "C": "Sweden",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the highest average GDP in 2011?",
+        "A": "Australia",
+        "B": "Germany",
+        "C": "Sweden",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

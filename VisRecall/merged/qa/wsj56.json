@@ -1,0 +1,49 @@
+{
+    "name": "wsj56.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Clout of cloth",
+        "B": "Number of women",
+        "C": "election of congress",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What is the trend of number of women in House Congress?",
+        "A": "Decreasing",
+        "B": "Didn't change",
+        "C": "Increasing",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "Which color stands for Senate?",
+        "A": "Brown",
+        "B": "Green",
+        "C": "Orange",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "How many women are in House and Senate Congress after 2010?",
+        "A": "60-80",
+        "B": "80-100",
+        "C": "100-120",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the source of this visualization?",
+        "A": "The Wall Street Journal",
+        "B": "The Economist",
+        "C": "Democatic National Committee",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

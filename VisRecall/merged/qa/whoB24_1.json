@@ -1,0 +1,49 @@
+{
+  "name": "whoB24_1.png",
+  "vistype": "other",
+  "Q1": {
+    "type": "0",
+    "question": "What is the main topic of the visualization?",
+    "A": "Distribution of countries by numbers of cervical cancer cases attributable to unsafe abortion and legal grounds for abortion",
+    "B": "Distribution of countries by numbers of hospitalizations attributable to unsafe abortion and legal grounds for abortion",
+    "C": "Distribution of countries by numbers of deaths attributable to unsafe abortion and legal grounds for abortion",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q2": {
+    "type": "3",
+    "question": "What were the scaling factor of this visualization?",
+    "A": "10 000",
+    "B": "100 000",
+    "C": "1 000 000",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "What is the highest number of deaths attribute to unsafe abortion in this visualization?",
+    "A": ">200",
+    "B": "150-200",
+    "C": "100-150",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q4": {
+    "type": "2",
+    "question": "Which legal ground has the relative lower death cases?",
+    "A": "To save the women's life only, or no grounds",
+    "B": "Also to preserve health",
+    "C": "Also for economic or social reasons",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q5": {
+    "type": "2",
+    "question": "Which legal ground has the relative higher death cases?",
+    "A": "Also in cases of rape or incest",
+    "B": "Also to preserve health",
+    "C": "Also for economic or social reasons",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

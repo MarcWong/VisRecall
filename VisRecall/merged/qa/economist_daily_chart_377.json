@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_377.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Manned spaceflight",
+        "B": "Spaceflight Nationality",
+        "C": "Spaceflight missions",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "When is the earlist year in this visualization?",
+        "A": "1959",
+        "B": "1960",
+        "C": "1961",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which country is not ploted in the figure?",
+        "A": "Russia",
+        "B": "Britain",
+        "C": "China",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "During which decade has the average length of mission reached the peak (highest value)?",
+        "A": "1970-80",
+        "B": "1980-90",
+        "C": "1990-2000",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the maximun missions in a year?",
+        "A": "10-12",
+        "B": "12-14",
+        "C": "14-16",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

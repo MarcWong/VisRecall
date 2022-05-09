@@ -1,0 +1,49 @@
+{
+  "name": "whoC13.png",
+  "vistype": "bar",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Number of new cases of yaws reported in indonesia",
+    "B": "Number of cases of yaws reported in indonesia",
+    "C": "Number of cases of crimes reported in indonesia",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2010",
+    "B": "2001-2009",
+    "C": "2001-2010",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which year has the highest number of new cases reported?",
+    "A": "2006",
+    "B": "2007",
+    "C": "2001",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which year has the lowest number of new cases reported?",
+    "A": "2002",
+    "B": "2001",
+    "C": "2009",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "How many new cases reported in 2001?",
+    "A": "around 1000",
+    "B": "around 2000",
+    "C": "around 3000",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

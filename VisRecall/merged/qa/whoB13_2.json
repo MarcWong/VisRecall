@@ -1,0 +1,49 @@
+{
+    "name": "wsj320.png",
+    "vistype": "pie",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Distribution of major causes of death in girls under five years of age",
+        "B": "Distribution of major causes of death in girls under ten years of age",
+        "C": "Distribution of major causes of death in boys  under five years of age",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2002",
+        "B": "2004",
+        "C": "2006",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which cause of death accounts for the largest percentage?",
+        "A": "Pneumonia",
+        "B": "Diarrhoea",
+        "C": "Measles",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "In which cause does the contribution of undernutrition account for the largest percentage?",
+        "A": "Pneumonia",
+        "B": "Diarrhoea",
+        "C": "Severe neoatal infections",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which cause of death accounts for the least percentage?",
+        "A": "Injuries",
+        "B": "Measles",
+        "C": "Nutritional deficiencies",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

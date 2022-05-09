@@ -1,0 +1,49 @@
+{
+    "name": "treasuryK04.png",
+    "vistype": "table",
+    "Q1": {
+        "question": "What type of information is given in this chart?",
+		"type": "0",
+        "A": "Number of cars sold in America",
+        "B": "Most successful box office film of 2011",
+        "C": "Summary Financial Information",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "question": "Which currency is used in the chart?",
+		"type": "2",
+        "A": "Euros",
+        "B": "Dollars",
+        "C": "Yen",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "question": "How are negative numbers represented?",
+		"type": "3",
+        "A": "Negative sign",
+        "B": "Red font",
+        "C": "Parentheses",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "Does the net custodial revenue compensate for the net federal debt interest costs in 2012?",
+		"type": "4",
+        "A": "Yes",
+        "B": "No",
+        "C": "They're the same",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "Which time range is represented in this chart?",
+		"type": "3",
+        "A": "2011-2012",
+        "B": "2010-2011",
+        "C": "2012-2013",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "whoK21.png",
+    "vistype": "pie",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Most of those using an improved drinking water source also use improved sanitation",
+        "B": "Few of those using an improved drinking water source also use improved sanitation",
+        "C": "Most of those using an improved drinking water source don't use improved sanitation",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "3",
+        "question": "How many developing countries are included in the data?",
+        "A": "16",
+        "B": "59",
+        "C": "25",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "Which type of data in the figure is marked in blue?",
+        "A": "Water only",
+        "B": "Neither water nor sanitation",
+        "C": "Sanitation only",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which type of data accounted for the most?",
+        "A": "Water only",
+        "B": "Neither Neither water nor sanitation",
+        "C": "Both water and sanitation",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which type of data accounted for the least?",
+        "A": "Sanitation only",
+        "B": "Neither Neither water nor sanitation",
+        "C": "Both water and sanitation",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

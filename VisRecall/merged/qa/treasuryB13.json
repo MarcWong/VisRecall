@@ -1,0 +1,49 @@
+{
+    "name": "treasuryB13.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "The crisis response helped prevent the collapse of the financial system and stabilized AIA",
+        "B": "The crisis response helped prevent the collapse of the insurance system and stabilized AIA",
+        "C": "The crisis response helped prevent the collapse of the financial system and stabilized AIG",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "For the government, what is expected to realize on its investment?",
+        "A": "Gain",
+        "B": "Loss",
+        "C": "Balance out",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "When does the maximum commitment happen?",
+        "A": "March 2009",
+        "B": "March 2012",
+        "C": "Mach 2008",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "How many percentage of the maximum committment returned or cancelled until March 2012?",
+        "A": "Over 25%",
+        "B": "Over 50%",
+        "C": "Over 75%",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Where does the total committment come from?",
+        "A": "Treasury",
+        "B": "Federal Reserve",
+        "C": "Treasury and Federal Reserve",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

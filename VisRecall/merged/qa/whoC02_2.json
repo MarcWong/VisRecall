@@ -1,0 +1,49 @@
+{
+    "name": "whoC02_2.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Number of people reached by preventive chemotherapy for at least five neglected tropical disease",
+        "B": "Number of people reached by preventive chemotherapy for at least one neglected tropical disease",
+        "C": "Number of people reached by preventive chemotherapy for at least two neglected tropical disease",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "1",
+        "question": "Which WHO region has the highest number of countries?",
+        "A": "European",
+        "B": "South-East Asia",
+        "C": "African",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which category has the lowest rate?",
+        "A": "Secondary education or higher",
+        "B": "No education",
+        "C": "Primary education only",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "What is the total number of people globally reached according to the visualization?",
+        "A": "Around 660000000",
+        "B": "Around 550000000",
+        "C": "Around 400000000",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the year value seen in the visualization?",
+        "A": "2008",
+        "B": "2018",
+        "C": "2004",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

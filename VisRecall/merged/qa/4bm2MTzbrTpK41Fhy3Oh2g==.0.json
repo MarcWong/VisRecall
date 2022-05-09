@@ -1,0 +1,49 @@
+{
+    "name": "4bm2MTzbrTpK41Fhy3Oh2g==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Using Icon markers in Highcharts",
+        "B": "Using Line markers in Highcharts",
+        "C": "Using Image markers in Highcharts",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What does the red icon represent?",
+        "A": "Male",
+        "B": "Female",
+        "C": "Girls",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "What does the blue icon represent?",
+        "A": "Female",
+        "B": "Girls",
+        "C": "Male",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "What is the minimum value of x-axis?",
+        "A": "90-100",
+        "B": "80-90",
+        "C": "70-80",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "What is the maximum value of x-axis?",
+        "A": "170-180",
+        "B": "180-190",
+        "C": ">190",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

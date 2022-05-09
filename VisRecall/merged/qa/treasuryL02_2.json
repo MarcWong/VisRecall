@@ -1,0 +1,49 @@
+{
+    "name": "wsj320.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Covered Transactions by Region",
+        "B": "Covered Transactions by Country",
+        "C": "Covered Transactions by Sector",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which period of data does this visualization show?",
+        "A": "2009-2011",
+        "B": "2010-2012",
+        "C": "2011-2013",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which sector has the highest number of transactions in 2011?",
+        "A": "Manufacturing",
+        "B": "Finance, Information and Services",
+        "C": "Mining, Utilities and Construction",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "How many transactions did Manufacturing covered?",
+        "A": "Around 10",
+        "B": "Around 30",
+        "C": "Around 50",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which sector has the lowest number of transactions in 2011?",
+        "A": "Manufacturing",
+        "B": "Finance, Information and Services",
+        "C": "Wholesale, Retail adn Transportatio",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

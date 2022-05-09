@@ -1,0 +1,49 @@
+{
+    "name": "whoF03.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Per cent distribution of age at death by region, 2004",
+        "B": "Per cent distribution of age at diabetes by region, 2004",
+        "C": "Value distribution of age at diabetes by region, 2004",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "1",
+        "question": "Which region has the highest death percent distribution between 0-14 years old?",
+        "A": "South-East Asia",
+        "B": "Africa",
+        "C": "Europe",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which region has the lowest death percent distribution between 0-14 years old?",
+        "A": "South-East Asia",
+        "B": "Western Pacific",
+        "C": "High income",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which region has the highest percent distribution of death for 60 years and older?",
+        "A": "High income",
+        "B": "Africa",
+        "C": "Americas",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which region has the lowest percent distribution of death for 60 years and older?",
+        "A": "High income",
+        "B": "Africa",
+        "C": "Americas",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

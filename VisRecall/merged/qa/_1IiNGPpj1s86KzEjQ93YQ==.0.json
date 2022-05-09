@@ -1,0 +1,49 @@
+{
+    "name": "_1IiNGPpj1s86KzEjQ93YQ==.0.jpg",
+    "vistype": "scatter",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It plots the validation loss over epochs",
+        "B": "It plots the training loss over epochs",
+        "C": "It plots the test loss over epochs",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "Which models are compared?",
+		"type": "2",
+        "A": "Two different model types",
+        "B": "An original model with a smaller version",
+        "C": "An original model with a bigger version",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "For how many epochs were the models trained?",
+		"type": "3",
+        "A": "10",
+        "B": "20",
+        "C": "15",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "question": "Which markers are used to visualize the data points?",
+		"type": "4",
+        "A": "Plus and Circle",
+        "B": "Cross and Circle",
+        "C": "Cross and Rectangle",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "What is the highest validation loss achieved by any model?",
+		"type": "1",
+        "A": "about 0.8",
+        "B": "about 1.1",
+        "C": "about 0.9",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

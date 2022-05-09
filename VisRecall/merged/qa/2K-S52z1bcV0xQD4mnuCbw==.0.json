@@ -1,0 +1,49 @@
+{
+    "name": "2K-S52z1bcV0xQD4mnuCbw==.0.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "New York Times'Print revenue has declined",
+        "B": "New York Times' digital revenue has increased",
+        "C": "New York Times' print revenue has declined while digital revenue increased",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which print revenue has a decrease of 36%?",
+        "A": "Ad revenue",
+        "B": "Subscription revenue",
+        "C": "combined revenue ",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "Which digital revenue has been soared by 4 times?",
+        "A": "ad revenue",
+        "B": "Subscription revenue",
+        "C": "Malta",
+        "D": "combined revenue",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which revenue of New York Times Company has the highest value?",
+        "A": "Combined revenue from print",
+        "B": "ad revenue from digital",
+        "C": "subscription revenue from print",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which revenue has fast no change?",
+        "A": "ad revenue from digital",
+        "B": "subscription revenue from print",
+        "C": "Combined revenue from print",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

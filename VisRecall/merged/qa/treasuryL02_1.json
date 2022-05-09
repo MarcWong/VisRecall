@@ -1,0 +1,49 @@
+{
+    "name": "treasuryL02_1.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Covered Transactions by Sector and Year",
+        "B": "Covered Transactions by Field and Year",
+        "C": "Covered Transactions by Industry and Year",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which years' data are displayed in this visualization?",
+        "A": "2009-2011",
+        "B": "2008-2011",
+        "C": "2008-2012",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which year has the highest total value?",
+        "A": "2008",
+        "B": "2009",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which year has the lowest total value?",
+        "A": "2008",
+        "B": "2009",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which one of the followings has the highest total value?",
+        "A": "Manufacturing",
+        "B": "Finance, Information, and Services",
+        "C": "Mining, Utilies, and Construction",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

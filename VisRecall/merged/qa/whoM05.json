@@ -1,0 +1,49 @@
+{
+    "name": "whoM05.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Tobacco",
+        "B": "Alcohol",
+        "C": "Cardiovascular",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "1",
+        "question": "What Region has the highest propotion of deaths among Men?",
+        "A": "African",
+        "B": "European",
+        "C": "South East Asian",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "What Region has the highest propotion of deaths among Women?",
+        "A": "Americas",
+        "B": "Eastern Mediterannean",
+        "C": "Western Pacific",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "What Region has the lowest propotion of deaths among All adults?",
+        "A": "Eastern Mediterannean",
+        "B": "African",
+        "C": "Western Pacific",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which gender has higher propotion of deaths of Global?",
+        "A": "Men",
+        "B": "Women",
+        "C": "Same",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

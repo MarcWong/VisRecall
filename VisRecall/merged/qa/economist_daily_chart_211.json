@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_211.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Computing power and stockmarkets",
+        "B": "Computing only stock markets",
+        "C": "Computing only a power on specific commodity",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What are the sources of the visualization?",
+        "A": "Intel and The Economist",
+        "B": "Intel,NYSE Euronext and The Economist",
+        "C": "Intel",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "What is the name of the city present in visualization?",
+        "A": "Washington",
+        "B": "New Jersey",
+        "C": "New York",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "What does the brown line represent?",
+        "A": "Transistor count on integrated circuits",
+        "B": "Shares traded on the New York Stock",
+        "C": "Shares traded on the New Jersey Stock",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "What does the blue line represent?",
+        "A": "Transistor count on integrated circuits",
+        "B": "Shares traded on the New York Stock",
+        "C": "Shares traded on the New Jersey Stock",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

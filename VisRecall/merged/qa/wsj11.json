@@ -1,0 +1,49 @@
+{
+    "name": "wsj11.png",
+    "vistype": "bar",
+    "Q1": {
+        "question": "Which ethnic group is targeted in this graph?",
+		"type": "2",
+        "A": "Chinese",
+        "B": "Japanese",
+        "C": "Americans",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "Which two years are being compared in this figure?",
+		"type": "2",
+        "A": "2009 and 2012",
+        "B": "2008 and 2013",
+        "C": "2000 and 2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "question": "Which ethnic group is least represented in Spain, according to this graph?",
+		"type": "1",
+        "A": "Germany",
+        "B": "France",
+        "C": "Romania",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "question": "Approximately how many Chinese are self-employed in Spain in 2012?",
+		"type": "2",
+        "A": "30,000",
+        "B": "40,000",
+        "C": "10,000",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "question": "Which ethnic group increased the least its number of self-employed members in Spain between 2009 and 2012?",
+		"type": "2",
+        "A": "U.K.",
+        "B": "Germany",
+        "C": "Italy",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

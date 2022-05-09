@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_225.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Change in emerging markets' foreign-currency reserves",
+        "B": "Change in emerging markets' material  reserves",
+        "C": "Change in emerging markets' technology  reserves",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has made the biggest negative change during this period?",
+        "A": "China",
+        "B": "Russia",
+        "C": "Singapore",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has made the smallest change during this period?",
+        "A": "Peru",
+        "B": "Colombia",
+        "C": "Philippines",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has made the biggest positive change during this period?",
+        "A": "China",
+        "B": "Mexico",
+        "C": "Saudi Arabia",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

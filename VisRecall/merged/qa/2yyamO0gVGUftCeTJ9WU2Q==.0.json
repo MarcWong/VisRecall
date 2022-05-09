@@ -1,0 +1,49 @@
+{
+  "name": "2yyamO0gVGUftCeTJ9WU2Q==.0.png",
+  "vistype": "scatter",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "B": "Correlation between how well a country's population speaks english and Human Development Index",
+    "A": "Correlation between how well a country's population speaks more than one language and Human development index",
+    "C": "Correlation between how well a country's population speaks german and Human development index",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q2": {
+    "type": "0",
+    "question": "What is the title of this visualization?",
+    "A": "Better Education Better Quality of Life",
+    "B": "Better English Better Quality of Life",
+    "C": "Commonwelath Nations have Better Quality of Life",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which country has the lowest EF EPI score?",
+    "A": "Saudi arabia",
+    "B": "India",
+    "C": "China",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which country has the Highest EF EPI score?",
+    "A": "Norway",
+    "B": "India",
+    "C": "China",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q5": {
+    "type": "1",
+    "question": "Which country has Lowest Human Development Index?",
+    "A": "India",
+    "B": "Russia",
+    "C": "Greece",
+    "D": "I can not remember",
+    "answer": "A"
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "whoL06.png",
+    "vistype": "bar",
+    "Q1": {
+        "question": "What is the theme of this table?",
+		"type": "0",
+        "A": "Child mortality",
+        "B": "Income tax",
+        "C": "Budget",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "In what year was this data gathered?",
+		"type": "2",
+        "A": "2014",
+        "B": "2008",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "Which region had the lowest percentage of reporting forms received in September?",
+		"type": "1",
+        "A": "Western pacific",
+        "B": "European",
+        "C": "Eastern Mediterranean",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "Which region has the fewer number of countries per area?",
+		"type": "2",
+        "A": "European",
+        "B": "Western pacific",
+        "C": "African",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "What is the source of the data?",
+		"type": "2",
+        "A": "Commission on Social Determinants of Health",
+        "B": "WHO",
+        "C": "World Health Organization",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

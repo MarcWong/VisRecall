@@ -1,0 +1,49 @@
+{
+    "name": "168.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Mobile Applications",
+        "B": "Patent Applications",
+        "C": "License Applications",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which year is not displayed in this visualization?",
+        "A": "2005",
+        "B": "2009",
+        "C": "2013",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which year has the highest value of pattern applications?",
+        "A": "2005",
+        "B": "2009",
+        "C": "2013",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "What color stands for Residents?",
+        "A": "Red",
+        "B": "Blue",
+        "C": "Green",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "In which year Non-Residents has lower number of applications than Residents do?",
+        "A": "2006",
+        "B": "2010",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

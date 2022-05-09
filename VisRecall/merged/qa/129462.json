@@ -1,0 +1,49 @@
+{
+    "name": "129462.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Balance of Payments for Robots",
+        "B": "Balance of payments for transport services",
+        "C": "Balance of payments for Cross-Border Trade",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2000-2010",
+        "B": "2004-2008",
+        "C": "2005-2007",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest value during this period?",
+        "A": "Argentina",
+        "B": "Armenia",
+        "C": "Australia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest value during this period?",
+        "A": "Australia",
+        "B": "Austria",
+        "C": "Azerbaijan",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "What is the maximum value approximately during this period?",
+        "A": "Around 15%",
+        "B": "Around 25%",
+        "C": "Around 35%",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

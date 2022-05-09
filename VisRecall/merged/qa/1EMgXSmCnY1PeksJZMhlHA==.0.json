@@ -1,0 +1,49 @@
+{
+    "name": "1EMgXSmCnY1PeksJZMhlHA==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Efficiency of popular model of Cars by class ",
+        "B": "Efficiency of popular model of Cars by Brands",
+        "C": "Efficiency of popular model of Cars by color",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What is the y-axis?",
+        "A": "Popular Model of Cars",
+        "B": "Highway Miles per Gallon",
+        "C": "Engine Displacement",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "What interval of data does the visualization show in terms of Engine displacement?",
+        "A": "2-7",
+        "B": "1-8",
+        "C": "2-6",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which car is most prevelant in the visualization?",
+        "A": "subcompact",
+        "B": "SUV",
+        "C": "midsize",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which car is least prevelant in the visualization?",
+        "A": "compact",
+        "B": "minivan",
+        "C": "2seater",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

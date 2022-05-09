@@ -1,0 +1,49 @@
+{
+    "name": "wsj3.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Direct Deposit",
+        "B": "Indirect Deposit",
+        "C": "Average Deposit",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "4",
+        "question": "What does the blue bar data represent in this visualization?",
+        "A": "Position",
+        "B": "Total compensation, percentage change 2008 to 2012",
+        "C": "Average 2012 total compensation",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which position has the largest proportion of total compensations?",
+        "A": "CEO/President",
+        "B": "Experienced teller",
+        "C": "Commercial loan officer",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which position has the smallest proportion of total compensations?",
+        "A": "Chief compliance officer",
+        "B": "Loan workout officer",
+        "C": "Call center representative",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which position has the smallest proportion of average 2012 total compensation?",
+        "A": "CEO/President",
+        "B": "Experienced teller",
+        "C": "Commercial loan officer",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_242.png",
+    "vistype": "other",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Global malaria deaths and R&D funding",
+        "B": "Global smallpox deaths and R&D funding",
+        "C": "Global malaria deaths and P&G funding",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2000-2009",
+        "B": "2001-2021",
+        "C": "2007-2009",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which area has the highest value in 2000?",
+        "A": "Africa",
+        "B": "Americas",
+        "C": "South-East Asia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which area has the lowest value in 2003?",
+        "A": "Africa",
+        "B": "Americas",
+        "C": "South-East Asia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "What year did R&D funding have the highest value?",
+        "A": "2000",
+        "B": "2005",
+        "C": "2009",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

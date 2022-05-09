@@ -1,0 +1,50 @@
+{
+    "name": "wsj277.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Cook Political Report",
+        "B": "In the Mix",
+        "C": "Democrats",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which party hold the higher number of seats?",
+        "A": "Democrats",
+        "B": "Republicans",
+        "C": "the same",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Democrats holds the most seats in (  )?",
+        "A": "Solid D",
+        "B": "Likely D",
+        "C": "Lean D",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Republicans holds the most seats in (  )?",
+        "A": "Toss up",
+        "B": "Solid R",
+        "C": "Likely R",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "How many seats held by republicans are there in total?",
+        "A": "2",
+        "B": "22",
+        "C": "10",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

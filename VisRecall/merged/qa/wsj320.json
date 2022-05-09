@@ -1,0 +1,49 @@
+{
+    "name": "wsj320.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Average temperature in the contiguous 48 states",
+        "B": "Average probability of precipitation in the contiguous 48 states",
+        "C": "Average Humidity in the contiguous 48 states",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What month's data is displayed in this visualization?",
+        "A": "May",
+        "B": "June",
+        "C": "July",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "Which period of data does this visualization show?",
+        "A": "since 1895",
+        "B": "since 1900",
+        "C": "since 1950",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which year has the highest value?",
+        "A": "1900",
+        "B": "1936",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "what is the highest temperature in this visualization",
+        "A": "Around 70",
+        "B": "Around 74",
+        "C": "Around 78",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

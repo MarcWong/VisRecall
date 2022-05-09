@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_223.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Alcohol production and breakeven costs",
+        "B": "Electronic devices production and breakeven costs",
+        "C": "Oil and gas production and breakeven costs",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which two years the data is compared in this visualization?",
+        "A": "2011 and 2015",
+        "B": "2011 and 2025",
+        "C": "2011 and 2035",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which district has the largest production in 2011?",
+        "A": "OECD Americas",
+        "B": "Middle East and North Africa",
+        "C": "Easter Europe / Eurasia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which district has the smallest production in 2011?",
+        "A": "Latin America",
+        "B": "Asia",
+        "C": "Rest of Africa",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "In which district the production is predicted to decrease and the breakeven cost to increase?",
+        "A": "OECD Americas",
+        "B": "Rest of OECD",
+        "C": "Rest of Africa",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

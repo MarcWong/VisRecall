@@ -1,0 +1,50 @@
+{
+    "name": "whoN06_1.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Recorded adult per capita consumption of specific alcoholic beverages",
+        "B": "Recorded adult per capita consumption of specific carbonated beverages",
+        "C": "Recorded adult per capita consumption of specific juices",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1995-2005",
+        "B": "2000-2015",
+        "C": "1990-2005",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which of the following beverages consumed the most per capita during this period?",
+        "A": "Beer",
+        "B": "Spirits",
+        "C": "Wine",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which of the following beverages consumed the least per capita during this period?",
+        "A": "Beer",
+        "B": "Spirits",
+        "C": "Wine",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "How many alcoholic beverages does each person consume per year?",
+        "A": "Around 5 litres",
+        "B": "Around 4.5 litres",
+        "C": "Around 4 litres",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

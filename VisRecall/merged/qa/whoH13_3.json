@@ -1,0 +1,49 @@
+{
+    "name": "whoH13_3.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Absolute difference in under four mortality",
+        "B": "Absolute difference in under five mortality",
+        "C": "Absolute difference in under six mortality",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which one of the criterias appears on this visualization?",
+        "A": "Place of education",
+        "B": "Place of birth",
+        "C": "Place of residence",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which criteria has the most absolute difference in under five mortality?",
+        "A": "Education of Mother",
+        "B": "Wealth quintile",
+        "C": "Place of residence",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which criteria has the least absolute difference in under five mortality?",
+        "A": "Education of Mother",
+        "B": "Wealth quintile",
+        "C": "Place of residence",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the absolute difference in under five mortality of Education of Mother?",
+        "A": "Around 35",
+        "B": "Around 5",
+        "C": "Around 65",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

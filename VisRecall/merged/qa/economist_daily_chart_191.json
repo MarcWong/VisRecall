@@ -1,0 +1,49 @@
+{
+  "name": "economist_daily_chart_191.png",
+  "vistype": "other",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "election result prediction in 2012",
+    "B": "Student elections and selections in 2012",
+    "C": "Leadership elections and selections in 2012 ",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What is the source of data that is displayed in this visualization?",
+    "A": "The washington Post",
+    "B": "New york Times",
+    "C": "The Economist",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q3": {
+    "type": "2",
+    "question": "Which country's Leadership election doesn't have the month of election mentioned?",
+    "A": "Egypt",
+    "B": "China",
+    "C": "Malta",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q4": {
+    "type": "2",
+    "question": "Which country has the presedential election on Two different days?",
+    "A": "Kenya",
+    "B": "France",
+    "C": "Mexico",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "2",
+    "question": "Which is the only european nation having its election in 2012?",
+    "A": "France",
+    "B": "Hungary",
+    "C": "Greece",
+    "D": "I can not remember",
+    "answer": "A"
+  }
+}

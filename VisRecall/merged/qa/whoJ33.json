@@ -1,0 +1,49 @@
+{
+    "name": "whoJ33.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Trends in aid for water and sanitation, education and (health population HIV AIDS) as a percentage of total ODA commitments",
+        "B": "rends in aid for water and education and (health population HIV AIDS) as a percentage of total ODA commitments",
+        "C": "Trends in aid for water and sanitation and (health population HIV AIDS) as a percentage of total ODA commitments",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1900-2010",
+        "B": "1995-2010",
+        "C": "1995-2015",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which of the following has the highest percentage of total ODA commitments in 2010?",
+        "A": "Sanitation and wate",
+        "B": "Education",
+        "C": "Health, population, (HIV AIDS)",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "How much ODA commitments does educatoin use in 2010?",
+        "A": "US$ 19.5 billion",
+        "B": "US$ 13.3 billion",
+        "C": "US$ 7.8 billion",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "What year has lowest aid for sanitaion and water?",
+        "A": "1999",
+        "B": "2000",
+        "C": "2002",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

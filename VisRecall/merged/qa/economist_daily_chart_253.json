@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_253.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Currencies against the dollar",
+        "B": "Currencies against the euro",
+        "C": "Currencies against the rupee",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which months' data are displayed in this visualization?",
+        "A": "Jan to Sep",
+        "B": "Jan to Oct",
+        "C": "Jan to Dec",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "Which currency continues to rise?",
+        "A": "Yuan",
+        "B": "Zloty",
+        "C": "Real",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Which currency is displayed in brown?",
+        "A": "Dollar",
+        "B": "Euro",
+        "C": "Rupee",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

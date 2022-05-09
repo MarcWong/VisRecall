@@ -1,0 +1,49 @@
+{
+    "name": "treasuryA8.png",
+    "vistype": "line",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It shows the employment growth in the logistics industry",
+        "B": "It shows the employment growth in the finance industry",
+        "C": "It shows the employment growth in the auto industry",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "question": "What is the employment growth since June 2009?",
+		"type": "2",
+        "A": "about 20,000",
+        "B": "about 200,000",
+        "C": "about 2,000,000",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "question": "What period of data does this visualization show?",
+		"type": "3",
+        "A": "2009-2016",
+        "B": "2009-2014",
+        "C": "2009-2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "When did the restructuring of GM & Chrysler happen?",
+		"type": "3",
+        "A": "June 2009",
+        "B": "July 2009",
+        "C": "August 2009",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "question": "What is the lowest amount of payrolls at any given time (in thousands)?",
+		"type": "1",
+        "A": "225",
+        "B": "2250",
+        "C": "5220",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

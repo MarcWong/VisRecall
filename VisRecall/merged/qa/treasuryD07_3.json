@@ -1,0 +1,49 @@
+{
+    "name": "treasuryD07_3.png",
+    "vistype": "table",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Homeowner's HOPE Hotline Volume",
+        "B": "HOPE Access Voulume",
+        "C": "Homeowner's Program Volume",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "3",
+        "question": "How many calls have been taken to 1-888-995-HOPE program to date?",
+        "A": "3330696",
+        "B": "1601398",
+        "C": "71177",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "3",
+        "question": "How many calls have been taken to 1-888-995-HOPE in August?",
+        "A": "3330696",
+        "B": "1601398",
+        "C": "71177",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "How many borrowers referred for free housing counseling assistance through the homeowner's HOPE Hotline program to date?",
+        "A": "1601398",
+        "B": "3330696",
+        "C": "71177",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "How many borrowers referred for free housing counseling assistance through the homeowner's HOPE Hotline in August?",
+        "A": "1601398",
+        "B": "37589",
+        "C": "71177",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

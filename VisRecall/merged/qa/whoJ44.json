@@ -1,0 +1,49 @@
+{
+    "name": "whoJ44.png",
+    "vistype": "line",
+    "Q1": {
+        "question": "What trend does the ODA have?",
+		"type": "4",
+        "A": "It's increasing",
+        "B": "It's decreasing",
+        "C": "It stays the same",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "question": "In what currency is the budget support shown?",
+		"type": "2",
+        "A": "US dollars",
+        "B": "Canadian dollars",
+        "C": "Euros",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "question": "How much total ODA was spent in 2007?",
+		"type": "3",
+        "A": "US$ 164 billion",
+        "B": "US$ 4.4 billion",
+        "C": "US$ 125 billion",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "What is the earliest year shown in this graph?",
+		"type": "2",
+        "A": "2010",
+        "B": "2005",
+        "C": "2000",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "question": "What is the general trend to general budget support?",
+		"type": "4",
+        "A": "It is increasing",
+        "B": "It stays the same",
+        "C": "It is decreasing",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

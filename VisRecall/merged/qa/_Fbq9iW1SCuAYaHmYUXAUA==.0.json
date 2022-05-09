@@ -1,0 +1,49 @@
+{
+    "name": "_Fbq9iW1SCuAYaHmYUXAUA==.0.jpg",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Relationship between ACSI and GDP scores by industry",
+        "B": "Relationship between GDP and Temkin NPS scores by industry",
+        "C": "Relationship between ACSI and Temkin NPS scores by industry",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2015-2018",
+        "B": "2010-2015",
+        "C": "2013-2017",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "4",
+        "question": "what is the approximate relationship between the two scores?",
+        "A": "Linear function",
+        "B": "Quadratic function",
+        "C": "Exponential function",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "4",
+        "question": "What is the interval of the horizontal coordinate?",
+        "A": "50-80",
+        "B": "60-85",
+        "C": "70-100",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "4",
+        "question": "What is the interval of the vertical coordinate?",
+        "A": "-10-60",
+        "B": "0-70",
+        "C": "10-80",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

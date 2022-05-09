@@ -1,0 +1,50 @@
+{
+    "name": "3lG2Suf1vlUNqfO9pvq1kw.0.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the main topic of the visualization?",
+        "A": "comparision between the prevalence of undernourishment and daily supply of calories",
+        "B": "comparision between GDP per capita and daily supply of calories",
+        "C": "comparision between the prevalence of undernourishment and GDP per capita",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year was the data collected?",
+        "A": "2003",
+        "B": "2013",
+        "C": "2018",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest prevalence of undernourishment?",
+        "A": "Haiti",
+        "B": "North Korea",
+        "C": "Zambia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which following country has the relative higher daily caloric supply?",
+        "A": "China",
+        "B": "Russia",
+        "C": "Egypt",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "What is the highest value of daily caloric supply in this visualization?",
+        "A": "Among 3600 kcal",
+        "B": "3000-3500 kcal",
+        "C": "2500-3000 kcal",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

@@ -1,0 +1,50 @@
+{
+    "name": "3PuDl5gc8C7FWTFXB8kmqw==.0.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Live births in UK",
+        "B": "Live births in US",
+        "C": "Live births in Germany",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1913-1940",
+        "B": "1913-1930",
+        "C": "1913-1950",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "4",
+        "question": "What does the gray area represent?",
+        "A": "World War One",
+        "B": "Great Depression",
+        "C": "World War Two",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "What was the number of live births in Britain after the end of the first World War?",
+        "A": "Around 1,000,000",
+        "B": "Around 800,000",
+        "C": "Around 600,000",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "When was the peak in births?",
+        "A": "1920",
+        "B": "1922",
+        "C": "1919",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

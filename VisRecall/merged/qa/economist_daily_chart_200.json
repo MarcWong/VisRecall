@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_200.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "CO2 emissions",
+        "B": "Greenhouse gas emissions",
+        "C": "Carbon emissions",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1990-2010",
+        "B": "1990-2009",
+        "C": "1999-2009",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the most CO2 emissions in this visualization?",
+        "A": "United States",
+        "B": "China",
+        "C": "Russia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the least CO2 emissions in this visualization?",
+        "A": "Austria",
+        "B": "Australia",
+        "C": "Romania",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the biggest reduction in CO2 emissions during this period?",
+        "A": "Poland",
+        "B": "France",
+        "C": "Ukraine",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

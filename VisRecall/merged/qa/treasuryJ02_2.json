@@ -1,0 +1,50 @@
+{
+    "name": "treasuryJ02_2.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Quarterly refinance mortgage originations",
+        "B": "Quarterly commercial loan originations",
+        "C": "Quarterly secured loans",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2003-2008",
+        "B": "2008-2012",
+        "C": "2003-2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "2",
+        "question": "When have the 16.2 million homeowners refinanced?",
+        "A": "Since April 1, 2008",
+        "B": "Since April 1, 2009",
+        "C": "Since April 1, 2010",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "In which year does the maximum quarterly refinance mortgage originations appear?",
+        "A": "2003",
+        "B": "2005",
+        "C": "2007",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "In which year does the minimum quarterly refinance mortgage originations appear?",
+        "A": "2004",
+        "B": "2006",
+        "C": "2008",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

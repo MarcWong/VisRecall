@@ -1,0 +1,49 @@
+{
+  "name": "whoJ40_2.png",
+  "vistype": "pie",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Break down of military aid",
+    "B": "Break down of unemployement aid",
+    "C": "Break down of development aid",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2010",
+    "B": "2011",
+    "C": "2012",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which category has the highest value?",
+    "A": "Rural",
+    "B": "Urban",
+    "C": "Urban and Rural",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q4": {
+    "type": "3",
+    "question": "What is the amount of aid that was disbursed in  2010?",
+    "A": "1 Billion dollars",
+    "B": "1.1 Billion dollars",
+    "C": "2.1 Billion dollars",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "What is the percentage of aid directed to urban areas?",
+    "A": "28%",
+    "B": "68%",
+    "C": "78%",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

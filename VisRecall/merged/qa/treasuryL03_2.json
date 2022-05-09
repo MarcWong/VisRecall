@@ -1,0 +1,50 @@
+{
+    "name": "treasuryL03_2.png",
+    "vistype": "pie",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Manufacturing",
+        "B": "Agriculture",
+        "C": "Tourism",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2005-2010",
+        "B": "2008-2011",
+        "C": "2009-2011",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which of the following categories accounts for the highest proportion?",
+        "A": "Machinery",
+        "B": "Transportation Equipment",
+        "C": "Computer and Electronic Products",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "2",
+        "question": "Which of the following categories accounts for relative lower proportion?",
+        "A": "Transportation Equipment",
+        "B": "Machinery",
+        "C": "Computer and Electronic Products",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Which of the following accounts for more than 1%?",
+        "A": "Textile Product Mills",
+        "B": "Fabricated Metal Products",
+        "C": "Plastics and Rubber Products",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

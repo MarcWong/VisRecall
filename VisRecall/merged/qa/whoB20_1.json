@@ -1,0 +1,49 @@
+{
+  "name": "whoB20_1.png",
+  "vistype": "bar",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Mortality and Disease burden in women aged 15-44",
+    "B": "Mortality and Disease burden in men aged 15-44",
+    "C": "Mortality and Disease burden in women aged 55-64",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2008",
+    "B": "2011",
+    "C": "2004",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q3": {
+    "type": "2",
+    "question": "Which continent has the highest deaths due to HIV?",
+    "A": "Europe",
+    "B": "America",
+    "C": "Africa",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q4": {
+    "type": "2",
+    "question": "Which condition caused most deaths in Europe?",
+    "A": "Sensory disorders",
+    "B": "Mental disorders",
+    "C": "Cancers",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "How many DALYs pre 1000 women in Africa?",
+    "A": "Around 250-300",
+    "B": "Around 300-350",
+    "C": "Around 350-400",
+    "D": "I can not remember",
+    "answer": "C"
+  }
+}

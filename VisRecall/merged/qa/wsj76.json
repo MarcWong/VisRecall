@@ -1,0 +1,49 @@
+{
+    "name": "wsj76.png",
+    "vistype": "bar",
+    "Q1": {
+        "question": "Which household appliance is discussed in this chart?",
+		"type": "2",
+        "A": "Toaster",
+        "B": "Cellphone",
+        "C": "Car",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "question": "Which time range is of interest here?",
+		"type": "2",
+        "A": "2012-2021",
+        "B": "2008-2011",
+        "C": "2018",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "question": "What percentage of households had no corded phone in 2011?",
+		"type": "3",
+        "A": "20%",
+        "B": "30%",
+        "C": "34%",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "question": "What is the source of the data presented in this graph?",
+		"type": "2",
+        "A": "Wall Street Journal",
+        "B": "World Health Organization",
+        "C": "CDC/NCHS",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "question": "How many households were surveyed for this graph?",
+		"type": "3",
+        "A": "201,134",
+        "B": "136,228",
+        "C": "95,000",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

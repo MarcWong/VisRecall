@@ -1,0 +1,50 @@
+{
+    "name": "treasuryI01_1.png",
+    "vistype": "table",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Reno housing unit growth outpaced population and house hold growth during the past decade",
+        "B": "Reno population growth outpaced housing unit and house hold growth during the past decade",
+        "C": "Reno house hold growth outpaced housing unit and population growth during the past decade",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2010-2020",
+        "B": "2000-2010",
+        "C": "2000-1990",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which one has the highest annual growth rate?",
+        "A": "Reno-Sparks Population",
+        "B": "Reno-Sparks Households",
+        "C": "Reno-Sparks Housing Units",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "4",
+        "question": "Which one is higher, annual growth rate of Reno-Sparks Households or annual growth rate of Reno-Sparks Housing Units?",
+        "A": "Reno-Sparks Housing Units",
+        "B": "Reno-Sparks Households",
+        "C": "The same",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "What is the population in 2000",
+        "A": "Around 350,000",
+        "B": "Around 400,000",
+        "C": "Around 450,000",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}
+

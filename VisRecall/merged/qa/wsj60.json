@@ -1,0 +1,49 @@
+{
+    "name": "wsj60.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Blur Picture",
+        "B": "Film Cost",
+        "C": "Share Price",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "Which company is described in this visualization?",
+        "A": "Nikon",
+        "B": "Kodak",
+        "C": "Fujifilm",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "3",
+        "question": "What is the lowest daily share price?",
+        "A": "0.1",
+        "B": "0.2",
+        "C": "0.3",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "How many events are introduced in the visualization?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "what is the latest event introduced in the visualization?",
+        "A": "Draws down 160 million on credit line",
+        "B": "Files for Chapter 11 bankruptcy protection",
+        "C": "Says it is seeking financing",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

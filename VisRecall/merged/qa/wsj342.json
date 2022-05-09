@@ -1,0 +1,49 @@
+{
+    "name": "wsj342.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Cost and and chance of getting a seat during rush hour of public transport",
+        "B": "Cost and and chance of getting a seat of public transport",
+        "C": "Cost and and chance of getting a seat at night of public transport",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which line costs the most?",
+        "A": "5",
+        "B": "R",
+        "C": "Q",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "Which lines have the smallest chance to get a seat?",
+        "A": "5 and 4",
+        "B": "R and 7",
+        "C": "Q and B",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Which lines have the biggest chance to get a seat?",
+        "A": "5 and 4",
+        "B": "R and 7",
+        "C": "Q and B",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

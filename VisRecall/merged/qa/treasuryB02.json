@@ -1,0 +1,50 @@
+{
+    "name": "treasuryB02.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "The crisis response along with quarter national income growth",
+        "B": "The crisis response along with quarter population growth",
+        "C": "The crisis response along with quarter real GDP growth",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period's data is displayed in this visualization?",
+        "A": "2006-2010",
+        "B": "2007-2011",
+        "C": "2008-2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "In which quarter the growth rate is the lowest?",
+        "A": "The fourth quarter of 2007",
+        "B": "The third quarter of 2008",
+        "C": "The fourth quarter of 2008",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "In which quarter the growth rate turns from negative to positive?",
+        "A": "The first quarter of 2009",
+        "B": "The second quarter of 2009",
+        "C": "The third quarter of 2009",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "In which year the average growth rate for four quarters is the highest?",
+        "A": "2009",
+        "B": "2010",
+        "C": "2011",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

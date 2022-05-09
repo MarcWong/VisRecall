@@ -1,0 +1,50 @@
+{
+    "name": "whoB13_1.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the main topic of the visualization?",
+        "A": "Leading risk factors for mortality in girls under five years of age",
+        "B": "Leading risk factors for mortality in boys under five years of age",
+        "C": "Leading risk factors for mortality in children under five years of age",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "When was the study conducted?",
+        "A": "2004",
+        "B": "2005",
+        "C": "2006",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "What is the the risk factor that leads to the most death cases in low-income countries?",
+        "A": "Unsafe water, sanitation, hygiene",
+        "B": "Zinc deficincy",
+        "C": "Childhood underweight",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "What is the the risk factor that leads to the most death cases in middle-income countries?",
+        "A": "Vitamin A deficinvy",
+        "B": "Suboptimal breastfeeding",
+        "C": "Indoor smoke from solid fuels",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "What is the the risk factor that leads to the most death cases in high-income countries?",
+        "A": "Unsafe water, sanitation, hygiene",
+        "B": "Suboptimal breastfeeding",
+        "C": "Childhood underweight",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

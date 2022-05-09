@@ -1,0 +1,50 @@
+{
+    "name": "whoB04_1.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Male life expectancy at birth by country income group and region",
+        "B": "Female life expectancy at birth by country income group and region",
+        "C": "Life expectancy at birth by country income group and region",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1950-2005",
+        "B": "1960-2015",
+        "C": "1950-2015",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "3",
+        "question": "What is the female life expectancy at birth in high-income countries in 2000-2005?",
+        "A": "Higher than 80",
+        "B": "75-80",
+        "C": "70-75",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "What is the female life expectancy at birth in low-income countries in 1950-1955?",
+        "A": "45-50",
+        "B": "40-45",
+        "C": "35-40",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "When did female life expectancy in low-income countries start to be higher than that in East and Southern African countries?",
+        "A": "1960-65",
+        "B": "1970-75",
+        "C": "1965-70",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

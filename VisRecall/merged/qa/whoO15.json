@@ -1,0 +1,49 @@
+{
+    "name": "whoO15.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Burden of disease attributable to lack of contraception",
+        "B": "Burden of disease attributable to lack of awareness",
+        "C": "Burden of disease attributable to lack of hygiene",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "3",
+        "question": "What is the age range of the data provider?",
+        "A": "15-44",
+        "B": "15-55",
+        "C": "15-50",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which region is most affected?",
+        "A": "Europe",
+        "B": "Africa",
+        "C": "Americas",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "What is approximately the maximum among all values?",
+        "A": "Above 15",
+        "B": "Above 25",
+        "C": "Above 35",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which year's data is seen in the visualization?",
+        "A": "2008",
+        "B": "2005",
+        "C": "2004",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

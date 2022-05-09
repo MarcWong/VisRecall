@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_264.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Public opinion on reallocation",
+        "B": "Public opinion on austerity",
+        "C": "Public opinion on corruption",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "1",
+        "question": "What country has the highest opinion of increasing spending according to the poll?",
+        "A": "Italy",
+        "B": "Netherlands",
+        "C": "Britain",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest Forecast net debt as percentage of GDP, 2011?",
+        "A": "Britain",
+        "B": "Italy",
+        "C": "Netherlands",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the highest opinion of cut spending according to the poll?",
+        "A": "Portugal",
+        "B": "Germany",
+        "C": "Slovakia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which country has the lowest Forecast net debt as percentage of GDP, 2011?",
+        "A": "Poland",
+        "B": "Slovakia",
+        "C": "Sweden",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

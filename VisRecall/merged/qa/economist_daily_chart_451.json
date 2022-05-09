@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_451.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "The hottest years on record in degree celsius",
+        "B": "The coldest years on record in degree celsius",
+        "C": "The hottest years on record in Fahrenheit",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "3",
+        "question": "What is the ranking order seen in the visualization? ",
+        "A": "1 - 50",
+        "B": "1 - 20",
+        "C": "1 - 100",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which year has recorded the highest deviation according to all research centers?",
+        "A": "1990",
+        "B": "1998",
+        "C": "2010",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "3",
+        "question": "According to NOAA national climatic data center what is the lowest deviation value reported?",
+        "A": "Around 0.20",
+        "B": "Around 0.30 ",
+        "C": "Around 0.50",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the source of the data visualized?",
+        "A": "Met office",
+        "B": "UN climate organization",
+        "C": "EPA",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

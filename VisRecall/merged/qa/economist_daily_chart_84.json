@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_84.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Median age of population",
+        "B": "Median height of population",
+        "C": "Median weight of population",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1900-2010",
+        "B": "1930-2010",
+        "C": "1950-2010",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+		"type": "3",
+        "question": "What is the median value in 1980?",
+        "A": "Around 15",
+        "B": "Around 30",
+        "C": "Around 60",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "What is the median value in 2010?",
+        "A": "Around 15",
+        "B": "Around 30",
+        "C": "Around 60",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which region has the highest age?",
+        "A": "SAUD",
+        "B": "FAISAL",
+        "C": "ABDULIAH",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

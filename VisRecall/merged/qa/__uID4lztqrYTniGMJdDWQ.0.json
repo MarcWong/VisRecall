@@ -1,0 +1,50 @@
+{
+    "name": "__uID4lztqrYTniGMJdDWQ.0.jpg",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the main topic of the visualization?",
+        "A": "Sound mitigation at low frequencies",
+        "B": "Sound mitigation at high frequencies",
+        "C": "Sound mitigation at all frequencies",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "3",
+        "question": "What was the range of the frequencies?",
+        "A": "10 Hz - 1000 Hz",
+        "B": "100 Hz - 10000 Hz",
+        "C": "1000 Hz - 10000 Hz",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "In 10000Hz, which one has the highest Insertion Loss(db)?",
+        "A": "Classic Racetrack Baffle",
+        "B": "Betafoam AFI",
+        "C": "Medium Expansion Baffle",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "In 100Hz, which one has the highest Insertion Loss(db)?",
+        "A": "Classic Racetrack Baffle",
+        "B": "Betafoam AFI",
+        "C": "Medium Expansion Baffle",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "How does the insertion loss behave with increasing frequency?",
+        "A": "Decreases",
+        "B": "Stays constant",
+        "C": "Increases",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

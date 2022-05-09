@@ -1,0 +1,49 @@
+{
+    "name": "wsj265.png",
+    "vistype": "line",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Growing Divide",
+        "B": "Seasonally adjusted unemployment rate",
+        "C": "The euro zone's unemployment rate",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2006-2012",
+        "B": "2007-2010",
+        "C": "2008-2012",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which country has the highest proportion in 2012?",
+        "A": "Euro zone",
+        "B": "Germany",
+        "C": "Spain",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the lowest proportion in 2012?",
+        "A": "Euro zone",
+        "B": "Germany",
+        "C": "Spain",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "2",
+        "question": "Where the data comes from?",
+        "A": "The Wall Street Journal",
+        "B": "July",
+        "C": "Eurostat",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

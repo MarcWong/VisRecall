@@ -1,0 +1,49 @@
+{
+    "name": "whoB05_1.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "The health transition among Mexican: death rates by overall cause of death",
+        "B": "The health transition among Mexican men: death rates by overall cause of death",
+        "C": "The health transition among Mexican women: death rates by overall cause of death",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What years' data is displayed in this visualization?",
+        "A": "1950-2000",
+        "B": "1955-2005",
+        "C": "1960-2010",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "How many causes were displayed in this visualization?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which cause the most death?",
+        "A": "Communicable, maternal, perinatal and nutritional diseases",
+        "B": "Noncommunicable diseases",
+        "C": "Injuries",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which cause the least death?",
+        "A": "Communicable, maternal, perinatal and nutritional diseases",
+        "B": "Noncommunicable diseases",
+        "C": "Injuries",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

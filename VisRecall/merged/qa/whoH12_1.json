@@ -1,0 +1,49 @@
+{
+    "name": "whoH12_1.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Rate of Progress towards MSG4",
+        "B": "Rate of Progress towards MPEG4",
+        "C": "Rate of Progress towards MDG4",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "1980-2015",
+        "B": "1990-2021",
+        "C": "1970-2000",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "How did the mortality rates of IMR (per 1,000 live births) varies from 1980 to 2006?",
+        "A": "Increase",
+        "B": "Constant",
+        "C": "Decrease",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which one of the predicted mortality trends is relatively low?",
+        "A": "Based on 2000-2005 trend",
+        "B": "Based on 1990-2005 trend",
+        "C": "Based on 1980-2005 trend",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "What is the target mortality rate (per 1,000 live births) for MDG4-29?",
+        "A": "Around 30",
+        "B": "Around 0",
+        "C": "Around 60",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

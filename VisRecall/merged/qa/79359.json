@@ -1,0 +1,50 @@
+{
+    "name": "79359.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the topic of the visualization?",
+        "A": "Percentage of female workers employed in the Service sector",
+        "B": "Percentage of male workers employed in the Service sector",
+        "C": "Percentage of workers employed in the Service sector",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What was the range of years of this study?",
+        "A": "2005 - 2013",
+        "B": "2005 - 2014",
+        "C": "2004 - 2013",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "What is the maximum Employment value in this visulization?",
+        "A": "Among 60",
+        "B": "50-60",
+        "C": "40-50",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "What year has the maximum employment value?",
+        "A": "2006",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What the countries did the study cover?",
+        "A": "Germany",
+        "B": "Bhutan, Ethiopia",
+        "C": "Malawi, Myanmar, Cuba",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

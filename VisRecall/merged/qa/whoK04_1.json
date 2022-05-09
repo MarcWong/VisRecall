@@ -1,0 +1,49 @@
+{
+    "name": "whoK04_1.png",
+    "vistype": "pie",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "HIV prevalence in women aged 15-49 years by region, 1990-2007",
+        "B": "Countries Report Insufficient Staff to Operate and Maintain Urban and Rural Drinking-water Systems (Figure 4.1)",
+        "C": "Almost half of the two billion people who have gained access to drinking water since 1990 live in China or India",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What is the scale of the visualization?",
+        "A": "Billions",
+        "B": "Millions",
+        "C": "Thousands",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the largest population to gain access to drinking water since 1990?",
+        "A": "China",
+        "B": "India",
+        "C": "Other",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "4",
+        "question": "Which region is not represent in blue colormaps?",
+        "A": "WESTERN ASIA",
+        "B": "SOUTHERN ASIA",
+        "C": "SUB-SAHARAN AFRICA",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Which region is represented in blue colormaps",
+        "A": "WESTERN ASIA",
+        "B": "SOUTHERN ASIA",
+        "C": "DEVELOPED REGIONS",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

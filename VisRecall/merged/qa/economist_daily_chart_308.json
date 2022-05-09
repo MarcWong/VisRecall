@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_308.png",
+    "vistype": "table",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualisation?",
+        "A": "recorded homeless people during protests between civilians and Arab government security forces",
+        "B": "recorded deaths during protests between civilians and Arab government security forces",
+        "C": "recorded jobless during protests between civilians and Arab government security forces",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualisation",
+        "A": "2010",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest value of the number of population?",
+        "A": "Syria",
+        "B": "Egypt",
+        "C": "Tunisia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the longest time of unrest ?",
+        "A": "Syria",
+        "B": "Tunisia",
+        "C": "Yemen",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which country has the different status than other countries?",
+        "A": "Egypt",
+        "B": "Yemen",
+        "C": "Bahrain",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

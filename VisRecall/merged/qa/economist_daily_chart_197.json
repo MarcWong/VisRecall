@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_197.png",
+    "vistype": "bar",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Latin America of total population are middle-class",
+        "B": "Latin America of total population having high income",
+        "C": "Latin America of total population living in poverty",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "3",
+        "question": "What is the range of values?",
+        "A": "0-70",
+        "B": "0-80",
+        "C": "0-90",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the highest value in 2010?",
+        "A": "Paraguay",
+        "B": "Uruguay",
+        "C": "Colombia",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country has the lowest value in 2010?",
+        "A": "Paraguay",
+        "B": "Uruguay",
+        "C": "Colombia",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which item is marked bold?",
+        "A": "Colombia",
+        "B": "Latin America",
+        "C": "Brazil",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "economist_daily_chart_100.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the main topic of the visualization?",
+        "A": "Football broadcasting revenues",
+        "B": "Football revenues",
+        "C": "Football wage costs",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2000-2010",
+        "B": "2001-2010",
+        "C": "1995-2010",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Where was the study conducted?",
+        "A": "South America",
+        "B": "Europe",
+        "C": "Middle East",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which country's league spends the most on wages?",
+        "A": "Spain",
+        "B": "England",
+        "C": "Germany",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "1",
+        "question": "Which league spends the least on wages?",
+        "A": "La Liga",
+        "B": "Serie A",
+        "C": "Ligue 1",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

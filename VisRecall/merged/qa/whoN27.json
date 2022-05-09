@@ -1,0 +1,49 @@
+{
+    "name": "whoN27.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Legal definition of a pure juice",
+        "B": "Legal definition of an alcoholic beverage",
+        "C": "Legal definition of an cordial",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2008",
+        "B": "2009",
+        "C": "2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "3",
+        "question": "What is the minimum alcohol content used by the most countries?",
+        "A": "<1",
+        "B": "3-3.99",
+        "C": "None",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "3",
+        "question": "What is the minimum alcohol content used in almost no country?",
+        "A": "1-1.99",
+        "B": "2-2.99",
+        "C": "4-4.99",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "How many countries use <1 as the minimum alcohol content?",
+        "A": "Around 40",
+        "B": "Around 10",
+        "C": "Around 15",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

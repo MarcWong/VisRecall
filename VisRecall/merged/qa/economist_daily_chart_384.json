@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_384.png",
+    "vistype": "pie",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Global citations in scientific journals",
+        "B": "Global citations in art journals",
+        "C": "Global citations in scientific conferences",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which period of data does this visualization show?",
+        "A": "1999-2008",
+        "B": "1999-2010",
+        "C": "1999-2012",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+		"type": "3",
+        "question": "what is the total number of citations from 1999 to 2003?",
+        "A": "Around 10m",
+        "B": "Around 20m",
+        "C": "Around 40m",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which country has the highest citations over this period?",
+        "A": "United States",
+        "B": "Britain",
+        "C": "Germany",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+		"type": "1",
+        "question": "Which country has the lowest citations over this period?",
+        "A": "Canada",
+        "B": "Italy",
+        "C": "China",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "143.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of the visualization?",
+        "A": "Trade statistics of Luxembourg with developing economics in Africa",
+        "B": "Trade statistics of Luxembourg with developing economics in South America",
+        "C": "Trade statistics of Luxembourg with developing economics in South Asia",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What is the range of the years this study spanned?",
+        "A": "2003 - 2007",
+        "B": "2003 - 2008",
+        "C": "2003 - 2009",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "When did the highest exports rate show?",
+        "A": "2009",
+        "B": "2008",
+        "C": "2007",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "When did the lowest exports rate show?",
+        "A": "2003",
+        "B": "2004",
+        "C": "2005",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "4",
+        "question": "Does the export rates exceed the import rates?",
+        "A": "No",
+        "B": "They are equal",
+        "C": "Yes",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
+

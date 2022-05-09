@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_20.png",
+    "vistype": "line",
+    "Q1": {
+        "question": "What is the theme of this visualization?",
+		"type": "0",
+        "A": "It compares the population growth rate with the GPD per person",
+        "B": "It compares the urbanisation rate with the population growth rate",
+        "C": "It compares the urbanisation rate with the GPD per person",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+        "question": "Which regions are compared?",
+		"type": "2",
+        "A": "West Asia and Sub-Saharan Africa",
+        "B": "European Union and Sub-Saharan Africa",
+        "C": "Sub-Saharan Africa and East Asia/Pacific",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "question": "What period of data does this visualization show?",
+		"type": "3",
+        "A": "1985-2010",
+        "B": "1990-2015",
+        "C": "1985-2010",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "question": "What is the highest urbanisation rate achieved by a country?",
+		"type": "1",
+        "A": "about 85%",
+        "B": "about 55%",
+        "C": "about 75%",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q5": {
+        "question": "What is the source of the data?",
+		"type": "3",
+        "A": "World Health Organization",
+        "B": "World Bank",
+        "C": "World Trade Organization",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

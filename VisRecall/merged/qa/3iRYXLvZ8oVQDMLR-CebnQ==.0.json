@@ -1,0 +1,49 @@
+{
+    "name": "3iRYXLvZ8oVQDMLR-CebnQ==.0.png",
+    "vistype": "scatter",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Financial development and foreign bank presence",
+        "B": "Environment development and creature species abundance",
+        "C": "The number and distribution of banks in a given region",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "Which year's data is displayed in this visualization?",
+        "A": "2010",
+        "B": "2007",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "4",
+        "question": "What is the y-axis?",
+        "A": "Private credit/Total bank assets",
+        "B": "Foreign bank assets/Total bank assets",
+        "C": "Private credit/GDP",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+		"type": "4",
+        "question": "What is the x-axis?",
+        "A": "Private credit/Total bank assets",
+        "B": "Foreign bank assets/Total bank assets",
+        "C": "Private credit/GDP",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "How many countries' data are showed in this figure?",
+        "A": "98",
+        "B": "99",
+        "C": "100",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

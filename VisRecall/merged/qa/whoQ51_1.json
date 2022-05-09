@@ -1,0 +1,49 @@
+{
+  "name": "whoQ51_1.png",
+  "vistype": "bar",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Population at risk",
+    "B": "Economy at risk",
+    "C": "Environment at risk",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q2": {
+    "type": "2",
+    "question": "What year's data is displayed in this visualization?",
+    "A": "2010",
+    "B": "2011",
+    "C": "2012",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q3": {
+    "type": "1",
+    "question": "Which country has the highest 'High risk'?",
+    "A": "Sudan",
+    "B": "South Sudan",
+    "C": "Malta",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q4": {
+    "type": "1",
+    "question": "Which country has the Lowest 'High risk'?",
+    "A": "Sudan",
+    "B": "South Sudan",
+    "C": "Iran",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q5": {
+    "type": "3",
+    "question": "In Somalia, how many population is at risk?",
+    "A": "More than 80%",
+    "B": "60% to 80%",
+    "C": "40% to 60%",
+    "D": "I can not remember",
+    "answer": "B"
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "name": "treasuryK03_3.png",
+    "vistype": "bar",
+    "Q1": {
+		"type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Total long position",
+        "B": "Total short position",
+        "C": "Total net position",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q2": {
+		"type": "2",
+        "question": "What period of data does this visualization show?",
+        "A": "2005-2010",
+        "B": "2008-2012",
+        "C": "2009-2014",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+		"type": "1",
+        "question": "Which year has the highest total net position?",
+        "A": "2009",
+        "B": "2011",
+        "C": "2012",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+		"type": "1",
+        "question": "Which year has the lowest total net position?",
+        "A": "2009",
+        "B": "2011",
+        "C": "2010",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+		"type": "3",
+        "question": "What is the total net position(in Billions) in 2010?",
+        "A": "Around 300",
+        "B": "Around 100",
+        "C": "Around 400",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

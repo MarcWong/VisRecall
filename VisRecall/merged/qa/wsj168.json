@@ -1,0 +1,50 @@
+{
+    "name": "wsj168.png",
+    "vistype": "scatter",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Several banks regarding the changes of their benchmark rates",
+        "B": "Several banks regarding the rate changes for their Libor submissions",
+        "C": "European banks regarding the rate changes for their Libor submissions",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What year's data is displayed in this visualization?",
+        "A": "2011",
+        "B": "2012",
+        "C": "2021",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which bank has the largest number of rate changes?",
+        "A": "RBC",
+        "B": "Bank of America",
+        "C": "Credit suisse",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "1",
+        "question": "Which bank has the largest average days at rate?",
+        "A": "Bank of America",
+        "B": "Societe Generale",
+        "C": "RBC",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "The banks from which district that Red dots refer to?",
+        "A": "European banks",
+        "B": "North American banks",
+        "C": "Japanese banks",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}
+

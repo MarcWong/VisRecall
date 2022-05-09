@@ -1,0 +1,49 @@
+{
+    "name": "economist_daily_chart_523.png",
+    "vistype": "other",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Beer consumption around the world",
+        "B": "Beer consumption around Europe only",
+        "C": "Beer consumption around US only",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "2",
+        "question": "What are the years seen in the visualization?",
+        "A": "2008 and 2010",
+        "B": "2000 and 2001",
+        "C": "2008 and 2009",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "2",
+        "question": "Which country has recorded the highest consumption in terms of literes per person?",
+        "A": "Czech Republic",
+        "B": "US",
+        "C": "Germany",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which country has recorded the lowest consumption in terms of literes per person?",
+        "A": "Vietnam",
+        "B": "France",
+        "C": "China",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "3",
+        "question": "How much Hectoliters/m of beer is produced by Asia and Europe in the year 2009?",
+        "A": "Around 500",
+        "B": "Above 550",
+        "C": "Below 400",
+        "D": "I can not remember",
+        "answer": "B"
+    }
+}

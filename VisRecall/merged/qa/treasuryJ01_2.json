@@ -1,0 +1,49 @@
+{
+  "name": "treasuryJ01_2.png",
+  "vistype": "line",
+  "Q1": {
+    "type": "0",
+    "question": "What is the theme of this visualization?",
+    "A": "Total Professional services, Scientific and technical services",
+    "B": "Expectations On House Prices Above 2009 Projections",
+    "C": "Deaths due to increased Bool pressure",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q2": {
+    "type": "4",
+    "question": "What does the line stands for?",
+    "A": "House Price per capita",
+    "B": "Dollars",
+    "C": "S&P/Case-Shiller Index",
+    "D": "I can not remember",
+    "answer": "C"
+  },
+  "Q3": {
+    "type": "2",
+    "question": "Which year has the highest S&P/Case-Shiller Index?",
+    "A": "2006-2007",
+    "B": "2009-2010",
+    "C": "2011-2012",
+    "D": "I can not remember",
+    "answer": "A"
+  },
+  "Q4": {
+    "type": "2",
+    "question": "Which year has the lowest House Price Futures Index?",
+    "A": "2006",
+    "B": "2009",
+    "C": "2012",
+    "D": "I can not remember",
+    "answer": "B"
+  },
+  "Q5": {
+    "type": "2",
+    "question": "What is the source of this visualization?",
+    "A": "Standard and Poor's and Radar Logic",
+    "B": "Global School-based Student Health",
+    "C": "SIPRI",
+    "D": "I can not remember",
+    "answer": "A"
+  }
+}

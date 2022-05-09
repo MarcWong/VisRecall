@@ -1,0 +1,49 @@
+{
+    "name": "1JwHfqlSB3z3qu78N-3Law==.0.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the title of this visualization?",
+        "A": "Self-reported life expectation across the income distribution,country by country",
+        "B": "Self-reported life satisfaction across the income distribution,country by country",
+        "C": "Self-reported life style across the income distribution,country by country",
+        "D": "I can not remember",
+        "answer": "B"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What does the Y-axis(vertical) stands for?",
+        "A": "Income per month",
+        "B": "Income per year",
+        "C": "Life satisfaction",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q3": {
+        "type": "1",
+        "question": "Which country has the lowest income per year in each income quintile?",
+        "A": "Panama",
+        "B": "Guinea",
+        "C": "Togo",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "Which country has not reached life satisfaction more than 7?",
+        "A": "Greece",
+        "B": "Chile",
+        "C": "USA",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "Which country has reached life satisfaction more than 7?",
+        "A": "Costa Rica",
+        "B": "Argentina",
+        "C": "Czech Republic",
+        "D": "I can not remember",
+        "answer": "A"
+    }
+}

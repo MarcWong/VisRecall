@@ -1,0 +1,49 @@
+{
+    "name": "79027.png",
+    "vistype": "line",
+    "Q1": {
+        "type": "0",
+        "question": "What is the theme of this visualization?",
+        "A": "Population growth",
+        "B": "Technological growth",
+        "C": "Educational growth",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q2": {
+        "type": "4",
+        "question": "What does the purple curve represent?",
+        "A": "Urban",
+        "B": "Rural",
+        "C": "Total",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q3": {
+        "type": "4",
+        "question": "Which scale is used for depicting the growth?",
+        "A": "In terms of values",
+        "B": "In terms of quantiles",
+        "C": "In terms of percentage",
+        "D": "I can not remember",
+        "answer": "C"
+    },
+    "Q4": {
+        "type": "2",
+        "question": "What is the period of year shown in the visualization?",
+        "A": "1969 - 1975",
+        "B": "1970 - 1972",
+        "C": "1980 - 1990",
+        "D": "I can not remember",
+        "answer": "A"
+    },
+    "Q5": {
+        "type": "2",
+        "question": "What is the name of the country used in visualization?",
+        "A": "Kenya",
+        "B": "Ghana",
+        "C": "Cabo Verde",
+        "D": "I can not remember",
+        "answer": "C"
+    }
+}
