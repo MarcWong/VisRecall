@@ -1,0 +1,35 @@
+# swp files 
+*.sw[oap]
+.DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+
+# environments
+.env
+.vent
+
+# jupyter
+.ipynb_checkpoints
+
+generate-experiment-files/1
+generate-experiment-files/2
+generate-experiment-files/3
+generate-experiment-files/4
+generate-experiment-files/5
+generate-experiment-files/6
+generate-experiment-files/7
+generate-experiment-files/8
+generate-experiment-files/9
+generate-experiment-files/10
+generate-experiment-files/1_blur
+generate-experiment-files/2_blur
+generate-experiment-files/3_blur
+generate-experiment-files/4_blur
+generate-experiment-files/5_blur
+generate-experiment-files/6_blur
+generate-experiment-files/7_blur
+generate-experiment-files/8_blur
+generate-experiment-files/9_blur
+generate-experiment-files/10_blur

@@ -1,0 +1,29 @@
+[uwsgi]
+socket = 127.0.0.1:9091
+plugins = python3
+# Django-related settings
+# the django project directory (full path)
+chdir = /home/wangyao/django-project/mysite
+# Django's wsgi file
+module = mysite.wsgi
+# process-related settings
+# master
+master = true
+# maximum number of worker processes
+processes = 5
+
+threads = 10
+enable-threads = True
+max-requests = 6000
+buffer-size=3276800
+
+# ... with appropriate permissions - may be needed
+chmod-socket = 664
+
+# clear environment on exit
+disable-logging = true
+vacuum  = true
+stats = %(chdir)/logs/uwsgi/uwsgi.status
+pidfile = %(chdir)/logs/uwsgi/uwsgi.pid
+daemonize = %(chdir)/logs/uwsgi/uwsgi.log
+py-autoreload=1

@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.tar
+Back-end/mysite/uwsgi.ini
+.ipynb_checkpoints
+.vscode
+*.pth
+.DS_Store

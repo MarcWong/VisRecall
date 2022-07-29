@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "title": "Memorablity of details",
+        "description": "Look at a series of visualizations and try to remember the details as many as possible, especially for those details related to title, maximum, minimum, etc.",
+        "disclaimer": "Your participation in this research is voluntary. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you."
+    },
+    "instructions": {
+        "simple": "Answer the questions after you have seen a group of 2 images",
+        "steps": [
+            "In the first stage, you will be shown an image for a couple of seconds.",
+            "You will be asked to remember the details of the image as many as possible.",
+            "After you have seen 2 images, you will be shown the corresponding 2 blurred images one by one",
+            "You will be asked to answer five questions related to the details in the image",
+            "This process will repeat several times.",
+            "In the second stage, you will be shown an image for 2 seconds.",
+            "You will be asked whether you have seen this image in the first stage or not."
+        ],
+        "images": ["demo.gif"]
+    },
+    "advanced": {
+        "includeDemographicSurvey": true,
+        "hideIfNotAccepted": true,
+        "externalSubmit": true,
+        "externalSubmitUrl": "http://amt.hackpku.com/new10/"
+    }
+}

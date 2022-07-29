@@ -1,0 +1,1223 @@
+[{
+        "image": "../assets/task_data\\real_images\\bucket0\\02wEIH1uspxsk1E7VW-KRA==.0.png",
+        "flag": "real",
+        "index": 0
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\3PuDl5gc8C7FWTFXB8kmqw==.0.png",
+        "flag": "real",
+        "index": 1
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\02wEIH1uspxsk1E7VW-KRA==.0.png",
+        "QA": {
+            "name": "02wEIH1uspxsk1E7VW-KRA==.0.png",
+            "Q1": {
+                "question": "<span id='I2Q1_T0'> What</span><span id='I2Q1_T1'> is</span><span id='I2Q1_T2'> the</span><span id='I2Q1_T3'> theme</span><span id='I2Q1_T4'> of</span><span id='I2Q1_T5'> this</span><span id='I2Q1_T6'> visualization?</span>",
+                "A": "<span id='I2Q1A_T0'> Confirmed</span><span id='I2Q1A_T1'> COVID-19</span><span id='I2Q1A_T2'> Cases</span><span id='I2Q1A_T3'> in</span><span id='I2Q1A_T4'> the</span><span id='I2Q1A_T5'> United</span><span id='I2Q1A_T6'> States</span>",
+                "B": "<span id='I2Q1B_T0'> Recovered</span><span id='I2Q1B_T1'> COVID-19</span><span id='I2Q1B_T2'> Cases</span><span id='I2Q1B_T3'> in</span><span id='I2Q1B_T4'> the</span><span id='I2Q1B_T5'> United</span><span id='I2Q1B_T6'> States</span>",
+                "C": "<span id='I2Q1C_T0'> COVID-19</span><span id='I2Q1C_T1'> Deaths</span><span id='I2Q1C_T2'> in</span><span id='I2Q1C_T3'> the</span><span id='I2Q1C_T4'> United</span><span id='I2Q1C_T5'> States</span>",
+                "D": "<span id='I2Q1D_T0'> I</span><span id='I2Q1D_T1'> can</span><span id='I2Q1D_T2'> not</span><span id='I2Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I2Q2_T0'> What</span><span id='I2Q2_T1'> period</span><span id='I2Q2_T2'> of</span><span id='I2Q2_T3'> data</span><span id='I2Q2_T4'> does</span><span id='I2Q2_T5'> this</span><span id='I2Q2_T6'> visualization</span><span id='I2Q2_T7'> show?</span>",
+                "A": "<span id='I2Q2A_T0'> Jan</span><span id='I2Q2A_T1'> 2020-Sep</span><span id='I2Q2A_T2'> 2020</span>",
+                "B": "<span id='I2Q2B_T0'> Jan</span><span id='I2Q2B_T1'> 2020-Dec</span><span id='I2Q2B_T2'> 2020</span>",
+                "C": "<span id='I2Q2C_T0'> Jan</span><span id='I2Q2C_T1'> 2020-Mar</span><span id='I2Q2C_T2'> 2020</span>",
+                "D": "<span id='I2Q2D_T0'> I</span><span id='I2Q2D_T1'> can</span><span id='I2Q2D_T2'> not</span><span id='I2Q2D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q3": {
+                "question": "<span id='I2Q3_T0'> Which</span><span id='I2Q3_T1'> of</span><span id='I2Q3_T2'> the</span><span id='I2Q3_T3'> following</span><span id='I2Q3_T4'> date</span><span id='I2Q3_T5'> has</span><span id='I2Q3_T6'> more</span><span id='I2Q3_T7'> than</span><span id='I2Q3_T8'> 10000</span><span id='I2Q3_T9'> confirmed</span><span id='I2Q3_T10'> cases?</span>",
+                "A": "<span id='I2Q3A_T0'> 19mar2020</span>",
+                "B": "<span id='I2Q3B_T0'> 04mar2020</span>",
+                "C": "<span id='I2Q3C_T0'> 18mar2020</span>",
+                "D": "<span id='I2Q3D_T0'> I</span><span id='I2Q3D_T1'> can</span><span id='I2Q3D_T2'> not</span><span id='I2Q3D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q4": {
+                "question": "<span id='I2Q4_T0'> As</span><span id='I2Q4_T1'> of</span><span id='I2Q4_T2'> 23</span><span id='I2Q4_T3'> Mar</span><span id='I2Q4_T4'> 2020,</span><span id='I2Q4_T5'> how</span><span id='I2Q4_T6'> many</span><span id='I2Q4_T7'> confirmed</span><span id='I2Q4_T8'> cases</span><span id='I2Q4_T9'> does</span><span id='I2Q4_T10'> United</span><span id='I2Q4_T11'> States</span><span id='I2Q4_T12'> have?</span>",
+                "A": "<span id='I2Q4A_T0'> 10000-20000</span>",
+                "B": "<span id='I2Q4B_T0'> 20000-30000</span>",
+                "C": "<span id='I2Q4C_T0'> more</span><span id='I2Q4C_T1'> than</span><span id='I2Q4C_T2'> 30000</span>",
+                "D": "<span id='I2Q4D_T0'> I</span><span id='I2Q4D_T1'> can</span><span id='I2Q4D_T2'> not</span><span id='I2Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I2Q5_T0'> When</span><span id='I2Q5_T1'> did</span><span id='I2Q5_T2'> the</span><span id='I2Q5_T3'> number</span><span id='I2Q5_T4'> of</span><span id='I2Q5_T5'> confirmed</span><span id='I2Q5_T6'> cases</span><span id='I2Q5_T7'> start</span><span id='I2Q5_T8'> rapid</span><span id='I2Q5_T9'> increasing?</span>",
+                "A": "<span id='I2Q5A_T0'> 04mar2020</span>",
+                "B": "<span id='I2Q5B_T0'> 19feb2020</span>",
+                "C": "<span id='I2Q5C_T0'> 05feb2020</span>",
+                "D": "<span id='I2Q5D_T0'> I</span><span id='I2Q5D_T1'> can</span><span id='I2Q5D_T2'> not</span><span id='I2Q5D_T3'> remember</span>",
+                "answer": "A"
+            }
+        },
+        "flag": "blur",
+        "index": 2
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\3PuDl5gc8C7FWTFXB8kmqw==.0.png",
+        "QA": {
+            "name": "3PuDl5gc8C7FWTFXB8kmqw==.0.png",
+            "Q1": {
+                "question": "<span id='I3Q1_T0'> What</span><span id='I3Q1_T1'> is</span><span id='I3Q1_T2'> the</span><span id='I3Q1_T3'> theme</span><span id='I3Q1_T4'> of</span><span id='I3Q1_T5'> this</span><span id='I3Q1_T6'> visualization?</span>",
+                "A": "<span id='I3Q1A_T0'> Live</span><span id='I3Q1A_T1'> births</span><span id='I3Q1A_T2'> in</span><span id='I3Q1A_T3'> UK</span>",
+                "B": "<span id='I3Q1B_T0'> Live</span><span id='I3Q1B_T1'> births</span><span id='I3Q1B_T2'> in</span><span id='I3Q1B_T3'> US</span>",
+                "C": "<span id='I3Q1C_T0'> Live</span><span id='I3Q1C_T1'> births</span><span id='I3Q1C_T2'> in</span><span id='I3Q1C_T3'> Germany</span>",
+                "D": "<span id='I3Q1D_T0'> I</span><span id='I3Q1D_T1'> can</span><span id='I3Q1D_T2'> not</span><span id='I3Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I3Q2_T0'> What</span><span id='I3Q2_T1'> period</span><span id='I3Q2_T2'> of</span><span id='I3Q2_T3'> data</span><span id='I3Q2_T4'> does</span><span id='I3Q2_T5'> this</span><span id='I3Q2_T6'> visualization</span><span id='I3Q2_T7'> show?</span>",
+                "A": "<span id='I3Q2A_T0'> 1913-1940</span>",
+                "B": "<span id='I3Q2B_T0'> 1913-1930</span>",
+                "C": "<span id='I3Q2C_T0'> 1913-1950</span>",
+                "D": "<span id='I3Q2D_T0'> I</span><span id='I3Q2D_T1'> can</span><span id='I3Q2D_T2'> not</span><span id='I3Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I3Q3_T0'> What</span><span id='I3Q3_T1'> does</span><span id='I3Q3_T2'> the</span><span id='I3Q3_T3'> gray</span><span id='I3Q3_T4'> area</span><span id='I3Q3_T5'> represent?</span>",
+                "A": "<span id='I3Q3A_T0'> World</span><span id='I3Q3A_T1'> War</span><span id='I3Q3A_T2'> One</span>",
+                "B": "<span id='I3Q3B_T0'> Great</span><span id='I3Q3B_T1'> Depression</span>",
+                "C": "<span id='I3Q3C_T0'> World</span><span id='I3Q3C_T1'> War</span><span id='I3Q3C_T2'> Two</span>",
+                "D": "<span id='I3Q3D_T0'> I</span><span id='I3Q3D_T1'> can</span><span id='I3Q3D_T2'> not</span><span id='I3Q3D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q4": {
+                "question": "<span id='I3Q4_T0'> What</span><span id='I3Q4_T1'> was</span><span id='I3Q4_T2'> the</span><span id='I3Q4_T3'> number</span><span id='I3Q4_T4'> of</span><span id='I3Q4_T5'> live</span><span id='I3Q4_T6'> births</span><span id='I3Q4_T7'> in</span><span id='I3Q4_T8'> Britain</span><span id='I3Q4_T9'> after</span><span id='I3Q4_T10'> the</span><span id='I3Q4_T11'> end</span><span id='I3Q4_T12'> of</span><span id='I3Q4_T13'> the</span><span id='I3Q4_T14'> first</span><span id='I3Q4_T15'> World</span><span id='I3Q4_T16'> War?</span>",
+                "A": "<span id='I3Q4A_T0'> Around</span><span id='I3Q4A_T1'> 1,000,000</span>",
+                "B": "<span id='I3Q4B_T0'> Around</span><span id='I3Q4B_T1'> 800,000</span>",
+                "C": "<span id='I3Q4C_T0'> Around</span><span id='I3Q4C_T1'> 600,000</span>",
+                "D": "<span id='I3Q4D_T0'> I</span><span id='I3Q4D_T1'> can</span><span id='I3Q4D_T2'> not</span><span id='I3Q4D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q5": {
+                "question": "<span id='I3Q5_T0'> When</span><span id='I3Q5_T1'> there</span><span id='I3Q5_T2'> was</span><span id='I3Q5_T3'> a</span><span id='I3Q5_T4'> peak</span><span id='I3Q5_T5'> in</span><span id='I3Q5_T6'> births</span>",
+                "A": "<span id='I3Q5A_T0'> 1920</span>",
+                "B": "<span id='I3Q5B_T0'> 1922</span>",
+                "C": "<span id='I3Q5C_T0'> 1919</span>",
+                "D": "<span id='I3Q5D_T0'> I</span><span id='I3Q5D_T1'> can</span><span id='I3Q5D_T2'> not</span><span id='I3Q5D_T3'> remember</span>",
+                "answer": "A"
+            }
+        },
+        "flag": "blur",
+        "index": 3
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_127.png",
+        "flag": "real",
+        "index": 4
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_184.png",
+        "flag": "real",
+        "index": 5
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\economist_daily_chart_127.png",
+        "QA": {
+            "name": "economist_daily_chart_127.png",
+            "Q1": {
+                "question": "<span id='I6Q1_T0'> What</span><span id='I6Q1_T1'> is</span><span id='I6Q1_T2'> the</span><span id='I6Q1_T3'> theme</span><span id='I6Q1_T4'> of</span><span id='I6Q1_T5'> this</span><span id='I6Q1_T6'> visualization?</span>",
+                "A": "<span id='I6Q1A_T0'> Tourism</span><span id='I6Q1A_T1'> and</span><span id='I6Q1A_T2'> GDP</span>",
+                "B": "<span id='I6Q1B_T0'> Foreign</span><span id='I6Q1B_T1'> exchange</span><span id='I6Q1B_T2'> reserves</span><span id='I6Q1B_T3'> and</span><span id='I6Q1B_T4'> GDP</span>",
+                "C": "<span id='I6Q1C_T0'> Military</span><span id='I6Q1C_T1'> spending</span><span id='I6Q1C_T2'> and</span><span id='I6Q1C_T3'> GDP</span>",
+                "D": "<span id='I6Q1D_T0'> I</span><span id='I6Q1D_T1'> can</span><span id='I6Q1D_T2'> not</span><span id='I6Q1D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q2": {
+                "question": "<span id='I6Q2_T0'> What</span><span id='I6Q2_T1'> period</span><span id='I6Q2_T2'> of</span><span id='I6Q2_T3'> data</span><span id='I6Q2_T4'> does</span><span id='I6Q2_T5'> this</span><span id='I6Q2_T6'> visualization</span><span id='I6Q2_T7'> show?</span>",
+                "A": "<span id='I6Q2A_T0'> 2001-2010</span>",
+                "B": "<span id='I6Q2B_T0'> 2002-2010</span>",
+                "C": "<span id='I6Q2C_T0'> 2002-2011</span>",
+                "D": "<span id='I6Q2D_T0'> I</span><span id='I6Q2D_T1'> can</span><span id='I6Q2D_T2'> not</span><span id='I6Q2D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q3": {
+                "question": "<span id='I6Q3_T0'> Which</span><span id='I6Q3_T1'> country</span><span id='I6Q3_T2'> has</span><span id='I6Q3_T3'> the</span><span id='I6Q3_T4'> biggest</span><span id='I6Q3_T5'> GDP</span><span id='I6Q3_T6'> growth</span><span id='I6Q3_T7'> in</span><span id='I6Q3_T8'> this</span><span id='I6Q3_T9'> period?</span>",
+                "A": "<span id='I6Q3A_T0'> China</span>",
+                "B": "<span id='I6Q3B_T0'> Angola</span>",
+                "C": "<span id='I6Q3C_T0'> Ethiopia</span>",
+                "D": "<span id='I6Q3D_T0'> I</span><span id='I6Q3D_T1'> can</span><span id='I6Q3D_T2'> not</span><span id='I6Q3D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q4": {
+                "question": "<span id='I6Q4_T0'> Which</span><span id='I6Q4_T1'> country</span><span id='I6Q4_T2'> has</span><span id='I6Q4_T3'> the</span><span id='I6Q4_T4'> biggest</span><span id='I6Q4_T5'> Military</span><span id='I6Q4_T6'> spending</span><span id='I6Q4_T7'> growth</span><span id='I6Q4_T8'> in</span><span id='I6Q4_T9'> this</span><span id='I6Q4_T10'> period?</span>",
+                "A": "<span id='I6Q4A_T0'> Ecuador</span>",
+                "B": "<span id='I6Q4B_T0'> Kazakhstan</span>",
+                "C": "<span id='I6Q4C_T0'> Armenia</span>",
+                "D": "<span id='I6Q4D_T0'> I</span><span id='I6Q4D_T1'> can</span><span id='I6Q4D_T2'> not</span><span id='I6Q4D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q5": {
+                "question": "<span id='I6Q5_T0'> Which</span><span id='I6Q5_T1'> country</span><span id='I6Q5_T2'> has</span><span id='I6Q5_T3'> a</span><span id='I6Q5_T4'> negative</span><span id='I6Q5_T5'> growth</span><span id='I6Q5_T6'> in</span><span id='I6Q5_T7'> military</span><span id='I6Q5_T8'> spending?</span>",
+                "A": "<span id='I6Q5A_T0'> Italy</span>",
+                "B": "<span id='I6Q5B_T0'> Canada</span>",
+                "C": "<span id='I6Q5C_T0'> Singapore</span>",
+                "D": "<span id='I6Q5D_T0'> I</span><span id='I6Q5D_T1'> can</span><span id='I6Q5D_T2'> not</span><span id='I6Q5D_T3'> remember</span>",
+                "answer": "A"
+            }
+        },
+        "flag": "blur",
+        "index": 6
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\economist_daily_chart_184.png",
+        "QA": {
+            "name": "economist_daily_chart_184.png",
+            "Q1": {
+                "question": "<span id='I7Q1_T0'> What</span><span id='I7Q1_T1'> is</span><span id='I7Q1_T2'> the</span><span id='I7Q1_T3'> theme</span><span id='I7Q1_T4'> of</span><span id='I7Q1_T5'> this</span><span id='I7Q1_T6'> visualization?</span>",
+                "A": "<span id='I7Q1A_T0'> Ageing</span><span id='I7Q1A_T1'> of</span><span id='I7Q1A_T2'> population</span>",
+                "B": "<span id='I7Q1B_T0'> Urbanisation</span>",
+                "C": "<span id='I7Q1C_T0'> Population</span><span id='I7Q1C_T1'> growth</span>",
+                "D": "<span id='I7Q1D_T0'> I</span><span id='I7Q1D_T1'> can</span><span id='I7Q1D_T2'> not</span><span id='I7Q1D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q2": {
+                "question": "<span id='I7Q2_T0'> What</span><span id='I7Q2_T1'> period</span><span id='I7Q2_T2'> of</span><span id='I7Q2_T3'> data</span><span id='I7Q2_T4'> does</span><span id='I7Q2_T5'> this</span><span id='I7Q2_T6'> visualization</span><span id='I7Q2_T7'> show?</span>",
+                "A": "<span id='I7Q2A_T0'> 1950-2010</span>",
+                "B": "<span id='I7Q2B_T0'> 1950-2045</span>",
+                "C": "<span id='I7Q2C_T0'> 1950-2030</span>",
+                "D": "<span id='I7Q2D_T0'> I</span><span id='I7Q2D_T1'> can</span><span id='I7Q2D_T2'> not</span><span id='I7Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I7Q3_T0'> By</span><span id='I7Q3_T1'> 2045,</span><span id='I7Q3_T2'> which</span><span id='I7Q3_T3'> area</span><span id='I7Q3_T4'> is</span><span id='I7Q3_T5'> expected</span><span id='I7Q3_T6'> to</span><span id='I7Q3_T7'> have</span><span id='I7Q3_T8'> the</span><span id='I7Q3_T9'> highest</span><span id='I7Q3_T10'> level</span><span id='I7Q3_T11'> of</span><span id='I7Q3_T12'> urbanization?</span>",
+                "A": "<span id='I7Q3A_T0'> US</span>",
+                "B": "<span id='I7Q3B_T0'> Western</span><span id='I7Q3B_T1'> Europe</span>",
+                "C": "<span id='I7Q3C_T0'> Brazil</span>",
+                "D": "<span id='I7Q3D_T0'> I</span><span id='I7Q3D_T1'> can</span><span id='I7Q3D_T2'> not</span><span id='I7Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I7Q4_T0'> Which</span><span id='I7Q4_T1'> area</span><span id='I7Q4_T2'> had</span><span id='I7Q4_T3'> the</span><span id='I7Q4_T4'> lowest</span><span id='I7Q4_T5'> level</span><span id='I7Q4_T6'> of</span><span id='I7Q4_T7'> urbanization</span><span id='I7Q4_T8'> in</span><span id='I7Q4_T9'> 1950?</span>",
+                "A": "<span id='I7Q4A_T0'> China</span>",
+                "B": "<span id='I7Q4B_T0'> India</span>",
+                "C": "<span id='I7Q4C_T0'> South-East</span><span id='I7Q4C_T1'> Asia</span>",
+                "D": "<span id='I7Q4D_T0'> I</span><span id='I7Q4D_T1'> can</span><span id='I7Q4D_T2'> not</span><span id='I7Q4D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q5": {
+                "question": "<span id='I7Q5_T0'> What</span><span id='I7Q5_T1'> percentage</span><span id='I7Q5_T2'> of</span><span id='I7Q5_T3'> Indians</span><span id='I7Q5_T4'> are</span><span id='I7Q5_T5'> expected</span><span id='I7Q5_T6'> to</span><span id='I7Q5_T7'> live</span><span id='I7Q5_T8'> in</span><span id='I7Q5_T9'> urban</span><span id='I7Q5_T10'> areas</span><span id='I7Q5_T11'> by</span><span id='I7Q5_T12'> 2045?</span>",
+                "A": "<span id='I7Q5A_T0'> 50%</span>",
+                "B": "<span id='I7Q5B_T0'> 60%</span>",
+                "C": "<span id='I7Q5C_T0'> 70%</span>",
+                "D": "<span id='I7Q5D_T0'> I</span><span id='I7Q5D_T1'> can</span><span id='I7Q5D_T2'> not</span><span id='I7Q5D_T3'> remember</span>",
+                "answer": "A"
+            }
+        },
+        "flag": "blur",
+        "index": 7
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_200.png",
+        "flag": "real",
+        "index": 8
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_202.png",
+        "flag": "real",
+        "index": 9
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\economist_daily_chart_200.png",
+        "QA": {
+            "name": "economist_daily_chart_200.png",
+            "Q1": {
+                "question": "<span id='I10Q1_T0'> What</span><span id='I10Q1_T1'> is</span><span id='I10Q1_T2'> the</span><span id='I10Q1_T3'> theme</span><span id='I10Q1_T4'> of</span><span id='I10Q1_T5'> this</span><span id='I10Q1_T6'> visualization?</span>",
+                "A": "<span id='I10Q1A_T0'> CO2</span><span id='I10Q1A_T1'> emissions</span>",
+                "B": "<span id='I10Q1B_T0'> Greenhouse</span><span id='I10Q1B_T1'> gas</span><span id='I10Q1B_T2'> emissions</span>",
+                "C": "<span id='I10Q1C_T0'> Carbon</span><span id='I10Q1C_T1'> emissions</span>",
+                "D": "<span id='I10Q1D_T0'> I</span><span id='I10Q1D_T1'> can</span><span id='I10Q1D_T2'> not</span><span id='I10Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I10Q2_T0'> What</span><span id='I10Q2_T1'> period</span><span id='I10Q2_T2'> of</span><span id='I10Q2_T3'> data</span><span id='I10Q2_T4'> does</span><span id='I10Q2_T5'> this</span><span id='I10Q2_T6'> visualization</span><span id='I10Q2_T7'> show?</span>",
+                "A": "<span id='I10Q2A_T0'> 1990-2010</span>",
+                "B": "<span id='I10Q2B_T0'> 1990-2009</span>",
+                "C": "<span id='I10Q2C_T0'> 1999-2009</span>",
+                "D": "<span id='I10Q2D_T0'> I</span><span id='I10Q2D_T1'> can</span><span id='I10Q2D_T2'> not</span><span id='I10Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I10Q3_T0'> Which</span><span id='I10Q3_T1'> country</span><span id='I10Q3_T2'> has</span><span id='I10Q3_T3'> the</span><span id='I10Q3_T4'> most</span><span id='I10Q3_T5'> CO2</span><span id='I10Q3_T6'> emissions</span><span id='I10Q3_T7'> in</span><span id='I10Q3_T8'> this</span><span id='I10Q3_T9'> visualization?</span>",
+                "A": "<span id='I10Q3A_T0'> United</span><span id='I10Q3A_T1'> States</span>",
+                "B": "<span id='I10Q3B_T0'> China</span>",
+                "C": "<span id='I10Q3C_T0'> Russia</span>",
+                "D": "<span id='I10Q3D_T0'> I</span><span id='I10Q3D_T1'> can</span><span id='I10Q3D_T2'> not</span><span id='I10Q3D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q4": {
+                "question": "<span id='I10Q4_T0'> Which</span><span id='I10Q4_T1'> country</span><span id='I10Q4_T2'> has</span><span id='I10Q4_T3'> the</span><span id='I10Q4_T4'> least</span><span id='I10Q4_T5'> CO2</span><span id='I10Q4_T6'> emissions</span><span id='I10Q4_T7'> in</span><span id='I10Q4_T8'> this</span><span id='I10Q4_T9'> visualization?</span>",
+                "A": "<span id='I10Q4A_T0'> Austria</span>",
+                "B": "<span id='I10Q4B_T0'> Australia</span>",
+                "C": "<span id='I10Q4C_T0'> Romania</span>",
+                "D": "<span id='I10Q4D_T0'> I</span><span id='I10Q4D_T1'> can</span><span id='I10Q4D_T2'> not</span><span id='I10Q4D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q5": {
+                "question": "<span id='I10Q5_T0'> Which</span><span id='I10Q5_T1'> country</span><span id='I10Q5_T2'> has</span><span id='I10Q5_T3'> the</span><span id='I10Q5_T4'> biggest</span><span id='I10Q5_T5'> reduction</span><span id='I10Q5_T6'> in</span><span id='I10Q5_T7'> CO2</span><span id='I10Q5_T8'> emissions</span><span id='I10Q5_T9'> during</span><span id='I10Q5_T10'> this</span><span id='I10Q5_T11'> period?</span>",
+                "A": "<span id='I10Q5A_T0'> Poland</span>",
+                "B": "<span id='I10Q5B_T0'> France</span>",
+                "C": "<span id='I10Q5C_T0'> Ukraine</span>",
+                "D": "<span id='I10Q5D_T0'> I</span><span id='I10Q5D_T1'> can</span><span id='I10Q5D_T2'> not</span><span id='I10Q5D_T3'> remember</span>",
+                "answer": "C"
+            }
+        },
+        "flag": "blur",
+        "index": 10
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\economist_daily_chart_202.png",
+        "QA": {
+            "name": "economist_daily_chart_202.png",
+            "Q1": {
+                "question": "<span id='I11Q1_T0'> What</span><span id='I11Q1_T1'> is</span><span id='I11Q1_T2'> the</span><span id='I11Q1_T3'> theme</span><span id='I11Q1_T4'> of</span><span id='I11Q1_T5'> this</span><span id='I11Q1_T6'> visualization?</span>",
+                "A": "<span id='I11Q1A_T0'> Anticipated</span><span id='I11Q1A_T1'> personal</span><span id='I11Q1A_T2'> spending</span><span id='I11Q1A_T3'> on</span><span id='I11Q1A_T4'> healthcare</span><span id='I11Q1A_T5'> service</span>",
+                "B": "<span id='I11Q1B_T0'> Anticipated</span><span id='I11Q1B_T1'> personal</span><span id='I11Q1B_T2'> spending</span><span id='I11Q1B_T3'> on</span><span id='I11Q1B_T4'> public</span><span id='I11Q1B_T5'> transportation</span>",
+                "C": "<span id='I11Q1C_T0'> Anticipated</span><span id='I11Q1C_T1'> personal</span><span id='I11Q1C_T2'> spending</span><span id='I11Q1C_T3'> on</span><span id='I11Q1C_T4'> Christmas</span><span id='I11Q1C_T5'> gifts</span>",
+                "D": "<span id='I11Q1D_T0'> I</span><span id='I11Q1D_T1'> can</span><span id='I11Q1D_T2'> not</span><span id='I11Q1D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q2": {
+                "question": "<span id='I11Q2_T0'> What</span><span id='I11Q2_T1'> year's</span><span id='I11Q2_T2'> data</span><span id='I11Q2_T3'> is</span><span id='I11Q2_T4'> displayed</span><span id='I11Q2_T5'> in</span><span id='I11Q2_T6'> this</span><span id='I11Q2_T7'> visualization?</span>",
+                "A": "<span id='I11Q2A_T0'> 2010</span>",
+                "B": "<span id='I11Q2B_T0'> 2011</span>",
+                "C": "<span id='I11Q2C_T0'> 2012</span>",
+                "D": "<span id='I11Q2D_T0'> I</span><span id='I11Q2D_T1'> can</span><span id='I11Q2D_T2'> not</span><span id='I11Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I11Q3_T0'> Which</span><span id='I11Q3_T1'> country</span><span id='I11Q3_T2'> has</span><span id='I11Q3_T3'> the</span><span id='I11Q3_T4'> highest</span><span id='I11Q3_T5'> anticipated</span><span id='I11Q3_T6'> personal</span><span id='I11Q3_T7'> spending</span><span id='I11Q3_T8'> on</span><span id='I11Q3_T9'> Christmas</span><span id='I11Q3_T10'> gifts</span><span id='I11Q3_T11'> in</span><span id='I11Q3_T12'> this</span><span id='I11Q3_T13'> visualization?</span>",
+                "A": "<span id='I11Q3A_T0'> United</span><span id='I11Q3A_T1'> States</span>",
+                "B": "<span id='I11Q3B_T0'> Finland</span>",
+                "C": "<span id='I11Q3C_T0'> Luxembourg</span>",
+                "D": "<span id='I11Q3D_T0'> I</span><span id='I11Q3D_T1'> can</span><span id='I11Q3D_T2'> not</span><span id='I11Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I11Q4_T0'> Which</span><span id='I11Q4_T1'> country</span><span id='I11Q4_T2'> has</span><span id='I11Q4_T3'> the</span><span id='I11Q4_T4'> lowest</span><span id='I11Q4_T5'> anticipated</span><span id='I11Q4_T6'> personal</span><span id='I11Q4_T7'> spending</span><span id='I11Q4_T8'> on</span><span id='I11Q4_T9'> Christmas</span><span id='I11Q4_T10'> gifts</span><span id='I11Q4_T11'> in</span><span id='I11Q4_T12'> this</span><span id='I11Q4_T13'> visualization?</span>",
+                "A": "<span id='I11Q4A_T0'> Greece</span>",
+                "B": "<span id='I11Q4B_T0'> Germany</span>",
+                "C": "<span id='I11Q4C_T0'> Netherlands</span>",
+                "D": "<span id='I11Q4D_T0'> I</span><span id='I11Q4D_T1'> can</span><span id='I11Q4D_T2'> not</span><span id='I11Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I11Q5_T0'> Which</span><span id='I11Q5_T1'> country</span><span id='I11Q5_T2'> has</span><span id='I11Q5_T3'> the</span><span id='I11Q5_T4'> lowest</span><span id='I11Q5_T5'> GDP</span><span id='I11Q5_T6'> per</span><span id='I11Q5_T7'> person</span><span id='I11Q5_T8'> in</span><span id='I11Q5_T9'> this</span><span id='I11Q5_T10'> visualization?</span>",
+                "A": "<span id='I11Q5A_T0'> South</span><span id='I11Q5A_T1'> Africa</span>",
+                "B": "<span id='I11Q5B_T0'> Poland</span>",
+                "C": "<span id='I11Q5C_T0'> Ukraine</span>",
+                "D": "<span id='I11Q5D_T0'> I</span><span id='I11Q5D_T1'> can</span><span id='I11Q5D_T2'> not</span><span id='I11Q5D_T3'> remember</span>",
+                "answer": "C"
+            }
+        },
+        "flag": "blur",
+        "index": 11
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_267.png",
+        "flag": "real",
+        "index": 12
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_319.png",
+        "flag": "real",
+        "index": 13
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\economist_daily_chart_267.png",
+        "QA": {
+            "name": "economist_daily_chart_267.png",
+            "Q1": {
+                "question": "<span id='I14Q1_T0'> What</span><span id='I14Q1_T1'> is</span><span id='I14Q1_T2'> the</span><span id='I14Q1_T3'> theme</span><span id='I14Q1_T4'> of</span><span id='I14Q1_T5'> this</span><span id='I14Q1_T6'> visualization?</span>",
+                "A": "<span id='I14Q1A_T0'> The</span><span id='I14Q1A_T1'> Chinese</span><span id='I14Q1A_T2'> biggest</span><span id='I14Q1A_T3'> employers</span>",
+                "B": "<span id='I14Q1B_T0'> The</span><span id='I14Q1B_T1'> world's</span><span id='I14Q1B_T2'> biggest</span><span id='I14Q1B_T3'> employers</span>",
+                "C": "<span id='I14Q1C_T0'> The</span><span id='I14Q1C_T1'> American</span><span id='I14Q1C_T2'> biggest</span><span id='I14Q1C_T3'> employers</span>",
+                "D": "<span id='I14Q1D_T0'> I</span><span id='I14Q1D_T1'> can</span><span id='I14Q1D_T2'> not</span><span id='I14Q1D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q2": {
+                "question": "<span id='I14Q2_T0'> What</span><span id='I14Q2_T1'> year's</span><span id='I14Q2_T2'> data</span><span id='I14Q2_T3'> is</span><span id='I14Q2_T4'> displayed</span><span id='I14Q2_T5'> in</span><span id='I14Q2_T6'> this</span><span id='I14Q2_T7'> visualization?</span>",
+                "A": "<span id='I14Q2A_T0'> 2010</span>",
+                "B": "<span id='I14Q2B_T0'> 2000</span>",
+                "C": "<span id='I14Q2C_T0'> 2020</span>",
+                "D": "<span id='I14Q2D_T0'> I</span><span id='I14Q2D_T1'> can</span><span id='I14Q2D_T2'> not</span><span id='I14Q2D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q3": {
+                "question": "<span id='I14Q3_T0'> Which</span><span id='I14Q3_T1'> one</span><span id='I14Q3_T2'> is</span><span id='I14Q3_T3'> the</span><span id='I14Q3_T4'> biggest</span><span id='I14Q3_T5'> employer</span><span id='I14Q3_T6'> in</span><span id='I14Q3_T7'> this</span><span id='I14Q3_T8'> visualization?</span>",
+                "A": "<span id='I14Q3A_T0'> US</span><span id='I14Q3A_T1'> Department</span><span id='I14Q3A_T2'> of</span><span id='I14Q3A_T3'> Defence</span>",
+                "B": "<span id='I14Q3B_T0'> Walmart</span>",
+                "C": "<span id='I14Q3C_T0'> McDonald's</span>",
+                "D": "<span id='I14Q3D_T0'> I</span><span id='I14Q3D_T1'> can</span><span id='I14Q3D_T2'> not</span><span id='I14Q3D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q4": {
+                "question": "<span id='I14Q4_T0'> Which</span><span id='I14Q4_T1'> of</span><span id='I14Q4_T2'> the</span><span id='I14Q4_T3'> following</span><span id='I14Q4_T4'> companies</span><span id='I14Q4_T5'> has</span><span id='I14Q4_T6'> the</span><span id='I14Q4_T7'> least</span><span id='I14Q4_T8'> employees</span><span id='I14Q4_T9'> in</span><span id='I14Q4_T10'> this</span><span id='I14Q4_T11'> visualization?</span>",
+                "A": "<span id='I14Q4A_T0'> Chinese</span><span id='I14Q4A_T1'> People's</span><span id='I14Q4A_T2'> Liberation</span><span id='I14Q4A_T3'> Army</span>",
+                "B": "<span id='I14Q4B_T0'> State</span><span id='I14Q4B_T1'> Grid</span><span id='I14Q4B_T2'> Corporation</span><span id='I14Q4B_T3'> of</span><span id='I14Q4B_T4'> China</span>",
+                "C": "<span id='I14Q4C_T0'> Hon</span><span id='I14Q4C_T1'> Hai</span><span id='I14Q4C_T2'> Precision</span><span id='I14Q4C_T3'> Industry</span>",
+                "D": "<span id='I14Q4D_T0'> I</span><span id='I14Q4D_T1'> can</span><span id='I14Q4D_T2'> not</span><span id='I14Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I14Q5_T0'> How</span><span id='I14Q5_T1'> many</span><span id='I14Q5_T2'> employees</span><span id='I14Q5_T3'> does</span><span id='I14Q5_T4'> Walmart</span><span id='I14Q5_T5'> have?</span>",
+                "A": "<span id='I14Q5A_T0'> Around</span><span id='I14Q5A_T1'> 1</span><span id='I14Q5A_T2'> million</span>",
+                "B": "<span id='I14Q5B_T0'> Around</span><span id='I14Q5B_T1'> 1.5</span><span id='I14Q5B_T2'> million</span>",
+                "C": "<span id='I14Q5C_T0'> Around</span><span id='I14Q5C_T1'> 2</span><span id='I14Q5C_T2'> million</span>",
+                "D": "<span id='I14Q5D_T0'> I</span><span id='I14Q5D_T1'> can</span><span id='I14Q5D_T2'> not</span><span id='I14Q5D_T3'> remember</span>",
+                "answer": "C"
+            }
+        },
+        "flag": "blur",
+        "index": 14
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\economist_daily_chart_319.png",
+        "QA": {
+            "name": "economist_daily_chart_319.png",
+            "Q1": {
+                "question": "<span id='I15Q1_T0'> What</span><span id='I15Q1_T1'> is</span><span id='I15Q1_T2'> the</span><span id='I15Q1_T3'> theme</span><span id='I15Q1_T4'> of</span><span id='I15Q1_T5'> this</span><span id='I15Q1_T6'> visualization?</span>",
+                "A": "<span id='I15Q1A_T0'> Developed-market</span><span id='I15Q1A_T1'> overheating</span><span id='I15Q1A_T2'> index</span>",
+                "B": "<span id='I15Q1B_T0'> Emerging-market</span><span id='I15Q1B_T1'> overheating</span><span id='I15Q1B_T2'> index</span>",
+                "C": "<span id='I15Q1C_T0'> Developed-market</span><span id='I15Q1C_T1'> economic</span><span id='I15Q1C_T2'> recession</span><span id='I15Q1C_T3'> index</span>",
+                "D": "<span id='I15Q1D_T0'> I</span><span id='I15Q1D_T1'> can</span><span id='I15Q1D_T2'> not</span><span id='I15Q1D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q2": {
+                "question": "<span id='I15Q2_T0'> Which</span><span id='I15Q2_T1'> country</span><span id='I15Q2_T2'> has</span><span id='I15Q2_T3'> the</span><span id='I15Q2_T4'> highest</span><span id='I15Q2_T5'> overheating</span><span id='I15Q2_T6'> index?</span>",
+                "A": "<span id='I15Q2A_T0'> Argentina</span>",
+                "B": "<span id='I15Q2B_T0'> Brazil</span>",
+                "C": "<span id='I15Q2C_T0'> Singapore</span>",
+                "D": "<span id='I15Q2D_T0'> I</span><span id='I15Q2D_T1'> can</span><span id='I15Q2D_T2'> not</span><span id='I15Q2D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q3": {
+                "question": "<span id='I15Q3_T0'> Which</span><span id='I15Q3_T1'> country</span><span id='I15Q3_T2'> has</span><span id='I15Q3_T3'> the</span><span id='I15Q3_T4'> lowest</span><span id='I15Q3_T5'> overheating</span><span id='I15Q3_T6'> index?</span>",
+                "A": "<span id='I15Q3A_T0'> Saudi</span><span id='I15Q3A_T1'> Arabia</span>",
+                "B": "<span id='I15Q3B_T0'> Malaysia</span>",
+                "C": "<span id='I15Q3C_T0'> Hungary</span>",
+                "D": "<span id='I15Q3D_T0'> I</span><span id='I15Q3D_T1'> can</span><span id='I15Q3D_T2'> not</span><span id='I15Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I15Q4_T0'> What</span><span id='I15Q4_T1'> is</span><span id='I15Q4_T2'> the</span><span id='I15Q4_T3'> minimum</span><span id='I15Q4_T4'> value</span><span id='I15Q4_T5'> of</span><span id='I15Q4_T6'> economic</span><span id='I15Q4_T7'> index</span><span id='I15Q4_T8'> in</span><span id='I15Q4_T9'> this</span><span id='I15Q4_T10'> visualization?</span>",
+                "A": "<span id='I15Q4A_T0'> Less</span><span id='I15Q4A_T1'> than</span><span id='I15Q4A_T2'> 10</span>",
+                "B": "<span id='I15Q4B_T0'> 10-20</span>",
+                "C": "<span id='I15Q4C_T0'> 20-30</span>",
+                "D": "<span id='I15Q4D_T0'> I</span><span id='I15Q4D_T1'> can</span><span id='I15Q4D_T2'> not</span><span id='I15Q4D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q5": {
+                "question": "<span id='I15Q5_T0'> Which</span><span id='I15Q5_T1'> country</span><span id='I15Q5_T2'> doesn't</span><span id='I15Q5_T3'> appear</span><span id='I15Q5_T4'> in</span><span id='I15Q5_T5'> this</span><span id='I15Q5_T6'> visualization?</span>",
+                "A": "<span id='I15Q5A_T0'> China</span>",
+                "B": "<span id='I15Q5B_T0'> Russia</span>",
+                "C": "<span id='I15Q5C_T0'> US</span>",
+                "D": "<span id='I15Q5D_T0'> I</span><span id='I15Q5D_T1'> can</span><span id='I15Q5D_T2'> not</span><span id='I15Q5D_T3'> remember</span>",
+                "answer": "C"
+            }
+        },
+        "flag": "blur",
+        "index": 15
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_513.png",
+        "flag": "real",
+        "index": 16
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryI01_1.png",
+        "flag": "real",
+        "index": 17
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\economist_daily_chart_513.png",
+        "QA": {
+            "name": "economist_daily_chart_513.png",
+            "Q1": {
+                "question": "<span id='I18Q1_T0'> What</span><span id='I18Q1_T1'> is</span><span id='I18Q1_T2'> the</span><span id='I18Q1_T3'> theme</span><span id='I18Q1_T4'> of</span><span id='I18Q1_T5'> this</span><span id='I18Q1_T6'> visualization?</span>",
+                "A": "<span id='I18Q1A_T0'> Best-selling</span><span id='I18Q1A_T1'> children's</span><span id='I18Q1A_T2'> books</span><span id='I18Q1A_T3'> in</span><span id='I18Q1A_T4'> Britain</span>",
+                "B": "<span id='I18Q1B_T0'> Best-selling</span><span id='I18Q1B_T1'> science</span><span id='I18Q1B_T2'> fictions</span><span id='I18Q1B_T3'> in</span><span id='I18Q1B_T4'> Britain</span>",
+                "C": "<span id='I18Q1C_T0'> Best-selling</span><span id='I18Q1C_T1'> political</span><span id='I18Q1C_T2'> memoirs</span><span id='I18Q1C_T3'> in</span><span id='I18Q1C_T4'> Britain</span>",
+                "D": "<span id='I18Q1D_T0'> I</span><span id='I18Q1D_T1'> can</span><span id='I18Q1D_T2'> not</span><span id='I18Q1D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q2": {
+                "question": "<span id='I18Q2_T0'> What</span><span id='I18Q2_T1'> period</span><span id='I18Q2_T2'> of</span><span id='I18Q2_T3'> data</span><span id='I18Q2_T4'> does</span><span id='I18Q2_T5'> this</span><span id='I18Q2_T6'> visualization</span><span id='I18Q2_T7'> show?</span>",
+                "A": "<span id='I18Q2A_T0'> 1998-2008</span>",
+                "B": "<span id='I18Q2B_T0'> 1998-2005</span>",
+                "C": "<span id='I18Q2C_T0'> 1998-2010</span>",
+                "D": "<span id='I18Q2D_T0'> I</span><span id='I18Q2D_T1'> can</span><span id='I18Q2D_T2'> not</span><span id='I18Q2D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q3": {
+                "question": "<span id='I18Q3_T0'> Which</span><span id='I18Q3_T1'> book</span><span id='I18Q3_T2'> sells</span><span id='I18Q3_T3'> best</span><span id='I18Q3_T4'> in</span><span id='I18Q3_T5'> this</span><span id='I18Q3_T6'> visualization?</span>",
+                "A": "<span id='I18Q3A_T0'> My</span><span id='I18Q3A_T1'> Life</span>",
+                "B": "<span id='I18Q3B_T0'> Dreams</span><span id='I18Q3B_T1'> of</span><span id='I18Q3B_T2'> My</span><span id='I18Q3B_T3'> Father</span>",
+                "C": "<span id='I18Q3C_T0'> Living</span><span id='I18Q3C_T1'> History</span>",
+                "D": "<span id='I18Q3D_T0'> I</span><span id='I18Q3D_T1'> can</span><span id='I18Q3D_T2'> not</span><span id='I18Q3D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q4": {
+                "question": "<span id='I18Q4_T0'> Which</span><span id='I18Q4_T1'> book</span><span id='I18Q4_T2'> sells</span><span id='I18Q4_T3'> the</span><span id='I18Q4_T4'> worst</span><span id='I18Q4_T5'> in</span><span id='I18Q4_T6'> this</span><span id='I18Q4_T7'> visualization?</span>",
+                "A": "<span id='I18Q4A_T0'> Chance</span><span id='I18Q4A_T1'> Witness</span>",
+                "B": "<span id='I18Q4B_T0'> Diaries:</span><span id='I18Q4B_T1'> In</span><span id='I18Q4B_T2'> Power</span>",
+                "C": "<span id='I18Q4C_T0'> The</span><span id='I18Q4C_T1'> Third</span><span id='I18Q4C_T2'> Man</span>",
+                "D": "<span id='I18Q4D_T0'> I</span><span id='I18Q4D_T1'> can</span><span id='I18Q4D_T2'> not</span><span id='I18Q4D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q5": {
+                "question": "<span id='I18Q5_T0'> How</span><span id='I18Q5_T1'> many</span><span id='I18Q5_T2'> copies</span><span id='I18Q5_T3'> did</span><span id='I18Q5_T4'> My</span><span id='I18Q5_T5'> Life</span><span id='I18Q5_T6'> sell?</span>",
+                "A": "<span id='I18Q5A_T0'> Around</span><span id='I18Q5A_T1'> 700,000</span>",
+                "B": "<span id='I18Q5B_T0'> Around</span><span id='I18Q5B_T1'> 180,000</span>",
+                "C": "<span id='I18Q5C_T0'> Around</span><span id='I18Q5C_T1'> 60,000</span>",
+                "D": "<span id='I18Q5D_T0'> I</span><span id='I18Q5D_T1'> can</span><span id='I18Q5D_T2'> not</span><span id='I18Q5D_T3'> remember</span>",
+                "answer": "B"
+            }
+        },
+        "flag": "blur",
+        "index": 18
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\treasuryI01_1.png",
+        "QA": {
+            "name": "treasuryI01_1.png",
+            "Q1": {
+                "question": "<span id='I19Q1_T0'> What</span><span id='I19Q1_T1'> is</span><span id='I19Q1_T2'> the</span><span id='I19Q1_T3'> theme</span><span id='I19Q1_T4'> of</span><span id='I19Q1_T5'> this</span><span id='I19Q1_T6'> visualization?</span>",
+                "A": "<span id='I19Q1A_T0'> Reno</span><span id='I19Q1A_T1'> housing</span><span id='I19Q1A_T2'> unit</span><span id='I19Q1A_T3'> growth</span><span id='I19Q1A_T4'> outpaced</span><span id='I19Q1A_T5'> population</span><span id='I19Q1A_T6'> and</span><span id='I19Q1A_T7'> house</span><span id='I19Q1A_T8'> hold</span><span id='I19Q1A_T9'> growth</span><span id='I19Q1A_T10'> during</span><span id='I19Q1A_T11'> the</span><span id='I19Q1A_T12'> past</span><span id='I19Q1A_T13'> decade</span>",
+                "B": "<span id='I19Q1B_T0'> Reno</span><span id='I19Q1B_T1'> population</span><span id='I19Q1B_T2'> growth</span><span id='I19Q1B_T3'> outpaced</span><span id='I19Q1B_T4'> housing</span><span id='I19Q1B_T5'> unit</span><span id='I19Q1B_T6'> and</span><span id='I19Q1B_T7'> house</span><span id='I19Q1B_T8'> hold</span><span id='I19Q1B_T9'> growth</span><span id='I19Q1B_T10'> during</span><span id='I19Q1B_T11'> the</span><span id='I19Q1B_T12'> past</span><span id='I19Q1B_T13'> decade</span>",
+                "C": "<span id='I19Q1C_T0'> Reno</span><span id='I19Q1C_T1'> house</span><span id='I19Q1C_T2'> hold</span><span id='I19Q1C_T3'> growth</span><span id='I19Q1C_T4'> outpaced</span><span id='I19Q1C_T5'> housing</span><span id='I19Q1C_T6'> unit</span><span id='I19Q1C_T7'> and</span><span id='I19Q1C_T8'> population</span><span id='I19Q1C_T9'> growth</span><span id='I19Q1C_T10'> during</span><span id='I19Q1C_T11'> the</span><span id='I19Q1C_T12'> past</span><span id='I19Q1C_T13'> decade</span>",
+                "D": "<span id='I19Q1D_T0'> I</span><span id='I19Q1D_T1'> can</span><span id='I19Q1D_T2'> not</span><span id='I19Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I19Q2_T0'> What</span><span id='I19Q2_T1'> period</span><span id='I19Q2_T2'> of</span><span id='I19Q2_T3'> data</span><span id='I19Q2_T4'> does</span><span id='I19Q2_T5'> this</span><span id='I19Q2_T6'> visualization</span><span id='I19Q2_T7'> show?</span>",
+                "A": "<span id='I19Q2A_T0'> 2010-2020</span>",
+                "B": "<span id='I19Q2B_T0'> 2000-2010</span>",
+                "C": "<span id='I19Q2C_T0'> 2000-1990</span>",
+                "D": "<span id='I19Q2D_T0'> I</span><span id='I19Q2D_T1'> can</span><span id='I19Q2D_T2'> not</span><span id='I19Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I19Q3_T0'> Which</span><span id='I19Q3_T1'> one</span><span id='I19Q3_T2'> has</span><span id='I19Q3_T3'> the</span><span id='I19Q3_T4'> highest</span><span id='I19Q3_T5'> annual</span><span id='I19Q3_T6'> growth</span><span id='I19Q3_T7'> rate?</span>",
+                "A": "<span id='I19Q3A_T0'> Reno-Sparks</span><span id='I19Q3A_T1'> Population</span>",
+                "B": "<span id='I19Q3B_T0'> Reno-Sparks</span><span id='I19Q3B_T1'> Households</span>",
+                "C": "<span id='I19Q3C_T0'> Reno-Sparks</span><span id='I19Q3C_T1'> Housing</span><span id='I19Q3C_T2'> Units</span>",
+                "D": "<span id='I19Q3D_T0'> I</span><span id='I19Q3D_T1'> can</span><span id='I19Q3D_T2'> not</span><span id='I19Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I19Q4_T0'> Which</span><span id='I19Q4_T1'> one</span><span id='I19Q4_T2'> is</span><span id='I19Q4_T3'> higher,</span><span id='I19Q4_T4'> annual</span><span id='I19Q4_T5'> growth</span><span id='I19Q4_T6'> rate</span><span id='I19Q4_T7'> of</span><span id='I19Q4_T8'> Reno-Sparks</span><span id='I19Q4_T9'> Households</span><span id='I19Q4_T10'> or</span><span id='I19Q4_T11'> annual</span><span id='I19Q4_T12'> growth</span><span id='I19Q4_T13'> rate</span><span id='I19Q4_T14'> of</span><span id='I19Q4_T15'> Reno-Sparks</span><span id='I19Q4_T16'> Housing</span><span id='I19Q4_T17'> Units?</span>",
+                "A": "<span id='I19Q4A_T0'> Reno-Sparks</span><span id='I19Q4A_T1'> Population</span>",
+                "B": "<span id='I19Q4B_T0'> Reno-Sparks</span><span id='I19Q4B_T1'> Households</span>",
+                "C": "<span id='I19Q4C_T0'> The</span><span id='I19Q4C_T1'> same</span>",
+                "D": "<span id='I19Q4D_T0'> I</span><span id='I19Q4D_T1'> can</span><span id='I19Q4D_T2'> not</span><span id='I19Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I19Q5_T0'> What</span><span id='I19Q5_T1'> is</span><span id='I19Q5_T2'> the</span><span id='I19Q5_T3'> population</span><span id='I19Q5_T4'> in</span><span id='I19Q5_T5'> 2000</span>",
+                "A": "<span id='I19Q5A_T0'> Around</span><span id='I19Q5A_T1'> 350,000</span>",
+                "B": "<span id='I19Q5B_T0'> Around</span><span id='I19Q5B_T1'> 400,000</span>",
+                "C": "<span id='I19Q5C_T0'> Around</span><span id='I19Q5C_T1'> 450,000</span>",
+                "D": "<span id='I19Q5D_T0'> I</span><span id='I19Q5D_T1'> can</span><span id='I19Q5D_T2'> not</span><span id='I19Q5D_T3'> remember</span>",
+                "answer": "A"
+            }
+        },
+        "flag": "blur",
+        "index": 19
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryJ02_2.png",
+        "flag": "real",
+        "index": 20
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryK03_3.png",
+        "flag": "real",
+        "index": 21
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\treasuryJ02_2.png",
+        "QA": {
+            "name": "treasuryJ02_2.png",
+            "Q1": {
+                "question": "<span id='I22Q1_T0'> What</span><span id='I22Q1_T1'> is</span><span id='I22Q1_T2'> the</span><span id='I22Q1_T3'> theme</span><span id='I22Q1_T4'> of</span><span id='I22Q1_T5'> this</span><span id='I22Q1_T6'> visualization?</span>",
+                "A": "<span id='I22Q1A_T0'> Quarterly</span><span id='I22Q1A_T1'> refinance</span><span id='I22Q1A_T2'> mortgage</span><span id='I22Q1A_T3'> originations</span>",
+                "B": "<span id='I22Q1B_T0'> Quarterly</span><span id='I22Q1B_T1'> commercial</span><span id='I22Q1B_T2'> loan</span><span id='I22Q1B_T3'> originations</span>",
+                "C": "<span id='I22Q1C_T0'> Quarterly</span><span id='I22Q1C_T1'> secured</span><span id='I22Q1C_T2'> loans</span>",
+                "D": "<span id='I22Q1D_T0'> I</span><span id='I22Q1D_T1'> can</span><span id='I22Q1D_T2'> not</span><span id='I22Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I22Q2_T0'> What</span><span id='I22Q2_T1'> period</span><span id='I22Q2_T2'> of</span><span id='I22Q2_T3'> data</span><span id='I22Q2_T4'> does</span><span id='I22Q2_T5'> this</span><span id='I22Q2_T6'> visualization</span><span id='I22Q2_T7'> show?</span>",
+                "A": "<span id='I22Q2A_T0'> 2003-2008</span>",
+                "B": "<span id='I22Q2B_T0'> 2008-2012</span>",
+                "C": "<span id='I22Q2C_T0'> 2003-2012</span>",
+                "D": "<span id='I22Q2D_T0'> I</span><span id='I22Q2D_T1'> can</span><span id='I22Q2D_T2'> not</span><span id='I22Q2D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q3": {
+                "question": "<span id='I22Q3_T0'> When</span><span id='I22Q3_T1'> have</span><span id='I22Q3_T2'> the</span><span id='I22Q3_T3'> 16.2</span><span id='I22Q3_T4'> million</span><span id='I22Q3_T5'> homeowners</span><span id='I22Q3_T6'> refinanced?</span>",
+                "A": "<span id='I22Q3A_T0'> Since</span><span id='I22Q3A_T1'> April</span><span id='I22Q3A_T2'> 1,</span><span id='I22Q3A_T3'> 2008</span>",
+                "B": "<span id='I22Q3B_T0'> Since</span><span id='I22Q3B_T1'> April</span><span id='I22Q3B_T2'> 1,</span><span id='I22Q3B_T3'> 2009</span>",
+                "C": "<span id='I22Q3C_T0'> Since</span><span id='I22Q3C_T1'> April</span><span id='I22Q3C_T2'> 1,</span><span id='I22Q3C_T3'> 2010</span>",
+                "D": "<span id='I22Q3D_T0'> I</span><span id='I22Q3D_T1'> can</span><span id='I22Q3D_T2'> not</span><span id='I22Q3D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q4": {
+                "question": "<span id='I22Q4_T0'> In</span><span id='I22Q4_T1'> which</span><span id='I22Q4_T2'> year</span><span id='I22Q4_T3'> does</span><span id='I22Q4_T4'> the</span><span id='I22Q4_T5'> maximum</span><span id='I22Q4_T6'> quarterly</span><span id='I22Q4_T7'> refinance</span><span id='I22Q4_T8'> mortgage</span><span id='I22Q4_T9'> originations</span><span id='I22Q4_T10'> appear?</span>",
+                "A": "<span id='I22Q4A_T0'> 2003</span>",
+                "B": "<span id='I22Q4B_T0'> 2005</span>",
+                "C": "<span id='I22Q4C_T0'> 2007</span>",
+                "D": "<span id='I22Q4D_T0'> I</span><span id='I22Q4D_T1'> can</span><span id='I22Q4D_T2'> not</span><span id='I22Q4D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q5": {
+                "question": "<span id='I22Q5_T0'> In</span><span id='I22Q5_T1'> which</span><span id='I22Q5_T2'> year</span><span id='I22Q5_T3'> does</span><span id='I22Q5_T4'> the</span><span id='I22Q5_T5'> minimum</span><span id='I22Q5_T6'> quarterly</span><span id='I22Q5_T7'> refinance</span><span id='I22Q5_T8'> mortgage</span><span id='I22Q5_T9'> originations</span><span id='I22Q5_T10'> appear?</span>",
+                "A": "<span id='I22Q5A_T0'> 2004</span>",
+                "B": "<span id='I22Q5B_T0'> 2006</span>",
+                "C": "<span id='I22Q5C_T0'> 2008</span>",
+                "D": "<span id='I22Q5D_T0'> I</span><span id='I22Q5D_T1'> can</span><span id='I22Q5D_T2'> not</span><span id='I22Q5D_T3'> remember</span>",
+                "answer": "C"
+            }
+        },
+        "flag": "blur",
+        "index": 22
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\treasuryK03_3.png",
+        "QA": {
+            "name": "treasuryK03_3.png",
+            "Q1": {
+                "question": "<span id='I23Q1_T0'> What</span><span id='I23Q1_T1'> is</span><span id='I23Q1_T2'> the</span><span id='I23Q1_T3'> theme</span><span id='I23Q1_T4'> of</span><span id='I23Q1_T5'> this</span><span id='I23Q1_T6'> visualization?</span>",
+                "A": "<span id='I23Q1A_T0'> Total</span><span id='I23Q1A_T1'> long</span><span id='I23Q1A_T2'> position</span>",
+                "B": "<span id='I23Q1B_T0'> Total</span><span id='I23Q1B_T1'> short</span><span id='I23Q1B_T2'> position</span>",
+                "C": "<span id='I23Q1C_T0'> Total</span><span id='I23Q1C_T1'> net</span><span id='I23Q1C_T2'> position</span>",
+                "D": "<span id='I23Q1D_T0'> I</span><span id='I23Q1D_T1'> can</span><span id='I23Q1D_T2'> not</span><span id='I23Q1D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q2": {
+                "question": "<span id='I23Q2_T0'> What</span><span id='I23Q2_T1'> period</span><span id='I23Q2_T2'> of</span><span id='I23Q2_T3'> data</span><span id='I23Q2_T4'> does</span><span id='I23Q2_T5'> this</span><span id='I23Q2_T6'> visualization</span><span id='I23Q2_T7'> show?</span>",
+                "A": "<span id='I23Q2A_T0'> 2005-2010</span>",
+                "B": "<span id='I23Q2B_T0'> 2008-2012</span>",
+                "C": "<span id='I23Q2C_T0'> 2009-2014</span>",
+                "D": "<span id='I23Q2D_T0'> I</span><span id='I23Q2D_T1'> can</span><span id='I23Q2D_T2'> not</span><span id='I23Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I23Q3_T0'> Which</span><span id='I23Q3_T1'> year</span><span id='I23Q3_T2'> has</span><span id='I23Q3_T3'> the</span><span id='I23Q3_T4'> highest</span><span id='I23Q3_T5'> total</span><span id='I23Q3_T6'> net</span><span id='I23Q3_T7'> position?</span>",
+                "A": "<span id='I23Q3A_T0'> 2009</span>",
+                "B": "<span id='I23Q3B_T0'> 2011</span>",
+                "C": "<span id='I23Q3C_T0'> 2012</span>",
+                "D": "<span id='I23Q3D_T0'> I</span><span id='I23Q3D_T1'> can</span><span id='I23Q3D_T2'> not</span><span id='I23Q3D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q4": {
+                "question": "<span id='I23Q4_T0'> Which</span><span id='I23Q4_T1'> year</span><span id='I23Q4_T2'> has</span><span id='I23Q4_T3'> the</span><span id='I23Q4_T4'> lowest</span><span id='I23Q4_T5'> total</span><span id='I23Q4_T6'> net</span><span id='I23Q4_T7'> position?</span>",
+                "A": "<span id='I23Q4A_T0'> 2009</span>",
+                "B": "<span id='I23Q4B_T0'> 2011</span>",
+                "C": "<span id='I23Q4C_T0'> 2010</span>",
+                "D": "<span id='I23Q4D_T0'> I</span><span id='I23Q4D_T1'> can</span><span id='I23Q4D_T2'> not</span><span id='I23Q4D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q5": {
+                "question": "<span id='I23Q5_T0'> What</span><span id='I23Q5_T1'> is</span><span id='I23Q5_T2'> the</span><span id='I23Q5_T3'> total</span><span id='I23Q5_T4'> net</span><span id='I23Q5_T5'> position(in</span><span id='I23Q5_T6'> Billions)</span><span id='I23Q5_T7'> in</span><span id='I23Q5_T8'> 2010?</span>",
+                "A": "<span id='I23Q5A_T0'> Around</span><span id='I23Q5A_T1'> 300</span>",
+                "B": "<span id='I23Q5B_T0'> Around</span><span id='I23Q5B_T1'> 100</span>",
+                "C": "<span id='I23Q5C_T0'> Around</span><span id='I23Q5C_T1'> 400</span>",
+                "D": "<span id='I23Q5D_T0'> I</span><span id='I23Q5D_T1'> can</span><span id='I23Q5D_T2'> not</span><span id='I23Q5D_T3'> remember</span>",
+                "answer": "B"
+            }
+        },
+        "flag": "blur",
+        "index": 23
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryL03_2.png",
+        "flag": "real",
+        "index": 24
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoB04_1.png",
+        "flag": "real",
+        "index": 25
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\treasuryL03_2.png",
+        "QA": {
+            "name": "treasuryL03_2.png",
+            "Q1": {
+                "question": "<span id='I26Q1_T0'> What</span><span id='I26Q1_T1'> is</span><span id='I26Q1_T2'> the</span><span id='I26Q1_T3'> theme</span><span id='I26Q1_T4'> of</span><span id='I26Q1_T5'> this</span><span id='I26Q1_T6'> visualization?</span>",
+                "A": "<span id='I26Q1A_T0'> Manufacturing</span>",
+                "B": "<span id='I26Q1B_T0'> Agriculture</span>",
+                "C": "<span id='I26Q1C_T0'> Tourism</span>",
+                "D": "<span id='I26Q1D_T0'> I</span><span id='I26Q1D_T1'> can</span><span id='I26Q1D_T2'> not</span><span id='I26Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I26Q2_T0'> What</span><span id='I26Q2_T1'> period</span><span id='I26Q2_T2'> of</span><span id='I26Q2_T3'> data</span><span id='I26Q2_T4'> does</span><span id='I26Q2_T5'> this</span><span id='I26Q2_T6'> visualization</span><span id='I26Q2_T7'> show?</span>",
+                "A": "<span id='I26Q2A_T0'> 2005-2010</span>",
+                "B": "<span id='I26Q2B_T0'> 2008-2011</span>",
+                "C": "<span id='I26Q2C_T0'> 2009-2011</span>",
+                "D": "<span id='I26Q2D_T0'> I</span><span id='I26Q2D_T1'> can</span><span id='I26Q2D_T2'> not</span><span id='I26Q2D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q3": {
+                "question": "<span id='I26Q3_T0'> Which</span><span id='I26Q3_T1'> of</span><span id='I26Q3_T2'> the</span><span id='I26Q3_T3'> following</span><span id='I26Q3_T4'> categories</span><span id='I26Q3_T5'> accounts</span><span id='I26Q3_T6'> for</span><span id='I26Q3_T7'> the</span><span id='I26Q3_T8'> highest</span><span id='I26Q3_T9'> proportion?</span>",
+                "A": "<span id='I26Q3A_T0'> Machinery</span>",
+                "B": "<span id='I26Q3B_T0'> Transportation</span><span id='I26Q3B_T1'> Equipment</span>",
+                "C": "<span id='I26Q3C_T0'> Computer</span><span id='I26Q3C_T1'> and</span><span id='I26Q3C_T2'> Electronic</span><span id='I26Q3C_T3'> Products</span>",
+                "D": "<span id='I26Q3D_T0'> I</span><span id='I26Q3D_T1'> can</span><span id='I26Q3D_T2'> not</span><span id='I26Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I26Q4_T0'> Which</span><span id='I26Q4_T1'> of</span><span id='I26Q4_T2'> the</span><span id='I26Q4_T3'> following</span><span id='I26Q4_T4'> categories</span><span id='I26Q4_T5'> accounts</span><span id='I26Q4_T6'> for</span><span id='I26Q4_T7'> relative</span><span id='I26Q4_T8'> lower</span><span id='I26Q4_T9'> proportion?</span>",
+                "A": "<span id='I26Q4A_T0'> Transportation</span><span id='I26Q4A_T1'> Equipment</span>",
+                "B": "<span id='I26Q4B_T0'> Machinery</span>",
+                "C": "<span id='I26Q4C_T0'> Computer</span><span id='I26Q4C_T1'> and</span><span id='I26Q4C_T2'> Electronic</span><span id='I26Q4C_T3'> Products</span>",
+                "D": "<span id='I26Q4D_T0'> I</span><span id='I26Q4D_T1'> can</span><span id='I26Q4D_T2'> not</span><span id='I26Q4D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q5": {
+                "question": "<span id='I26Q5_T0'> Which</span><span id='I26Q5_T1'> of</span><span id='I26Q5_T2'> the</span><span id='I26Q5_T3'> following</span><span id='I26Q5_T4'> accounts</span><span id='I26Q5_T5'> for</span><span id='I26Q5_T6'> more</span><span id='I26Q5_T7'> than</span><span id='I26Q5_T8'> 1%?</span>",
+                "A": "<span id='I26Q5A_T0'> Textile</span><span id='I26Q5A_T1'> Product</span><span id='I26Q5A_T2'> Mills</span>",
+                "B": "<span id='I26Q5B_T0'> Fabricated</span><span id='I26Q5B_T1'> Metal</span><span id='I26Q5B_T2'> Products</span>",
+                "C": "<span id='I26Q5C_T0'> Plastics</span><span id='I26Q5C_T1'> and</span><span id='I26Q5C_T2'> Rubber</span><span id='I26Q5C_T3'> Products</span>",
+                "D": "<span id='I26Q5D_T0'> I</span><span id='I26Q5D_T1'> can</span><span id='I26Q5D_T2'> not</span><span id='I26Q5D_T3'> remember</span>",
+                "answer": "B"
+            }
+        },
+        "flag": "blur",
+        "index": 26
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\whoB04_1.png",
+        "QA": {
+            "name": "whoB04_1.png",
+            "Q1": {
+                "question": "<span id='I27Q1_T0'> What</span><span id='I27Q1_T1'> is</span><span id='I27Q1_T2'> the</span><span id='I27Q1_T3'> theme</span><span id='I27Q1_T4'> of</span><span id='I27Q1_T5'> this</span><span id='I27Q1_T6'> visualization?</span>",
+                "A": "<span id='I27Q1A_T0'> Male</span><span id='I27Q1A_T1'> life</span><span id='I27Q1A_T2'> expectancy</span><span id='I27Q1A_T3'> at</span><span id='I27Q1A_T4'> birth</span><span id='I27Q1A_T5'> by</span><span id='I27Q1A_T6'> country</span><span id='I27Q1A_T7'> income</span><span id='I27Q1A_T8'> group</span><span id='I27Q1A_T9'> and</span><span id='I27Q1A_T10'> region</span>",
+                "B": "<span id='I27Q1B_T0'> Female</span><span id='I27Q1B_T1'> life</span><span id='I27Q1B_T2'> expectancy</span><span id='I27Q1B_T3'> at</span><span id='I27Q1B_T4'> birth</span><span id='I27Q1B_T5'> by</span><span id='I27Q1B_T6'> country</span><span id='I27Q1B_T7'> income</span><span id='I27Q1B_T8'> group</span><span id='I27Q1B_T9'> and</span><span id='I27Q1B_T10'> region</span>",
+                "C": "<span id='I27Q1C_T0'> Life</span><span id='I27Q1C_T1'> expectancy</span><span id='I27Q1C_T2'> at</span><span id='I27Q1C_T3'> birth</span><span id='I27Q1C_T4'> by</span><span id='I27Q1C_T5'> country</span><span id='I27Q1C_T6'> income</span><span id='I27Q1C_T7'> group</span><span id='I27Q1C_T8'> and</span><span id='I27Q1C_T9'> region</span>",
+                "D": "<span id='I27Q1D_T0'> I</span><span id='I27Q1D_T1'> can</span><span id='I27Q1D_T2'> not</span><span id='I27Q1D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q2": {
+                "question": "<span id='I27Q2_T0'> What</span><span id='I27Q2_T1'> period</span><span id='I27Q2_T2'> of</span><span id='I27Q2_T3'> data</span><span id='I27Q2_T4'> does</span><span id='I27Q2_T5'> this</span><span id='I27Q2_T6'> visualization</span><span id='I27Q2_T7'> show?</span>",
+                "A": "<span id='I27Q2A_T0'> 1950-2005</span>",
+                "B": "<span id='I27Q2B_T0'> 1960-2015</span>",
+                "C": "<span id='I27Q2C_T0'> 1950-2015</span>",
+                "D": "<span id='I27Q2D_T0'> I</span><span id='I27Q2D_T1'> can</span><span id='I27Q2D_T2'> not</span><span id='I27Q2D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q3": {
+                "question": "<span id='I27Q3_T0'> What</span><span id='I27Q3_T1'> is</span><span id='I27Q3_T2'> the</span><span id='I27Q3_T3'> female</span><span id='I27Q3_T4'> life</span><span id='I27Q3_T5'> expectancy</span><span id='I27Q3_T6'> at</span><span id='I27Q3_T7'> birth</span><span id='I27Q3_T8'> in</span><span id='I27Q3_T9'> high-income</span><span id='I27Q3_T10'> countries</span><span id='I27Q3_T11'> in</span><span id='I27Q3_T12'> 2000-2005?</span>",
+                "A": "<span id='I27Q3A_T0'> Higher</span><span id='I27Q3A_T1'> than</span><span id='I27Q3A_T2'> 80</span>",
+                "B": "<span id='I27Q3B_T0'> 75-80</span>",
+                "C": "<span id='I27Q3C_T0'> 70-75</span>",
+                "D": "<span id='I27Q3D_T0'> I</span><span id='I27Q3D_T1'> can</span><span id='I27Q3D_T2'> not</span><span id='I27Q3D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q4": {
+                "question": "<span id='I27Q4_T0'> What</span><span id='I27Q4_T1'> is</span><span id='I27Q4_T2'> the</span><span id='I27Q4_T3'> female</span><span id='I27Q4_T4'> life</span><span id='I27Q4_T5'> expectancy</span><span id='I27Q4_T6'> at</span><span id='I27Q4_T7'> birth</span><span id='I27Q4_T8'> in</span><span id='I27Q4_T9'> low-income</span><span id='I27Q4_T10'> countries</span><span id='I27Q4_T11'> in</span><span id='I27Q4_T12'> 1950-1955?</span>",
+                "A": "<span id='I27Q4A_T0'> 45-50</span>",
+                "B": "<span id='I27Q4B_T0'> 40-45</span>",
+                "C": "<span id='I27Q4C_T0'> 35-40</span>",
+                "D": "<span id='I27Q4D_T0'> I</span><span id='I27Q4D_T1'> can</span><span id='I27Q4D_T2'> not</span><span id='I27Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I27Q5_T0'> When</span><span id='I27Q5_T1'> did</span><span id='I27Q5_T2'> female</span><span id='I27Q5_T3'> life</span><span id='I27Q5_T4'> expectancy</span><span id='I27Q5_T5'> in</span><span id='I27Q5_T6'> low-income</span><span id='I27Q5_T7'> countries</span><span id='I27Q5_T8'> start</span><span id='I27Q5_T9'> to</span><span id='I27Q5_T10'> be</span><span id='I27Q5_T11'> higher</span><span id='I27Q5_T12'> than</span><span id='I27Q5_T13'> that</span><span id='I27Q5_T14'> in</span><span id='I27Q5_T15'> East</span><span id='I27Q5_T16'> and</span><span id='I27Q5_T17'> Southern</span><span id='I27Q5_T18'> African</span><span id='I27Q5_T19'> countries?</span>",
+                "A": "<span id='I27Q5A_T0'> 1960-65</span>",
+                "B": "<span id='I27Q5B_T0'> 1970-75</span>",
+                "C": "<span id='I27Q5C_T0'> 1965-70</span>",
+                "D": "<span id='I27Q5D_T0'> I</span><span id='I27Q5D_T1'> can</span><span id='I27Q5D_T2'> not</span><span id='I27Q5D_T3'> remember</span>",
+                "answer": "B"
+            }
+        },
+        "flag": "blur",
+        "index": 27
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoB08_1.png",
+        "flag": "real",
+        "index": 28
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoJ01_1.png",
+        "flag": "real",
+        "index": 29
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\whoB08_1.png",
+        "QA": {
+            "name": "whoB08_1.png",
+            "Q1": {
+                "question": "<span id='I30Q1_T0'> What</span><span id='I30Q1_T1'> is</span><span id='I30Q1_T2'> the</span><span id='I30Q1_T3'> theme</span><span id='I30Q1_T4'> of</span><span id='I30Q1_T5'> this</span><span id='I30Q1_T6'> visualization?</span>",
+                "A": "<span id='I30Q1A_T0'> Distribution</span><span id='I30Q1A_T1'> of</span><span id='I30Q1A_T2'> those</span><span id='I30Q1A_T3'> who</span><span id='I30Q1A_T4'> usually</span><span id='I30Q1A_T5'> collect</span><span id='I30Q1A_T6'> water</span><span id='I30Q1A_T7'> in</span><span id='I30Q1A_T8'> 15</span><span id='I30Q1A_T9'> developing</span><span id='I30Q1A_T10'> countries</span>",
+                "B": "<span id='I30Q1B_T0'> Distribution</span><span id='I30Q1B_T1'> of</span><span id='I30Q1B_T2'> those</span><span id='I30Q1B_T3'> who</span><span id='I30Q1B_T4'> usually</span><span id='I30Q1B_T5'> collect</span><span id='I30Q1B_T6'> water</span><span id='I30Q1B_T7'> in</span><span id='I30Q1B_T8'> 15</span><span id='I30Q1B_T9'> developed</span><span id='I30Q1B_T10'> countries</span>",
+                "C": "<span id='I30Q1C_T0'> Distribution</span><span id='I30Q1C_T1'> of</span><span id='I30Q1C_T2'> those</span><span id='I30Q1C_T3'> who</span><span id='I30Q1C_T4'> usually</span><span id='I30Q1C_T5'> collect</span><span id='I30Q1C_T6'> water</span><span id='I30Q1C_T7'> in</span><span id='I30Q1C_T8'> 15</span><span id='I30Q1C_T9'> underdeveloped</span><span id='I30Q1C_T10'> countries</span>",
+                "D": "<span id='I30Q1D_T0'> I</span><span id='I30Q1D_T1'> can</span><span id='I30Q1D_T2'> not</span><span id='I30Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I30Q2_T0'> What</span><span id='I30Q2_T1'> period</span><span id='I30Q2_T2'> of</span><span id='I30Q2_T3'> data</span><span id='I30Q2_T4'> does</span><span id='I30Q2_T5'> this</span><span id='I30Q2_T6'> visualization</span><span id='I30Q2_T7'> show?</span>",
+                "A": "<span id='I30Q2A_T0'> 2005-2006</span>",
+                "B": "<span id='I30Q2B_T0'> 2006-2007</span>",
+                "C": "<span id='I30Q2C_T0'> 2007-2008</span>",
+                "D": "<span id='I30Q2D_T0'> I</span><span id='I30Q2D_T1'> can</span><span id='I30Q2D_T2'> not</span><span id='I30Q2D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q3": {
+                "question": "<span id='I30Q3_T0'> Who</span><span id='I30Q3_T1'> usually</span><span id='I30Q3_T2'> goes</span><span id='I30Q3_T3'> to</span><span id='I30Q3_T4'> collect</span><span id='I30Q3_T5'> water</span><span id='I30Q3_T6'> than</span><span id='I30Q3_T7'> others?</span>",
+                "A": "<span id='I30Q3A_T0'> Women</span>",
+                "B": "<span id='I30Q3B_T0'> Men</span>",
+                "C": "<span id='I30Q3C_T0'> Boys</span>",
+                "D": "<span id='I30Q3D_T0'> I</span><span id='I30Q3D_T1'> can</span><span id='I30Q3D_T2'> not</span><span id='I30Q3D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q4": {
+                "question": "<span id='I30Q4_T0'> What</span><span id='I30Q4_T1'> is</span><span id='I30Q4_T2'> the</span><span id='I30Q4_T3'> percentage</span><span id='I30Q4_T4'> of</span><span id='I30Q4_T5'> Men?</span>",
+                "A": "<span id='I30Q4A_T0'> 25%</span>",
+                "B": "<span id='I30Q4B_T0'> 64%</span>",
+                "C": "<span id='I30Q4C_T0'> 4%</span>",
+                "D": "<span id='I30Q4D_T0'> I</span><span id='I30Q4D_T1'> can</span><span id='I30Q4D_T2'> not</span><span id='I30Q4D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q5": {
+                "question": "<span id='I30Q5_T0'> What</span><span id='I30Q5_T1'> is</span><span id='I30Q5_T2'> the</span><span id='I30Q5_T3'> percentage</span><span id='I30Q5_T4'> of</span><span id='I30Q5_T5'> Girls?</span>",
+                "A": "<span id='I30Q5A_T0'> 25%</span>",
+                "B": "<span id='I30Q5B_T0'> 4%</span>",
+                "C": "<span id='I30Q5C_T0'> 7%</span>",
+                "D": "<span id='I30Q5D_T0'> I</span><span id='I30Q5D_T1'> can</span><span id='I30Q5D_T2'> not</span><span id='I30Q5D_T3'> remember</span>",
+                "answer": "C"
+            }
+        },
+        "flag": "blur",
+        "index": 30
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\whoJ01_1.png",
+        "QA": {
+            "name": "whoJ01_1.png",
+            "Q1": {
+                "question": "<span id='I31Q1_T0'> What</span><span id='I31Q1_T1'> is</span><span id='I31Q1_T2'> the</span><span id='I31Q1_T3'> theme</span><span id='I31Q1_T4'> of</span><span id='I31Q1_T5'> this</span><span id='I31Q1_T6'> visualization?</span>",
+                "A": "<span id='I31Q1A_T0'> Percentage</span><span id='I31Q1A_T1'> of</span><span id='I31Q1A_T2'> population</span><span id='I31Q1A_T3'> using</span><span id='I31Q1A_T4'> the</span><span id='I31Q1A_T5'> medical</span><span id='I31Q1A_T6'> mask</span>",
+                "B": "<span id='I31Q1B_T0'> Percentage</span><span id='I31Q1B_T1'> of</span><span id='I31Q1B_T2'> population</span><span id='I31Q1B_T3'> using</span><span id='I31Q1B_T4'> improved</span><span id='I31Q1B_T5'> sanitation</span><span id='I31Q1B_T6'> facilities</span>",
+                "C": "<span id='I31Q1C_T0'> Percentage</span><span id='I31Q1C_T1'> of</span><span id='I31Q1C_T2'> population</span><span id='I31Q1C_T3'> using</span><span id='I31Q1C_T4'> Automated</span><span id='I31Q1C_T5'> External</span><span id='I31Q1C_T6'> Defibrillator</span><span id='I31Q1C_T7'> (AED)</span>",
+                "D": "<span id='I31Q1D_T0'> I</span><span id='I31Q1D_T1'> can</span><span id='I31Q1D_T2'> not</span><span id='I31Q1D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q2": {
+                "question": "<span id='I31Q2_T0'> What</span><span id='I31Q2_T1'> year's</span><span id='I31Q2_T2'> data</span><span id='I31Q2_T3'> is</span><span id='I31Q2_T4'> displayed</span><span id='I31Q2_T5'> in</span><span id='I31Q2_T6'> this</span><span id='I31Q2_T7'> visualization?</span>",
+                "A": "<span id='I31Q2A_T0'> 2000</span>",
+                "B": "<span id='I31Q2B_T0'> 2010</span>",
+                "C": "<span id='I31Q2C_T0'> 2015</span>",
+                "D": "<span id='I31Q2D_T0'> I</span><span id='I31Q2D_T1'> can</span><span id='I31Q2D_T2'> not</span><span id='I31Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I31Q3_T0'> How</span><span id='I31Q3_T1'> many</span><span id='I31Q3_T2'> percentages</span><span id='I31Q3_T3'> of</span><span id='I31Q3_T4'> the</span><span id='I31Q3_T5'> population</span><span id='I31Q3_T6'> in</span><span id='I31Q3_T7'> Germany</span><span id='I31Q3_T8'> using</span><span id='I31Q3_T9'> improved</span><span id='I31Q3_T10'> sanitation?</span>",
+                "A": "<span id='I31Q3A_T0'> 91-100%</span>",
+                "B": "<span id='I31Q3B_T0'> 76-90%</span>",
+                "C": "<span id='I31Q3C_T0'> 50-75%</span>",
+                "D": "<span id='I31Q3D_T0'> I</span><span id='I31Q3D_T1'> can</span><span id='I31Q3D_T2'> not</span><span id='I31Q3D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q4": {
+                "question": "<span id='I31Q4_T0'> How</span><span id='I31Q4_T1'> many</span><span id='I31Q4_T2'> percentages</span><span id='I31Q4_T3'> of</span><span id='I31Q4_T4'> the</span><span id='I31Q4_T5'> population</span><span id='I31Q4_T6'> in</span><span id='I31Q4_T7'> China</span><span id='I31Q4_T8'> using</span><span id='I31Q4_T9'> improved</span><span id='I31Q4_T10'> sanitation?</span>",
+                "A": "<span id='I31Q4A_T0'> 91-100%</span>",
+                "B": "<span id='I31Q4B_T0'> 76-90%</span>",
+                "C": "<span id='I31Q4C_T0'> 50-75%</span>",
+                "D": "<span id='I31Q4D_T0'> I</span><span id='I31Q4D_T1'> can</span><span id='I31Q4D_T2'> not</span><span id='I31Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I31Q5_T0'> What</span><span id='I31Q5_T1'> color</span><span id='I31Q5_T2'> means</span><span id='I31Q5_T3'> that</span><span id='I31Q5_T4'> 50-75%</span><span id='I31Q5_T5'> of</span><span id='I31Q5_T6'> population</span><span id='I31Q5_T7'> using</span><span id='I31Q5_T8'> improved</span><span id='I31Q5_T9'> sanitation</span><span id='I31Q5_T10'> facilities?</span>",
+                "A": "<span id='I31Q5A_T0'> Light</span><span id='I31Q5A_T1'> green</span>",
+                "B": "<span id='I31Q5B_T0'> Yellow</span>",
+                "C": "<span id='I31Q5C_T0'> Pink</span>",
+                "D": "<span id='I31Q5D_T0'> I</span><span id='I31Q5D_T1'> can</span><span id='I31Q5D_T2'> not</span><span id='I31Q5D_T3'> remember</span>",
+                "answer": "B"
+            }
+        },
+        "flag": "blur",
+        "index": 31
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoN06_1.png",
+        "flag": "real",
+        "index": 32
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoN27.png",
+        "flag": "real",
+        "index": 33
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\whoN06_1.png",
+        "QA": {
+            "name": "whoN06_1.png",
+            "Q1": {
+                "question": "<span id='I34Q1_T0'> What</span><span id='I34Q1_T1'> is</span><span id='I34Q1_T2'> the</span><span id='I34Q1_T3'> theme</span><span id='I34Q1_T4'> of</span><span id='I34Q1_T5'> this</span><span id='I34Q1_T6'> visualization?</span>",
+                "A": "<span id='I34Q1A_T0'> Recorded</span><span id='I34Q1A_T1'> adult</span><span id='I34Q1A_T2'> per</span><span id='I34Q1A_T3'> capita</span><span id='I34Q1A_T4'> consumption</span><span id='I34Q1A_T5'> of</span><span id='I34Q1A_T6'> specific</span><span id='I34Q1A_T7'> alcoholic</span><span id='I34Q1A_T8'> beverages</span>",
+                "B": "<span id='I34Q1B_T0'> Recorded</span><span id='I34Q1B_T1'> adult</span><span id='I34Q1B_T2'> per</span><span id='I34Q1B_T3'> capita</span><span id='I34Q1B_T4'> consumption</span><span id='I34Q1B_T5'> of</span><span id='I34Q1B_T6'> specific</span><span id='I34Q1B_T7'> carbonated</span><span id='I34Q1B_T8'> beverages</span>",
+                "C": "<span id='I34Q1C_T0'> Recorded</span><span id='I34Q1C_T1'> adult</span><span id='I34Q1C_T2'> per</span><span id='I34Q1C_T3'> capita</span><span id='I34Q1C_T4'> consumption</span><span id='I34Q1C_T5'> of</span><span id='I34Q1C_T6'> specific</span><span id='I34Q1C_T7'> juices</span>",
+                "D": "<span id='I34Q1D_T0'> I</span><span id='I34Q1D_T1'> can</span><span id='I34Q1D_T2'> not</span><span id='I34Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I34Q2_T0'> What</span><span id='I34Q2_T1'> period</span><span id='I34Q2_T2'> of</span><span id='I34Q2_T3'> data</span><span id='I34Q2_T4'> does</span><span id='I34Q2_T5'> this</span><span id='I34Q2_T6'> visualization</span><span id='I34Q2_T7'> show?</span>",
+                "A": "<span id='I34Q2A_T0'> 1995-2005</span>",
+                "B": "<span id='I34Q2B_T0'> 2000-2015</span>",
+                "C": "<span id='I34Q2C_T0'> 1990-2005</span>",
+                "D": "<span id='I34Q2D_T0'> I</span><span id='I34Q2D_T1'> can</span><span id='I34Q2D_T2'> not</span><span id='I34Q2D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q3": {
+                "question": "<span id='I34Q3_T0'> Which</span><span id='I34Q3_T1'> of</span><span id='I34Q3_T2'> the</span><span id='I34Q3_T3'> following</span><span id='I34Q3_T4'> beverages</span><span id='I34Q3_T5'> consumed</span><span id='I34Q3_T6'> the</span><span id='I34Q3_T7'> most</span><span id='I34Q3_T8'> per</span><span id='I34Q3_T9'> capita</span><span id='I34Q3_T10'> during</span><span id='I34Q3_T11'> this</span><span id='I34Q3_T12'> period?</span>",
+                "A": "<span id='I34Q3A_T0'> Beer</span>",
+                "B": "<span id='I34Q3B_T0'> Spirits</span>",
+                "C": "<span id='I34Q3C_T0'> Wine</span>",
+                "D": "<span id='I34Q3D_T0'> I</span><span id='I34Q3D_T1'> can</span><span id='I34Q3D_T2'> not</span><span id='I34Q3D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q4": {
+                "question": "<span id='I34Q4_T0'> Which</span><span id='I34Q4_T1'> of</span><span id='I34Q4_T2'> the</span><span id='I34Q4_T3'> following</span><span id='I34Q4_T4'> beverages</span><span id='I34Q4_T5'> consumed</span><span id='I34Q4_T6'> the</span><span id='I34Q4_T7'> least</span><span id='I34Q4_T8'> per</span><span id='I34Q4_T9'> capita</span><span id='I34Q4_T10'> during</span><span id='I34Q4_T11'> this</span><span id='I34Q4_T12'> period?</span>",
+                "A": "<span id='I34Q4A_T0'> Beer</span>",
+                "B": "<span id='I34Q4B_T0'> Spirits</span>",
+                "C": "<span id='I34Q4C_T0'> Wine</span>",
+                "D": "<span id='I34Q4D_T0'> I</span><span id='I34Q4D_T1'> can</span><span id='I34Q4D_T2'> not</span><span id='I34Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I34Q5_T0'> How</span><span id='I34Q5_T1'> many</span><span id='I34Q5_T2'> alcoholic</span><span id='I34Q5_T3'> beverages</span><span id='I34Q5_T4'> does</span><span id='I34Q5_T5'> each</span><span id='I34Q5_T6'> person</span><span id='I34Q5_T7'> consume</span><span id='I34Q5_T8'> per</span><span id='I34Q5_T9'> year?</span>",
+                "A": "<span id='I34Q5A_T0'> Around</span><span id='I34Q5A_T1'> 5</span><span id='I34Q5A_T2'> litres</span>",
+                "B": "<span id='I34Q5B_T0'> Around</span><span id='I34Q5B_T1'> 4.5</span><span id='I34Q5B_T2'> litres</span>",
+                "C": "<span id='I34Q5C_T0'> Around</span><span id='I34Q5C_T1'> 4</span><span id='I34Q5C_T2'> litres</span>",
+                "D": "<span id='I34Q5D_T0'> I</span><span id='I34Q5D_T1'> can</span><span id='I34Q5D_T2'> not</span><span id='I34Q5D_T3'> remember</span>",
+                "answer": "B"
+            }
+        },
+        "flag": "blur",
+        "index": 34
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\whoN27.png",
+        "QA": {
+            "name": "whoN27.png",
+            "Q1": {
+                "question": "<span id='I35Q1_T0'> What</span><span id='I35Q1_T1'> is</span><span id='I35Q1_T2'> the</span><span id='I35Q1_T3'> theme</span><span id='I35Q1_T4'> of</span><span id='I35Q1_T5'> this</span><span id='I35Q1_T6'> visualization?</span>",
+                "A": "<span id='I35Q1A_T0'> Legal</span><span id='I35Q1A_T1'> definition</span><span id='I35Q1A_T2'> of</span><span id='I35Q1A_T3'> a</span><span id='I35Q1A_T4'> pure</span><span id='I35Q1A_T5'> juice</span>",
+                "B": "<span id='I35Q1B_T0'> Legal</span><span id='I35Q1B_T1'> definition</span><span id='I35Q1B_T2'> of</span><span id='I35Q1B_T3'> an</span><span id='I35Q1B_T4'> alcoholic</span><span id='I35Q1B_T5'> beverage</span>",
+                "C": "<span id='I35Q1C_T0'> Legal</span><span id='I35Q1C_T1'> definition</span><span id='I35Q1C_T2'> of</span><span id='I35Q1C_T3'> an</span><span id='I35Q1C_T4'> cordial</span>",
+                "D": "<span id='I35Q1D_T0'> I</span><span id='I35Q1D_T1'> can</span><span id='I35Q1D_T2'> not</span><span id='I35Q1D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q2": {
+                "question": "<span id='I35Q2_T0'> What</span><span id='I35Q2_T1'> year's</span><span id='I35Q2_T2'> data</span><span id='I35Q2_T3'> is</span><span id='I35Q2_T4'> displayed</span><span id='I35Q2_T5'> in</span><span id='I35Q2_T6'> this</span><span id='I35Q2_T7'> visualization?</span>",
+                "A": "<span id='I35Q2A_T0'> 2008</span>",
+                "B": "<span id='I35Q2B_T0'> 2009</span>",
+                "C": "<span id='I35Q2C_T0'> 2010</span>",
+                "D": "<span id='I35Q2D_T0'> I</span><span id='I35Q2D_T1'> can</span><span id='I35Q2D_T2'> not</span><span id='I35Q2D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q3": {
+                "question": "<span id='I35Q3_T0'> What</span><span id='I35Q3_T1'> is</span><span id='I35Q3_T2'> the</span><span id='I35Q3_T3'> minimum</span><span id='I35Q3_T4'> alcohol</span><span id='I35Q3_T5'> content</span><span id='I35Q3_T6'> used</span><span id='I35Q3_T7'> by</span><span id='I35Q3_T8'> the</span><span id='I35Q3_T9'> most</span><span id='I35Q3_T10'> countries?</span>",
+                "A": "<span id='I35Q3A_T0'> <1</span>",
+                "B": "<span id='I35Q3B_T0'> 3-3.99</span>",
+                "C": "<span id='I35Q3C_T0'> None</span>",
+                "D": "<span id='I35Q3D_T0'> I</span><span id='I35Q3D_T1'> can</span><span id='I35Q3D_T2'> not</span><span id='I35Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I35Q4_T0'> What</span><span id='I35Q4_T1'> is</span><span id='I35Q4_T2'> the</span><span id='I35Q4_T3'> minimum</span><span id='I35Q4_T4'> alcohol</span><span id='I35Q4_T5'> content</span><span id='I35Q4_T6'> used</span><span id='I35Q4_T7'> in</span><span id='I35Q4_T8'> almost</span><span id='I35Q4_T9'> no</span><span id='I35Q4_T10'> country</span>",
+                "A": "<span id='I35Q4A_T0'> 1-1.99</span>",
+                "B": "<span id='I35Q4B_T0'> 2-2.99</span>",
+                "C": "<span id='I35Q4C_T0'> 4-4.99</span>",
+                "D": "<span id='I35Q4D_T0'> I</span><span id='I35Q4D_T1'> can</span><span id='I35Q4D_T2'> not</span><span id='I35Q4D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q5": {
+                "question": "<span id='I35Q5_T0'> How</span><span id='I35Q5_T1'> many</span><span id='I35Q5_T2'> countries</span><span id='I35Q5_T3'> use</span><span id='I35Q5_T4'> <1</span><span id='I35Q5_T5'> as</span><span id='I35Q5_T6'> the</span><span id='I35Q5_T7'> minimum</span><span id='I35Q5_T8'> alcohol</span><span id='I35Q5_T9'> content?</span>",
+                "A": "<span id='I35Q5A_T0'> Around</span><span id='I35Q5A_T1'> 40</span>",
+                "B": "<span id='I35Q5B_T0'> Around</span><span id='I35Q5B_T1'> 10</span>",
+                "C": "<span id='I35Q5C_T0'> Around</span><span id='I35Q5C_T1'> 15</span>",
+                "D": "<span id='I35Q5D_T0'> I</span><span id='I35Q5D_T1'> can</span><span id='I35Q5D_T2'> not</span><span id='I35Q5D_T3'> remember</span>",
+                "answer": "A"
+            }
+        },
+        "flag": "blur",
+        "index": 35
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\wsj593.png",
+        "flag": "real",
+        "index": 36
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\_Di4yk2H64QEBkEncRGMhg==.0.png",
+        "flag": "real",
+        "index": 37
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\wsj593.png",
+        "QA": {
+            "name": "wsj593.png",
+            "Q1": {
+                "question": "<span id='I38Q1_T0'> What</span><span id='I38Q1_T1'> is</span><span id='I38Q1_T2'> the</span><span id='I38Q1_T3'> theme</span><span id='I38Q1_T4'> of</span><span id='I38Q1_T5'> this</span><span id='I38Q1_T6'> visualization?</span>",
+                "A": "<span id='I38Q1A_T0'> Top10</span><span id='I38Q1A_T1'> EU</span><span id='I38Q1A_T2'> countries</span><span id='I38Q1A_T3'> in</span><span id='I38Q1A_T4'> terms</span><span id='I38Q1A_T5'> of</span><span id='I38Q1A_T6'> travel</span><span id='I38Q1A_T7'> and</span><span id='I38Q1A_T8'> tourism</span><span id='I38Q1A_T9'> contribution</span><span id='I38Q1A_T10'> to</span><span id='I38Q1A_T11'> GDP</span>",
+                "B": "<span id='I38Q1B_T0'> Top10</span><span id='I38Q1B_T1'> EU</span><span id='I38Q1B_T2'> countries</span><span id='I38Q1B_T3'> in</span><span id='I38Q1B_T4'> terms</span><span id='I38Q1B_T5'> of</span><span id='I38Q1B_T6'> manufacturing</span><span id='I38Q1B_T7'> contribution</span><span id='I38Q1B_T8'> to</span><span id='I38Q1B_T9'> GDP</span>",
+                "C": "<span id='I38Q1C_T0'> Top10</span><span id='I38Q1C_T1'> EU</span><span id='I38Q1C_T2'> countries</span><span id='I38Q1C_T3'> in</span><span id='I38Q1C_T4'> terms</span><span id='I38Q1C_T5'> of</span><span id='I38Q1C_T6'> agriculture</span><span id='I38Q1C_T7'> contribution</span><span id='I38Q1C_T8'> to</span><span id='I38Q1C_T9'> GDP</span>",
+                "D": "<span id='I38Q1D_T0'> I</span><span id='I38Q1D_T1'> can</span><span id='I38Q1D_T2'> not</span><span id='I38Q1D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q2": {
+                "question": "<span id='I38Q2_T0'> What</span><span id='I38Q2_T1'> year's</span><span id='I38Q2_T2'> data</span><span id='I38Q2_T3'> is</span><span id='I38Q2_T4'> displayed</span><span id='I38Q2_T5'> in</span><span id='I38Q2_T6'> this</span><span id='I38Q2_T7'> visualization?</span>",
+                "A": "<span id='I38Q2A_T0'> 2010</span>",
+                "B": "<span id='I38Q2B_T0'> 2011</span>",
+                "C": "<span id='I38Q2C_T0'> 2012</span>",
+                "D": "<span id='I38Q2D_T0'> I</span><span id='I38Q2D_T1'> can</span><span id='I38Q2D_T2'> not</span><span id='I38Q2D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q3": {
+                "question": "<span id='I38Q3_T0'> Which</span><span id='I38Q3_T1'> country</span><span id='I38Q3_T2'> has</span><span id='I38Q3_T3'> the</span><span id='I38Q3_T4'> highest</span><span id='I38Q3_T5'> value?</span>",
+                "A": "<span id='I38Q3A_T0'> Spain</span>",
+                "B": "<span id='I38Q3B_T0'> Slovenia</span>",
+                "C": "<span id='I38Q3C_T0'> Malta</span>",
+                "D": "<span id='I38Q3D_T0'> I</span><span id='I38Q3D_T1'> can</span><span id='I38Q3D_T2'> not</span><span id='I38Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I38Q4_T0'> Which</span><span id='I38Q4_T1'> country</span><span id='I38Q4_T2'> has</span><span id='I38Q4_T3'> the</span><span id='I38Q4_T4'> lowest</span><span id='I38Q4_T5'> value?</span>",
+                "A": "<span id='I38Q4A_T0'> Cyprus</span>",
+                "B": "<span id='I38Q4B_T0'> Hungary</span>",
+                "C": "<span id='I38Q4C_T0'> Estonia</span>",
+                "D": "<span id='I38Q4D_T0'> I</span><span id='I38Q4D_T1'> can</span><span id='I38Q4D_T2'> not</span><span id='I38Q4D_T3'> remember</span>",
+                "answer": "B"
+            },
+            "Q5": {
+                "question": "<span id='I38Q5_T0'> Which</span><span id='I38Q5_T1'> country's</span><span id='I38Q5_T2'> data</span><span id='I38Q5_T3'> has</span><span id='I38Q5_T4'> a</span><span id='I38Q5_T5'> different</span><span id='I38Q5_T6'> color</span><span id='I38Q5_T7'> from</span><span id='I38Q5_T8'> other</span><span id='I38Q5_T9'> countries?</span>",
+                "A": "<span id='I38Q5A_T0'> Spain</span>",
+                "B": "<span id='I38Q5B_T0'> Hungary</span>",
+                "C": "<span id='I38Q5C_T0'> Greece</span>",
+                "D": "<span id='I38Q5D_T0'> I</span><span id='I38Q5D_T1'> can</span><span id='I38Q5D_T2'> not</span><span id='I38Q5D_T3'> remember</span>",
+                "answer": "C"
+            }
+        },
+        "flag": "blur",
+        "index": 38
+    }, {
+        "image": "../assets/task_data\\real_blurred\\bucket0\\_Di4yk2H64QEBkEncRGMhg==.0.png",
+        "QA": {
+            "name": "_Di4yk2H64QEBkEncRGMhg==.0.png",
+            "Q1": {
+                "question": "<span id='I39Q1_T0'> What</span><span id='I39Q1_T1'> is</span><span id='I39Q1_T2'> the</span><span id='I39Q1_T3'> theme</span><span id='I39Q1_T4'> of</span><span id='I39Q1_T5'> this</span><span id='I39Q1_T6'> visualization?</span>",
+                "A": "<span id='I39Q1A_T0'> Height</span><span id='I39Q1A_T1'> and</span><span id='I39Q1A_T2'> Weight</span><span id='I39Q1A_T3'> by</span><span id='I39Q1A_T4'> Continents</span>",
+                "B": "<span id='I39Q1B_T0'> Height</span><span id='I39Q1B_T1'> and</span><span id='I39Q1B_T2'> Weight</span><span id='I39Q1B_T3'> by</span><span id='I39Q1B_T4'> Eating</span><span id='I39Q1B_T5'> Habits</span>",
+                "C": "<span id='I39Q1C_T0'> Height</span><span id='I39Q1C_T1'> and</span><span id='I39Q1C_T2'> Weight</span><span id='I39Q1C_T3'> by</span><span id='I39Q1C_T4'> Sex</span>",
+                "D": "<span id='I39Q1D_T0'> I</span><span id='I39Q1D_T1'> can</span><span id='I39Q1D_T2'> not</span><span id='I39Q1D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q2": {
+                "question": "<span id='I39Q2_T0'> Who</span><span id='I39Q2_T1'> is</span><span id='I39Q2_T2'> the</span><span id='I39Q2_T3'> tallest</span><span id='I39Q2_T4'> male</span><span id='I39Q2_T5'> in</span><span id='I39Q2_T6'> this</span><span id='I39Q2_T7'> visualization?</span>",
+                "A": "<span id='I39Q2A_T0'> Philip</span>",
+                "B": "<span id='I39Q2B_T0'> Ronald</span>",
+                "C": "<span id='I39Q2C_T0'> William</span>",
+                "D": "<span id='I39Q2D_T0'> I</span><span id='I39Q2D_T1'> can</span><span id='I39Q2D_T2'> not</span><span id='I39Q2D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q3": {
+                "question": "<span id='I39Q3_T0'> Who</span><span id='I39Q3_T1'> is</span><span id='I39Q3_T2'> the</span><span id='I39Q3_T3'> tallest</span><span id='I39Q3_T4'> female</span><span id='I39Q3_T5'> in</span><span id='I39Q3_T6'> this</span><span id='I39Q3_T7'> visualization?</span>",
+                "A": "<span id='I39Q3A_T0'> Barbara</span>",
+                "B": "<span id='I39Q3B_T0'> Jane</span>",
+                "C": "<span id='I39Q3C_T0'> Mary</span>",
+                "D": "<span id='I39Q3D_T0'> I</span><span id='I39Q3D_T1'> can</span><span id='I39Q3D_T2'> not</span><span id='I39Q3D_T3'> remember</span>",
+                "answer": "C"
+            },
+            "Q4": {
+                "question": "<span id='I39Q4_T0'> Who</span><span id='I39Q4_T1'> is</span><span id='I39Q4_T2'> the</span><span id='I39Q4_T3'> weightest</span><span id='I39Q4_T4'> male</span><span id='I39Q4_T5'> in</span><span id='I39Q4_T6'> this</span><span id='I39Q4_T7'> visualization?</span>",
+                "A": "<span id='I39Q4A_T0'> Philip</span>",
+                "B": "<span id='I39Q4B_T0'> Ronald</span>",
+                "C": "<span id='I39Q4C_T0'> William</span>",
+                "D": "<span id='I39Q4D_T0'> I</span><span id='I39Q4D_T1'> can</span><span id='I39Q4D_T2'> not</span><span id='I39Q4D_T3'> remember</span>",
+                "answer": "A"
+            },
+            "Q5": {
+                "question": "<span id='I39Q5_T0'> Who</span><span id='I39Q5_T1'> is</span><span id='I39Q5_T2'> the</span><span id='I39Q5_T3'> shortest</span><span id='I39Q5_T4'> person</span><span id='I39Q5_T5'> in</span><span id='I39Q5_T6'> this</span><span id='I39Q5_T7'> visualization?</span>",
+                "A": "<span id='I39Q5A_T0'> Joyce</span>",
+                "B": "<span id='I39Q5B_T0'> Alice</span>",
+                "C": "<span id='I39Q5C_T0'> Thomas</span>",
+                "D": "<span id='I39Q5D_T0'> I</span><span id='I39Q5D_T1'> can</span><span id='I39Q5D_T2'> not</span><span id='I39Q5D_T3'> remember</span>",
+                "answer": "A"
+            }
+        },
+        "flag": "blur",
+        "index": 39
+    },
+    {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_184.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 40
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoB04_1.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 41
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoB13_1.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 42
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoB34_1.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 43
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\economist_daily_chart_244.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 44
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoB08_1.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 45
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\treasuryL16.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 46
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_513.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 47
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoK06_2.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 48
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_319.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 49
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_202.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 50
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoJ23.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 51
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryL03_2.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 52
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\3PuDl5gc8C7FWTFXB8kmqw==.0.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 53
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\wsj277.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 54
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoN06_1.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 55
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\__uID4lztqrYTniGMJdDWQ.0.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 56
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_200.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 57
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoO22_3.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 58
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\treasuryD10.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 59
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\79359.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 60
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryK03_3.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 61
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoJ33.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 62
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\wsj593.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 63
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_267.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 64
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\economist_daily_chart_100.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 65
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoB26_1.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 66
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\wsj135.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 67
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryJ02_2.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 68
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\143.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 69
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoJ01_1.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 70
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\_Di4yk2H64QEBkEncRGMhg==.0.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 71
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\3lG2Suf1vlUNqfO9pvq1kw.0.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 72
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\economist_daily_chart_76.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 73
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\02wEIH1uspxsk1E7VW-KRA==.0.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 74
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoN32_1.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 75
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\treasuryI01_1.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 76
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\economist_daily_chart_127.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 77
+    }, {
+        "image": "../assets/task_data\\real_filler\\bucket0\\whoB24_1.png",
+        "flag": "fill",
+        "showed": false,
+        "index": 78
+    }, {
+        "image": "../assets/task_data\\real_images\\bucket0\\whoN27.png",
+        "flag": "fill",
+        "showed": true,
+        "index": 79
+    }
+]
