@@ -2,7 +2,7 @@
 
 *Yao Wang, Chuhan Jiao(Aalto University), Mihai Bâce and Andreas Bulling*
 
-submitted to The IEEE Transactions on Visualization and Computer Graphics (TVCG2022)
+Accepted by IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
 This repository contains the dataset and models for predicting visualisation recallability.
 
@@ -54,5 +54,18 @@ $Root Directory
       └─ X-question —— a specific type of question (T-, FE-, F-, RV-, U-)
 ```
 
+If you think this repository is useful to you, please consider citing our work as:
+
+```
+@ARTICLE{9855227,
+  author={Wang, Yao and Jiao, Chuhan and B&#x00E2;ce, Mihai and Bulling, Andreas},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={VisRecall: Quantifying Information Visualisation Recallability Via Question Answering}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TVCG.2022.3198163}}
+```
 
 contact: yao.wang@vis.uni-stuttgart.de
