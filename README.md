@@ -1,8 +1,9 @@
 # VisRecall: Quantifying Information Visualisation Recallability via Question Answering
+[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--2826-d45815.svg)](https://doi.org/10.18419/darus-2826)
 
 *Yao Wang, Chuhan Jiao(Aalto University), Mihai Bâce and Andreas Bulling*
 
-Accepted by IEEE Transactions on Visualization and Computer Graphics (TVCG)
+IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
 This repository contains the dataset and models for predicting visualisation recallability.
 
