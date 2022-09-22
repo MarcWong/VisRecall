@@ -8,7 +8,8 @@
         "B": "Environment development and creature species abundance",
         "C": "The number and distribution of banks in a given region",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2007",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "4",
@@ -26,7 +28,8 @@
         "B": "Foreign bank assets/Total bank assets",
         "C": "Private credit/GDP",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9"
     },
     "Q4": {
 		"type": "4",
@@ -35,7 +38,8 @@
         "B": "Foreign bank assets/Total bank assets",
         "C": "Private credit/GDP",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q5": {
 		"type": "3",
@@ -44,6 +48,7 @@
         "B": "99",
         "C": "100",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     }
 }

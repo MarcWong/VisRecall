@@ -8,7 +8,8 @@
         "B": "Few of those using an improved drinking water source also use improved sanitation",
         "C": "Most of those using an improved drinking water source don't use improved sanitation",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "3",
@@ -17,16 +18,18 @@
         "B": "59",
         "C": "25",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
-		"type": "2",
+		"type": "4",
         "question": "Which type of data in the figure is marked in blue?",
         "A": "Water only",
         "B": "Neither water nor sanitation",
         "C": "Sanitation only",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Neither Neither water nor sanitation",
         "C": "Both water and sanitation",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Neither Neither water nor sanitation",
         "C": "Both water and sanitation",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     }
 }

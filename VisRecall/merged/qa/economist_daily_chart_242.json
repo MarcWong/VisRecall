@@ -8,7 +8,8 @@
         "B": "Global smallpox deaths and R&D funding",
         "C": "Global malaria deaths and P&G funding",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2001-2021",
         "C": "2007-2009",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Americas",
         "C": "South-East Asia",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Americas",
         "C": "South-East Asia",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "2005",
         "C": "2009",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     }
 }

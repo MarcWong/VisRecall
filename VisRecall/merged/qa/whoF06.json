@@ -8,7 +8,8 @@
         "B": "Animal mortality rates by cause and region",
         "C": "Bird mortality rates by cause and region",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "1",
@@ -17,25 +18,28 @@
         "B": "America",
         "C": "Europe",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q3": {
         "type": "2",
-        "question": "Which two regions has same mortality?",
+        "question": "Which two regions has roughly same mortality?",
         "A": "Americas and Europe",
         "B": "Americas and Western Pacific",
         "C": "Americas and Africa",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "4",
-        "question": "How many categories are present in the visualization?",
-        "A": "Less than 3",
-        "B": "More than 3",
-        "C": "More than 5",
+        "question": "How many categories of mortality are present in the visualization?",
+        "A": "Three",
+        "B": "Five",
+        "C": "Seven",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "2005",
         "C": "2004",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     }
 }

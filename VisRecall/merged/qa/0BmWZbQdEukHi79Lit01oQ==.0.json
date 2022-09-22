@@ -8,16 +8,18 @@
         "B": "Breeding bird species abundance",
         "C": "Breeding bird colors",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
-        "question": "Which areas are considered in this experience?",
+        "question": "Which region is shown in this visualization?",
         "A": "grassland area",
         "B": "desert area",
         "C": "Urban fringe",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Urban area",
         "C": "Urban fringe",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Urban area",
         "C": "Urban fringe",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Urban area",
         "C": "Urban fringe",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

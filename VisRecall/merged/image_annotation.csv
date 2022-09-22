@@ -1,201 +1,201 @@
-;image;group;vistype;title;attr: data-ink ratio;attr: # distinct colors;attr: black&white;attr: visual density;attr: human recognizable object
-0;02wEIH1uspxsk1E7VW-KRA==.0.png;1;bar;Confirmed COVID-19 Cases in the United States as of 23 Mar 2020;1;;n;3;
+;image;group;vistype;title;attr: data-ink ratio;attr: # distinct colors;attr: black&white;attr: visual density;
+0;02wEIH1uspxsk1E7VW-KRA==.0.png;1;bar;Confirmed COVID-19 Cases in the United States as of 23 Mar 2020;1;;n;1;
 1;3PuDl5gc8C7FWTFXB8kmqw==.0.png;1;line;Figure 2: There was a peak in birth following World War One;1;;n;1;
 2;_Di4yk2H64QEBkEncRGMhg==.0.png;1;scatter;Height and Weight by Sex;1;;n;1;
-3;economist_daily_chart_127.png;1;scatter;Military spending and GDP;1;;n;1;
-4;economist_daily_chart_184.png;1;line;Urbanisation;2;;n;2;
-5;economist_daily_chart_200.png;1;bar;CO2 emissions;2;;n;1;
-6;economist_daily_chart_202.png;1;scatter;Christmas gifts;1;1;n;1;n
-7;economist_daily_chart_267.png;1;other;The world’s biggest employers;2;;n;2;
-8;economist_daily_chart_319.png;1;bar;Emerging-market overheating index*;2;;n;3;
-9;economist_daily_chart_513.png;1;table;Best-selling political memoirs in Britain;2;;n;1;
-10;treasuryI01_1.png;1;table;Reno Housing Unit Growth Outpaced Population and Household Growth During the Past Decade;1;;n;3;
-11;treasuryJ02_2.png;1;bar;16.2 Million Homeowners Have Refinanced Since April 1, 2009;1;;n;1;
-12;treasuryK03_3.png;1;bar;Total Net Position (In Billions);2;1;n;2;n
-13;treasuryL03_2.png;1;pie;Manufacturing 2009-2011;1;3;n;2;n
-14;whoB04_1.png;1;line;Figure 3 Female life expectancy at birth by country income group and region, 1950-2005;2;;n;1;
-15;whoB08_1.png;1;pie;Figure 7 Distribution of those who usually collect water in 35 developing countries, 2005-2006;1;;n;3;
-16;whoJ01_1.png;1;other;Figure 1 Percentage of population using improved sanitation facilities (2020);2;;n;2;
-17;whoN06_1.png;1;line;Figure 4. Recorded adult per capita consumption of specific alcoholic beverages, 1990-2005a;1;;n;1;
-18;whoN27.png;1;bar;Figure 22. Legal definition of an alcoholic beverage (% pure alcohol by volume), as reported by countries, 2008;1;;y;1;
-19;wsj593.png;1;bar;Off Season;1;2;n;2;n
-20;3lG2Suf1vlUNqfO9pvq1kw.0.png;2;scatter;Prevalence of undernourishment vs. Daily supply of calories, 2013;2;;n;1;
-21;143.png;2;scatter;Trade statistics of Luxembourg with developing economies in South Asia;1;;n;1;
-22;79359.png;2;line;Percentage of male workers employed in Service sector;1;;n;1;
-23;__uID4lztqrYTniGMJdDWQ.0.png;2;scatter;Sound Mitigation at all Frequencies;1;;n;1;
-24;economist_daily_chart_76.png;2;line;Three-month $ LIBOR;2;;n;1;
-25;economist_daily_chart_100.png;2;line;Football wage costs;2;;n;1;
-26;economist_daily_chart_244.png;2;table;Historic stockmarket returns;3;;n;1;
-27;treasuryD10.png;2;bar;Servicer Outreach to 60+ Day Delinquent Homeowners: Cumulative Servicer Results, August 2011 - July 2012;2;;n;2;
-28;treasuryL16.png;2;bar;Figure II-3 : 2011 Critical Technology Transactions by Region Within Each Sector;1;;n;1;
-29;whoB13_1.png;2;table;Table 2 Leading risk factors for mortality in girls under five years of age, 2004;3;;n;3;
-30;whoB24_1.png;2;other;Figure 4 Distribution of countries by numbers of deaths attributable to unsafe abortion per 100 000 live births and legal grounds for abortion;2;;n;1;
-31;whoB26_1.png;2;other;Figure 8 Incidence rates of cervical cancer (age-standardized per 100 000 women, all ages), 2004;2;;n;2;
-32;whoB34_1.png;2;line;Figure 2 Persons aged 60 years and over as a percentage of total population by sex and country income group, 1950-2050;2;;n;1;
-33;whoJ23.png;2;pie;One third of countries indicate that revenues cover less than 80% of operating costs for urban utilities (Figure 3.11).;1;;n;1;
-34;whoJ33.png;2;line;Aid for drinking-water and sanitation has risen slowly as a percentage of total development aid since the low point of 2002, but is still significantly below aid for social sectors, such as health and education (Figure 6.2).;3;;n;1;
-35;whoK06_2.png;2;pie;Ten countries are home to two thirds of the global population without an improved drinking water source;2;;n;2;
-36;whoN32_1.png;2;bar;Figure 26. Blood alcohol concentration (BAC) limits for young/novice drivers, by number of countries, 2008;1;;y;1;
-37;whoO22_3.png;2;bar;Figure 13: Potential gain in life expectancy in the absence of selected risks to health, world, 2004.;2;;n;2;
-38;wsj135.png;2;bar;Home-Loan Hiatus;1;;n;2;
-39;wsj277.png;2;bar;In the Mix;2;;n;3;
-40;0yflU4o2ze89IvWqYRKGKA==.0.png;3;scatter;As good as it gets;1;;n;1;
-41;_1IiNGPpj1s86KzEjQ93YQ==.0.png;3;scatter;-;1;;n;1;
-42;economist_daily_chart_20.png;3;line;Urbanisation and income;3;;n;2;
-43;economist_daily_chart_162.png;3;line;Personal computing;1;;n;1;
-44;economist_daily_chart_207.png;3;line;Income inequality;2;;n;1;
-45;economist_daily_chart_209.png;3;line;Manufacturing activity;1;;n;1;
-46;economist_daily_chart_215.png;3;other;Cluster-munition producers;1;1;n;2;y
-47;economist_daily_chart_238.png;3;other;Selected leaning buildings;1;;n;3;
-48;economist_daily_chart_250.png;3;bar;Nobel prizes in chemistry;2;;n;2;
-49;treasuryA8.png;3;line;Auto industry employment has grown since the rescue.;2;;n;1;
-50;treasuryK04.png;3;table;Summary Financial Information (dollars in billions);3;;n;1;
-51;whoJ24_2.png;3;pie;Less than 20% of respondent countries consider the supply of skilled labour and technicians adequately developed to meet needs in rural sanitation (Figure 4.2);2;;n;1;
-52;whoJ44.png;3;line;Despite rising total ODA, general budget support has not risen appreciably (Figure 6.16).;1;1;n;1;n
-53;whoL06.png;3;bar;Figure 2.5: The under-5 child mortality as a function of socio-economic group in five countries;2;1;n;2;n
-54;whoN19_1.png;3;bar;Figure 15. Alcohol-attributable deaths per million inhabitants by income group and the world, 2004;2;;y;1;
-55;whoQ01.png;3;table;Table 1.1 Percentage of reporting forms received by month and by WHO Region, 2012;3;;n;2;
-56;whoQ42_1.png;3;bar;C-Annual blood examination rate, 2007-2011;1;1;n;1;n
-57;wsj11.png;3;bar;Upturn Amid Downturn;1;1;n;2;n
-58;wsj76.png;3;bar;Cutting The Lifeline;2;;n;2;
-59;wsj340.png;3;pie;Running Dry;2;2;n;3;n
-60;1tVCmxZoFO6hq5H_rC0j_w==.0.png;4;scatter;-;1;;n;1;
-61;8XT9tstaX3P7OjmkeT1xTg==.0.png;4;scatter;Hans Rosling Bubble Chart;1;;n;1;
-62;129462.png;4;bar;Balance of payments for transportation services (% of service imports);2;;n;2;
-63;_Fbq9iW1SCuAYaHmYUXAUA==.0.jpg;4;scatter;Relationship between ACSI and Temkin NPS scores by industry for 2015-2018;1;;n;1;
-64;economist_daily_chart_84.png;4;line;Saudi Arabia;2;;n;1;
-65;economist_daily_chart_95.png;4;other;Rubbish;1;;n;2;
-66;economist_daily_chart_225.png;4;bar;Change in emerging markets’ foreign-currency reserves;2;;n;1;
-67;economist_daily_chart_235.png;4;line;Ten-year government bond yields;2;;n;1;
-68;economist_daily_chart_384.png;4;pie;Global citations in scientific journals;2;;n;2;
-69;economist_daily_chart_447.png;4;table;The Economist poll of forecasters, December averages(previous month’s, if changed);3;;n;2;
-70;treasuryG01_2.png;4;table;Marketable Treasury Coupon Flows (including SOMA);1;1;n;1;n
-71;treasuryL02_2.png;4;line;Covered Transactions by Sector (2009-2011);2;;n;1;
-72;treasuryL15_2.png;4;bar;Figure II-2: 2011 Critical Technology Transactions by Region of Foreign Acquirer;3;;n;1;
-73;whoB13_2.png;4;pie;Figure 2 Distribution of major causes of death in girls under five years of age, including disease-specific contribution of undernutrition, 2004;3;3;n;3;n
-74;whoB14_1.png;4;other;Figure 3 Sex differences in key child health indicators, selected countries, 2002-2007;1;;n;1;
-75;whoK01.png;4;bar;The MDG drinking water target has been met;2;;n;2;
-76;whoL05.png;4;bar;Figure 2.4: Changes in the burden of disease associated with economic development;1;;n;1;
-77;whoN36.png;4;bar;Figure 33. Countries reporting awareness campaigns on alcohol, 2008;1;;y;1;
-78;whoQ06_2.png;4;line;Figure 3.6 Change over time in allocation of international funds for malaria control.;1;1;n;1;n
-79;wsj320.png;4;line;Summer Scorcher;2;;n;2;
-80;0BmWZbQdEukHi79Lit01oQ==.0.png;5;other;;1;;y;1;
-81;3LY3OX8bU7uKhgcRPgDRxw==.0.png;5;scatter;;1;;n;1;
-82;3iRYXLvZ8oVQDMLR-CebnQ==.0.png;5;scatter;;1;;n;1;
-83;economist_daily_chart_150.png;5;bar;;3;;n;1;
-84;economist_daily_chart_194.png;5;bar;;2;;n;1;
-85;economist_daily_chart_242.png;5;other;Global malaria deaths and R&D funding;3;2;n;2;n
-86;economist_daily_chart_243.png;5;other;;1;;n;2;
-87;economist_daily_chart_257.png;5;scatter;;1;;n;1;
-88;economist_daily_chart_260.png;5;bar;;2;;n;2;
-89;economist_daily_chart_262.png;5;table;;3;;n;2;
-90;treasuryD07_3.png;5;table;;3;;n;3;
-91;whoB10_1.png;5;bar;;3;;n;2;
-92;whoF03.png;5;bar;;1;;n;3;
-93;whoJ36_2.png;5;line;Figure 6.7  Trends in sanitation and water aid commitments for fragile or conflict-affected states, 2004-2010;1;2;n;1;n
-94;whoJ43_1.png;5;pie;;2;;n;1;
-95;whoK21.png;5;pie;;2;;n;2;
-96;whoQ12_2.png;5;line;;2;;n;1;
-97;wsj3.png;5;bar;;2;;n;2;
-98;wsj86.png;5;line;;3;;n;2;
-99;wsj265.png;5;line;;1;;n;2;
-100;1EMgXSmCnY1PeksJZMhlHA==.0.png;6;scatter;;2;;n;1;
-101;4bm2MTzbrTpK41Fhy3Oh2g==.0.png;6;scatter;;2;;n;1;
-102;79027.png;6;line;;1;;n;1;
-103;economist_daily_chart_189.png;6;bar;;2;;n;1;
-104;economist_daily_chart_211.png;6;line;;1;;n;1;
-105;economist_daily_chart_229.png;6;bar;;3;;n;2;
-106;economist_daily_chart_441.png;6;scatter;;2;;n;2;
-107;economist_daily_chart_451.png;6;table;;3;;n;2;
-108;economist_daily_chart_473.png;6;bar;;3;;n;2;
-109;economist_daily_chart_523.png;6;other;;2;;n;3;
-110;economist_daily_chart_531.png;6;line;;2;;n;1;
-111;treasuryI02_1.png;6;other;New and Existing Home Sales: Reno Compared to the Nation;2;2;n;2;n
-112;treasuryI02_3.png;6;line;;1;;n;1;
-113;whoB17_1.png;6;other;;2;;n;1;
-114;whoC02_2.png;6;table;;3;;n;3;
-115;whoF06.png;6;bar;;2;;n;2;
-116;whoJ38_2.png;6;pie;;1;;n;1;
-117;whoN35_1.png;6;pie;;2;;n;2;
-118;whoO15.png;6;bar;;2;;n;2;
-119;wsj88.png;6;bar;;2;;n;2;
-120;1_WnR3D8lP-2AK6XsHM74Q==.0.png;7;line;;1;;n;1;
-121;2yyamO0gVGUftCeTJ9WU2Q==.0.png;7;scatter;;2;;n;1;
-122;economist_daily_chart_191.png;7;other;;2;;n;2;
-123;economist_daily_chart_206.png;7;other;;3;;n;3;
-124;economist_daily_chart_236.png;7;line;;2;;n;1;
-125;economist_daily_chart_336.png;7;bar;;3;;n;2;
-126;economist_daily_chart_420.png;7;scatter;;1;;n;1;
-127;treasuryJ01_2.png;7;line;;1;;n;1;
-128;treasuryL07_2.png;7;pie;;2;;n;1;
-129;whoB19_1.png;7;scatter;Figure 4 Students aged 13-15 not meeting recommended levels of physical activity, selected  countries, 2003-2008;1;3;n;1;n
-130;whoB20_1.png;7;bar;Figure 1 Mortality and disease burden (DALYs) in women aged 15-44 years by region and broad causes, 2004;2;3;n;2;n
-131;whoC13.png;7;bar;;2;;n;2;
-132;whoI09_1.png;7;table;;1;;y;1;
-133;whoJ22_1.png;7;table;;2;;n;2;
-134;whoJ40_2.png;7;pie;ESAs indicate that 68% of aid for sanitation and water is directed to urban areas (Figure 6.13).;1;2;n;1;n
-135;whoQ51_1.png;7;bar;;1;;n;2;
-136;wsj72.png;7;line;;1;;n;2;
-137;wsj107.png;7;bar;;2;;n;3;
-138;wsj151.png;7;other;;2;;n;2;
-139;wsj553.png;7;other;Female Representation;3;3;n;2;y
-140;0Gc4n4lYDn4V19CtJzo_eg==.0.png;8;scatter;;1;;n;1;
-141;4dCSXyCVYOxhf_SLYhGkIw==.0.png;8;scatter;;2;;n;3;
-142;economist_daily_chart_93.png;8;bar;;1;;n;1;
-143;economist_daily_chart_197.png;8;bar;;2;;n;2;
-144;economist_daily_chart_198.png;8;line;;1;;n;1;
-145;economist_daily_chart_208.png;8;scatter;;2;;n;1;
-146;economist_daily_chart_218.png;8;line;;1;;n;2;
-147;economist_daily_chart_253.png;8;line;;1;;n;1;
-148;economist_daily_chart_355.png;8;bar;;3;;n;2;
-149;treasuryL02_1.png;8;table;;3;;n;3;
-150;whoB05_1.png;8;line;Figure 4 The health transition among Mexican women: death rates by overall cause of death (age-standardized per 1000 women), 1955-2005;2;1;n;2;n
-151;whoB11_1.png;8;bar;;2;;n;1;
-152;whoC22.png;8;pie;;1;;n;2;
-153;whoF15.png;8;pie;;1;;n;3;
-154;whoJ10.png;8;pie;;2;;n;1;
-155;whoJ13_1.png;8;table;;2;;n;2;
-156;whoJ46_1.png;8;bar;;2;;n;1;
-157;whoM01.png;8;table;;1;;y;1;
-158;wsj8.png;8;other;;3;;n;2;
-159;wsj342.png;8;bar;;3;;n;3;
-160;1JwHfqlSB3z3qu78N-3Law==.0.png;9;line;;2;;n;1;
-161;168.png;9;scatter;;1;;n;1;
-162;economist_daily_chart_77.png;9;bar;;1;;n;1;
-163;economist_daily_chart_137.png;9;other;;3;;n;1;
-164;economist_daily_chart_145.png;9;pie;;2;;n;2;
-165;economist_daily_chart_264.png;9;bar;;2;;n;2;
-166;economist_daily_chart_376.png;9;table;;3;;n;2;
-167;economist_daily_chart_377.png;9;other;;2;;n;2;
-168;economist_daily_chart_532.png;9;table;;2;;n;1;
-169;treasuryD05_2.png;9;table;;2;;n;3;
-170;treasuryL01.png;9;table;;2;;n;3;
-171;whoB25_1.png;9;line;;2;;n;1;
-172;whoB36_1.png;9;line;;2;;n;1;
-173;whoH01_1.png;9;pie;;1;;n;3;
-174;whoJ24_1.png;9;bar;;2;;n;1;
-175;whoK04_1.png;9;pie;;1;;y;2;
-176;whoM05.png;9;table;Proportion of all deaths attributable to tobacco (%);1;1;y;1;n
-177;wsj56.png;9;bar;;2;;n;2;
-178;wsj60.png;9;line;;1;;n;2;
-179;wsj180.png;9;line;;2;;n;1;
-180;2K-S52z1bcV0xQD4mnuCbw==.0.jpg;10;line;;2;;n;1;
-181;129470.png;10;bar;;1;;n;1;
-182;JVoKAJWwEgervxjbg2tqMA==.0.jpg;10;scatter;;2;;n;1;
-183;economist_daily_chart_65.png;10;other;;2;;n;1;
-184;economist_daily_chart_203.png;10;line;;1;;n;3;
-185;economist_daily_chart_223.png;10;scatter;;1;;n;1;
-186;economist_daily_chart_247.png;10;other;;3;;n;2;
-187;economist_daily_chart_308.png;10;table;;2;;n;1;
-188;economist_daily_chart_387.png;10;pie;;2;;n;2;
-189;treasuryB02.png;10;bar;;2;;n;3;
-190;treasuryB06.png;10;other;;2;;n;2;
-191;treasuryB13.png;10;bar;;1;;n;2;
-192;treasuryJ03_3.png;10;other;;1;;n;1;
-193;treasuryK05_2.png;10;pie;;2;;n;2;
-194;whoB22_1.png;10;table;Table 2 Deaths in women aged 15-44 years attributable to six leading risk factors, 2004 (percentage);2;1;n;3;n
-195;whoH12_1.png;10;line;;2;;n;1;
-196;whoH13_3.png;10;bar;;2;;n;1;
-197;whoK08.png;10;table;(paragraph) TABLE 3 Selected countries in sub-Saharan Africa that have performed above the regional average in terms of the proportion of their 2010 population that gained access to improved drinking water sources since 1995;1;1;y;1;n
-198;wsj128.png;10;line;;2;;n;3;
-199;wsj168.png;10;scatter;;2;;n;1;
+3;economist_daily_chart_127.png;1;scatter;Military spending and GDP;1;;n;2;
+4;economist_daily_chart_184.png;1;line;Urbanisation;2;;n;2;6
+5;economist_daily_chart_200.png;1;bar;CO2 emissions;2;;n;1;6
+6;economist_daily_chart_202.png;1;scatter;Christmas gifts;1;1;n;2;6
+7;economist_daily_chart_267.png;1;other;The world’s biggest employers;1;;n;2
+8;economist_daily_chart_319.png;1;bar;Emerging-market overheating index*;3;;n;3
+9;economist_daily_chart_513.png;1;table;Best-selling political memoirs in Britain;3;;n;3
+10;treasuryI01_1.png;1;table;Reno Housing Unit Growth Outpaced Population and Household Growth During the Past Decade;3;;n;3
+11;treasuryJ02_2.png;1;bar;16.2 Million Homeowners Have Refinanced Since April 1, 2009;1;;n;1
+12;treasuryK03_3.png;1;bar;Total Net Position (In Billions);2;1;n;2
+13;treasuryL03_2.png;1;pie;Manufacturing 2009-2011;1;3;n;2
+14;whoB04_1.png;1;line;Figure 3 Female life expectancy at birth by country income group and region, 1950-2005;2;;n;2
+15;whoB08_1.png;1;pie;Figure 7 Distribution of those who usually collect water in 35 developing countries, 2005-2006;3;;n;3
+16;whoJ01_1.png;1;other;Figure 1 Percentage of population using improved sanitation facilities (2020);1;;n;3
+17;whoN06_1.png;1;line;Figure 4. Recorded adult per capita consumption of specific alcoholic beverages, 1990-2005a;1;;n;2
+18;whoN27.png;1;bar;Figure 22. Legal definition of an alcoholic beverage (% pure alcohol by volume), as reported by countries, 2008;1;;y;2
+19;wsj593.png;1;bar;Off Season;1;2;n;2
+20;3lG2Suf1vlUNqfO9pvq1kw.0.png;2;scatter;Prevalence of undernourishment vs. Daily supply of calories, 2013;1;;n;3
+21;143.png;2;scatter;Trade statistics of Luxembourg with developing economies in South Asia;1;;n;1
+22;79359.png;2;line;Percentage of male workers employed in Service sector;1;;n;1
+23;__uID4lztqrYTniGMJdDWQ.0.png;2;scatter;Sound Mitigation at all Frequencies;1;;n;2
+24;economist_daily_chart_76.png;2;line;Three-month $ LIBOR;2;;n;2
+25;economist_daily_chart_100.png;2;line;Football wage costs;2;;n;2
+26;economist_daily_chart_244.png;2;table;Historic stockmarket returns;3;;n;3
+27;treasuryD10.png;2;bar;Servicer Outreach to 60+ Day Delinquent Homeowners: Cumulative Servicer Results, August 2011 - July 2012;2;;n;3
+28;treasuryL16.png;2;bar;Figure II-3 : 2011 Critical Technology Transactions by Region Within Each Sector;1;;n;2
+29;whoB13_1.png;2;table;Table 2 Leading risk factors for mortality in girls under five years of age, 2004;3;;n;3
+30;whoB24_1.png;2;other;Figure 4 Distribution of countries by numbers of deaths attributable to unsafe abortion per 100 000 live births and legal grounds for abortion;2;;n;2
+31;whoB26_1.png;2;other;Figure 8 Incidence rates of cervical cancer (age-standardized per 100 000 women, all ages), 2004;2;;n;2
+32;whoB34_1.png;2;line;Figure 2 Persons aged 60 years and over as a percentage of total population by sex and country income group, 1950-2050;2;;n;2
+33;whoJ23.png;2;pie;One third of countries indicate that revenues cover less than 80% of operating costs for urban utilities (Figure 3.11).;1;;n;1
+34;whoJ33.png;2;line;Aid for drinking-water and sanitation has risen slowly as a percentage of total development aid since the low point of 2002, but is still significantly below aid for social sectors, such as health and education (Figure 6.2).;2;;n;2
+35;whoK06_2.png;2;pie;Ten countries are home to two thirds of the global population without an improved drinking water source;1;;n;2
+36;whoN32_1.png;2;bar;Figure 26. Blood alcohol concentration (BAC) limits for young/novice drivers, by number of countries, 2008;2;;y;1
+37;whoO22_3.png;2;bar;Figure 13: Potential gain in life expectancy in the absence of selected risks to health, world, 2004.;3;;n;2
+38;wsj135.png;2;bar;Home-Loan Hiatus;1;;n;2
+39;wsj277.png;2;bar;In the Mix;1;;n;2
+40;0yflU4o2ze89IvWqYRKGKA==.0.png;3;scatter;As good as it gets;2;;n;2
+41;_1IiNGPpj1s86KzEjQ93YQ==.0.png;3;scatter;-;2;;n;1
+42;economist_daily_chart_20.png;3;line;Urbanisation and income;2;;n;2
+43;economist_daily_chart_162.png;3;line;Personal computing;1;;n;2
+44;economist_daily_chart_207.png;3;line;Income inequality;2;;n;1
+45;economist_daily_chart_209.png;3;line;Manufacturing activity;2;;n;2
+46;economist_daily_chart_215.png;3;other;Cluster-munition producers;1;1;n;3
+47;economist_daily_chart_238.png;3;other;Selected leaning buildings;1;;n;2
+48;economist_daily_chart_250.png;3;bar;Nobel prizes in chemistry;3;;n;3
+49;treasuryA8.png;3;line;Auto industry employment has grown since the rescue.;1;;n;1
+50;treasuryK04.png;3;table;Summary Financial Information (dollars in billions);3;;n;3
+51;whoJ24_2.png;3;pie;Less than 20% of respondent countries consider the supply of skilled labour and technicians adequately developed to meet needs in rural sanitation (Figure 4.2);1;;n;1
+52;whoJ44.png;3;line;Despite rising total ODA, general budget support has not risen appreciably (Figure 6.16).;1;1;n;1
+53;whoL06.png;3;bar;Figure 2.5: The under-5 child mortality as a function of socio-economic group in five countries;2;1;n;2
+54;whoN19_1.png;3;bar;Figure 15. Alcohol-attributable deaths per million inhabitants by income group and the world, 2004;2;;y;1
+55;whoQ01.png;3;table;Table 1.1 Percentage of reporting forms received by month and by WHO Region, 2012;3;;n;2
+56;whoQ42_1.png;3;bar;C-Annual blood examination rate, 2007-2011;1;1;n;1
+57;wsj11.png;3;bar;Upturn Amid Downturn;1;1;n;2
+58;wsj76.png;3;bar;Cutting The Lifeline;2;;n;2
+59;wsj340.png;3;pie;Running Dry;2;2;n;3
+60;1tVCmxZoFO6hq5H_rC0j_w==.0.png;4;scatter;-;1;;n;1
+61;8XT9tstaX3P7OjmkeT1xTg==.0.png;4;scatter;Hans Rosling Bubble Chart;1;;n;1
+62;129462.png;4;bar;Balance of payments for transportation services (% of service imports);2;;n;1
+63;_Fbq9iW1SCuAYaHmYUXAUA==.0.jpg;4;scatter;Relationship between ACSI and Temkin NPS scores by industry for 2015-2018;2;;n;2
+64;economist_daily_chart_84.png;4;line;Saudi Arabia;2;;n;2
+65;economist_daily_chart_95.png;4;other;Rubbish;1;;n;3
+66;economist_daily_chart_225.png;4;bar;Change in emerging markets’ foreign-currency reserves;2;;n;2
+67;economist_daily_chart_235.png;4;line;Ten-year government bond yields;2;;n;2
+68;economist_daily_chart_384.png;4;pie;Global citations in scientific journals;3;;n;2
+69;economist_daily_chart_447.png;4;table;The Economist poll of forecasters, December averages(previous month’s, if changed);3;;n;3
+70;treasuryG01_2.png;4;table;Marketable Treasury Coupon Flows (including SOMA);1;1;n;2
+71;treasuryL02_2.png;4;line;Covered Transactions by Sector (2009-2011);2;;n;1
+72;treasuryL15_2.png;4;bar;Figure II-2: 2011 Critical Technology Transactions by Region of Foreign Acquirer;2;;n;1
+73;whoB13_2.png;4;pie;Figure 2 Distribution of major causes of death in girls under five years of age, including disease-specific contribution of undernutrition, 2004;3;3;n;3
+74;whoB14_1.png;4;other;Figure 3 Sex differences in key child health indicators, selected countries, 2002-2007;1;;n;2
+75;whoK01.png;4;bar;The MDG drinking water target has been met;2;;n;2
+76;whoL05.png;4;bar;Figure 2.4: Changes in the burden of disease associated with economic development;1;;n;2
+77;whoN36.png;4;bar;Figure 33. Countries reporting awareness campaigns on alcohol, 2008;2;;y;1
+78;whoQ06_2.png;4;line;Figure 3.6 Change over time in allocation of international funds for malaria control.;1;1;n;2
+79;wsj320.png;4;line;Summer Scorcher;2;;n;2
+80;0BmWZbQdEukHi79Lit01oQ==.0.png;5;other;Breeding bird species abundance;1;;y;1
+81;3LY3OX8bU7uKhgcRPgDRxw==.0.png;5;scatter;Figure 8.1 Geothermal power total installed costs by project, technology and capitalist, 2007-2020;1;;n;1
+82;3iRYXLvZ8oVQDMLR-CebnQ==.0.png;5;scatter;Figure 1: Financial development and foreign bank presence;2;;n;2
+83;economist_daily_chart_150.png;5;bar;Employment outlook;3;;n;2
+84;economist_daily_chart_194.png;5;bar;Overpowering;2;;n;2
+85;economist_daily_chart_242.png;5;other;Global malaria deaths and R&D funding;3;2;n;2
+86;economist_daily_chart_243.png;5;other;“Occupy” protests around the world;1;;n;3
+87;economist_daily_chart_257.png;5;scatter;Democracy and inequality between the sexes;2;;n;2
+88;economist_daily_chart_260.png;5;bar;Gross government debt;3;;n;2
+89;economist_daily_chart_262.png;5;table;Excess female deaths;3;;n;3
+90;treasuryD07_3.png;5;table;Homeowners's HOPE^TM Hotline Volume;3;;n;2
+91;whoB10_1.png;5;bar;Figure 9 Share of women in the health workforce, selected countries, 1989-1997;3;;n;3
+92;whoF03.png;5;bar;Per cent distribution of age at death by region, 2004;1;;n;2
+93;whoJ36_2.png;5;line;Figure 6.7  Trends in sanitation and water aid commitments for fragile or conflict-affected states, 2004-2010;1;2;n;2
+94;whoJ43_1.png;5;pie;Sector budget support from donors for WASH is 3% of total WASH aid in 2010 (Figure 6.15);1;;n;1
+95;whoK21.png;5;pie;Most of those using an improved drinking water source also use improved sanitation;2;;n;1
+96;whoQ12_2.png;5;line;Figure 4.5 Propotion of population at malaria risk protected by IRS by WHO Region, 2002-2011;2;;n;1
+97;wsj3.png;5;bar;Direct Deposit;2;;n;2
+98;wsj86.png;5;line;Rising Tide;2;;n;2
+99;wsj265.png;5;line;Growing Divide;1;;n;2
+100;1EMgXSmCnY1PeksJZMhlHA==.0.png;6;scatter;Efficiency of Popular Models of Cars;2;;n;2
+101;4bm2MTzbrTpK41Fhy3Oh2g==.0.png;6;scatter;Icon markers in Highcharts;1;;n;1
+102;79027.png;6;line;Annual rural vs urban population growth in Cabo Verde;1;;n;1
+103;economist_daily_chart_189.png;6;bar;Executive pay and performance in FTSE 350 companies;2;;n;1
+104;economist_daily_chart_211.png;6;line;Computing power and stockmarkets;1;;n;1
+105;economist_daily_chart_229.png;6;bar;Human Development Index;3;;n;3
+106;economist_daily_chart_441.png;6;scatter;Adult and youth unemployment;2;;n;3
+107;economist_daily_chart_451.png;6;table;The hottest years on record;3;;n;3
+108;economist_daily_chart_473.png;6;bar;US mid-term elections;3;;n;3
+109;economist_daily_chart_523.png;6;other;Beer consumption;1;;n;3
+110;economist_daily_chart_531.png;6;line;Commodity prices;2;;n;1
+111;treasuryI02_1.png;6;other;New and Existing Home Sales: Reno Compared to the Nation;2;2;n;2
+112;treasuryI02_3.png;6;line;Rental Vacancy Rates Decline Since 2009, Now Comparable to the Nation;1;;n;1
+113;whoB17_1.png;6;other;Figure 2 Adolescence pregnancy rates by educational level, selected countries, 1990-2005;2;;n;1
+114;whoC02_2.png;6;table;Table 4.1.1.2 Number of people reached by preventive chemotherapy for at least one neglected tropical disease, 2008;3;;n;3
+115;whoF06.png;6;bar;Child mortality rates by cause and region, 2004;1;;n;2
+116;whoJ38_2.png;6;pie;Aid commitments for sanitation comprise 34% of allocable commitments to basic and large systems for sanitation and drinking-water (Figure 6.10);1;;n;1
+117;whoN35_1.png;6;pie;Figure 30. Regulation of product placements on television, by type as a percentage of all WHO Member States, 2008;2;;n;2
+118;whoO15.png;6;bar;Figure 10: Burden of disease attibutable to lack of contraception, by WHO region, 2004;2;;n;1
+119;wsj88.png;6;bar;Cash Cows;2;;n;2
+120;1_WnR3D8lP-2AK6XsHM74Q==.0.png;7;line;Nadeem Walayat's US House Prices Trend Forecase 2013-2016;1;;n;3
+121;2yyamO0gVGUftCeTJ9WU2Q==.0.png;7;scatter;BETTER ENGLISH, BETTER QUALITY OF LIFE;1;;n;2
+122;economist_daily_chart_191.png;7;other;Leadership elections and selections in 2012;1;;n;2
+123;economist_daily_chart_206.png;7;other;Energy in the Czech Republic;3;;n;3
+124;economist_daily_chart_236.png;7;line;US real average after-tax income;2;;n;2
+125;economist_daily_chart_336.png;7;bar;Biggest military spenders;3;;n;3
+126;economist_daily_chart_420.png;7;scatter;Traffic cameras and road deaths;1;;n;1
+127;treasuryJ01_2.png;7;line;Expectations on House Prices Above 2009 Projections;1;;n;1
+128;treasuryL07_2.png;7;pie;Total Professional, Scientific, and Technical Services 2009-2011;1;;n;1
+129;whoB19_1.png;7;scatter;Figure 4 Students aged 13-15 not meeting recommended levels of physical activity, selected  countries, 2003-2008;1;3;n;1
+130;whoB20_1.png;7;bar;Figure 1 Mortality and disease burden (DALYs) in women aged 15-44 years by region and broad causes, 2004;2;3;n;3
+131;whoC13.png;7;bar;Fig.5.5.2 Number of new cases of yaws reported in Indonesia, 2001-2009;3;;n;2
+132;whoI09_1.png;7;table;Table (Continued);3;;y;3
+133;whoJ22_1.png;7;table;Table 3.5 Comparison of expenditures for sanitation and drinking-water(2008-2010);3;;n;2
+134;whoJ40_2.png;7;pie;ESAs indicate that 68% of aid for sanitation and water is directed to urban areas (Figure 6.13).;1;2;n;1
+135;whoQ51_1.png;7;bar;A-Population at risk, 2011;2;;n;2
+136;wsj72.png;7;line;Balancing Act;1;;n;2
+137;wsj107.png;7;bar;Slow but Steady;1;;n;2
+138;wsj151.png;7;other;Global Slowdown The world awaits action from U.S., euro zone;2;;n;3
+139;wsj553.png;7;other;Female Representation;3;3;n;2
+140;0Gc4n4lYDn4V19CtJzo_eg==.0.png;8;scatter;What your Car says about your Salary;1;;n;1
+141;4dCSXyCVYOxhf_SLYhGkIw==.0.png;8;scatter;GDP versus life expectancy in 2007;1;;n;2
+142;economist_daily_chart_93.png;8;bar;Retirement;2;;n;3
+143;economist_daily_chart_197.png;8;bar;Latin America;3;;n;2
+144;economist_daily_chart_198.png;8;line;World imports;1;;n;1
+145;economist_daily_chart_208.png;8;scatter;Corruption and human development;2;;n;3
+146;economist_daily_chart_218.png;8;line;US troops abroad;2;;n;1
+147;economist_daily_chart_253.png;8;line;Currencies against the dollar;2;;n;1
+148;economist_daily_chart_355.png;8;bar;World population;3;;n;2
+149;treasuryL02_1.png;8;table;Covered Transactions by Sector and Year, 2009-2011;3;;n;3
+150;whoB05_1.png;8;line;Figure 4 The health transition among Mexican women: death rates by overall cause of death (age-standardized per 1000 women), 1955-2005;2;1;n;1
+151;whoB11_1.png;8;bar;Figure 1 Mortality and disease burden (DALYs) in girls under 10 years of age by region and broad causes, 2004;2;;n;3
+152;whoC22.png;8;pie;Fig. 5.9.3 Burden of leishmaniasis, by WHO region, 2009;1;;n;2
+153;whoF15.png;8;pie;Age distribution of burden of disease by income group, 2004;1;;n;2
+154;whoJ10.png;8;pie;Countries report that only 42% of urban/rural sanitation and drinking-water sectors are informed by reliable information monitoring systems (Figure 2.6);1;;n;1
+155;whoJ13_1.png;8;table;Household funding for WASH, through tariffs and self-supply, is generally not monitored. Limited data suggest that household funding contributes a significant share of the overall WASH financing (Table 3.1);2;;n;3
+156;whoJ46_1.png;8;bar;Only one third of countries estimate that hygiene promotion programmes are scaled up in primary schools (Figure 7.3);2;;n;1
+157;whoM01.png;8;table;Table 1. Mortality rate due to Lung cancer by smoking status in the CPSII reference population;1;;y;2
+158;wsj8.png;8;bar;Gender Gap;2;;n;3
+159;wsj342.png;8;other;Rough Ride;2;;n;3
+160;1JwHfqlSB3z3qu78N-3Law==.0.png;9;line;Self-reported life satisfaction across the income distribution, country by country;2;;n;3
+161;168.png;9;scatter;NUmber of patent applications filed by Bosnia and Herzegovina;1;;n;1
+162;economist_daily_chart_77.png;9;bar;The Standard Model of particle physics;2;;n;1
+163;economist_daily_chart_137.png;9;other;Paper consumption;1;;n;2
+164;economist_daily_chart_145.png;9;pie;Global arms* exports;2;;n;2
+165;economist_daily_chart_264.png;9;bar;Public opinion on austerity;3;;n;2
+166;economist_daily_chart_376.png;9;table;Rating nuclear danger;3;;n;3
+167;economist_daily_chart_377.png;9;other;Manned spaceflight;3;;n;3
+168;economist_daily_chart_532.png;9;table;Car thefts in America;3;;n;3
+169;treasuryD05_2.png;9;table;Select Median Characteristices of Active Permanent Modifications;2;;n;3
+170;treasuryL01.png;9;table;Covered Transactions, Withdrawals, and Presidential Decisions;2;;n;3
+171;whoB25_1.png;9;line;Figure 6 HIV prevalence in women aged 15-49 years by region, 1990-2007;2;;n;1
+172;whoB36_1.png;9;line;Figure 3 Mortality rates due to cardiovascular diseases in women aged 30 years and over (age-standardized per 100 000 women), selected countries, 1950-2006;2;;n;1
+173;whoH01_1.png;9;pie;Figure 1: URBAN VS RURAL BIRTHS IN PERCENT DURING 2006/2007;1;;n;1
+174;whoJ24_1.png;9;bar;Countries report insufficient staff to operate and maintain urban and rural drinking-water systems (Figure 4.1);1;;n;1
+175;whoK04_1.png;9;pie;Almost half of the two billion people who have gained access to drinking water since 1990 live in China or India;1;;y;2
+176;whoM05.png;9;table;Proportion of all deaths attributable to tobacco (%);1;1;y;1
+177;wsj56.png;9;bar;Growing Clout;2;;n;2
+178;wsj60.png;9;line;Unclear Picture;1;;n;2
+179;wsj180.png;9;line;Brick by Brick;2;;n;2
+180;2K-S52z1bcV0xQD4mnuCbw==.0.jpg;10;line;Print and digital divide;1;;n;1
+181;129470.png;10;bar;Tourism statistics: Earning from International visitors;1;;n;1
+182;JVoKAJWwEgervxjbg2tqMA==.0.jpg;10;scatter;-;2;;n;3
+183;economist_daily_chart_65.png;10;other;Cabinets and the people;2;;n;3
+184;economist_daily_chart_203.png;10;line;Video games;3;;n;3
+185;economist_daily_chart_223.png;10;scatter;Oil and gas production and breakeven costs;1;;n;1
+186;economist_daily_chart_247.png;10;other;America and China;3;;n;3
+187;economist_daily_chart_308.png;10;table;Deaths in the Arab awakening;1;;n;2
+188;economist_daily_chart_387.png;10;pie;Global arms exports;2;;n;2
+189;treasuryB02.png;10;bar;The crisis response helped restart economic growth;2;;n;3
+190;treasuryB06.png;10;other;The crisis response helped stabilize the housing market;3;;n;3
+191;treasuryB13.png;10;bar;The crisis response helped prevent the collapse of the financial system and stabilized AIG;1;;n;2
+192;treasuryJ03_3.png;10;other;FHA Supports Mortgage Lending During Crisis;1;;n;2
+193;treasuryK05_2.png;10;pie;FY 2012 Total Liabilities (Composition);2;;n;2
+194;whoB22_1.png;10;table;Table 2 Deaths in women aged 15-44 years attributable to six leading risk factors, 2004 (percentage);2;1;n;3
+195;whoH12_1.png;10;line;FIGURE 23: RATE OF PROGRESS TOWARDS MDG4;2;;n;1
+196;whoH13_3.png;10;bar;FIGURE 27: ABSOLUTE DIFFERENCE IN UNDER FIVE MORTALITY, BY RESIDENCE, INCOME AND EDUCATION;1;;n;1
+197;whoK08.png;10;table;(paragraph) TABLE 3 Selected countries in sub-Saharan Africa that have performed above the regional average in terms of the proportion of their 2010 population that gained access to improved drinking water sources since 1995;1;1;y;3
+198;wsj128.png;10;line;Shedding Risk;2;;n;2
+199;wsj168.png;10;scatter;All Over the Map;2;;n;2

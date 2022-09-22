@@ -8,7 +8,8 @@
         "B": "Top 20 political entities that spent most of their money on behalf of candidates in the election",
         "C": "Top 50 political entities that spent most of their money on behalf of candidates in the election",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "1",
@@ -17,7 +18,8 @@
         "B": "American Crossroads/Crossroads GPS",
         "C": "SEIU",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Moveon.org",
         "C": "AFT",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "2",
@@ -35,7 +38,8 @@
         "B": "Dollars",
         "C": "Yens",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "2005",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "7"
     }
 }

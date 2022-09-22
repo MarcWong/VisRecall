@@ -8,7 +8,8 @@
         "B": "Number of people reached by preventive chemotherapy for at least one neglected tropical disease",
         "C": "Number of people reached by preventive chemotherapy for at least two neglected tropical disease",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "1",
@@ -17,7 +18,8 @@
         "B": "South-East Asia",
         "C": "African",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q3": {
         "type": "1",
@@ -26,16 +28,18 @@
         "B": "No education",
         "C": "Primary education only",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "3",
         "question": "What is the total number of people globally reached according to the visualization?",
-        "A": "Around 660000000",
-        "B": "Around 550000000",
-        "C": "Around 400000000",
+        "A": "Around 660 000 000",
+        "B": "Around 550 000 000",
+        "C": "Around 400 000 000",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "2018",
         "C": "2004",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     }
 }

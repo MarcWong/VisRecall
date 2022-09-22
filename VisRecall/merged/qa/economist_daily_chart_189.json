@@ -8,7 +8,8 @@
         "B": "Executive skillset in FTSE 350 companies",
         "C": "Executive pay and performance in FTSE 350 Companies",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,33 +18,37 @@
         "B": "pay",
         "C": "earnings",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
-        "type": "1",
+        "type": "2",
         "question": "Which category has the maximum value?",
         "A": "Bonus",
         "B": "Long-term incentive plan",
         "C": "Total earnings",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q4": {
-        "type": "1",
+        "type": "2",
         "question": "Which category has the minimum value?",
         "A": "Earnings per share",
         "B": "Year-end share price",
         "C": "Pre-tax profit",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
-        "type": "2",
-        "question": "What is the name of the country used in visualization?",
-        "A": "Kenya",
-        "B": "Ghana",
-        "C": "Cabo Verde",
+        "type": "3",
+        "question": "What is the change of Total earnings?",
+        "A": "around 0",
+        "B": "around 50%",
+        "C": "around 100%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

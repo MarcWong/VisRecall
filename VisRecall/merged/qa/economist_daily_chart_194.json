@@ -2,13 +2,14 @@
     "name": "economist_daily_chart_194.png",
     "vistype": "bar",
     "Q1": {
-		"type": "0",
+		"type": "2",
         "question": "Which two countries are compared in this visualization?",
         "A": "China,United States",
         "B": "Canada,India",
         "C": "Vietnam,Brazil",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "1999-2020",
         "C": "1999-2025",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Mobile phones",
         "C": "Car sales",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Defence spending",
         "C": "Oil consumption",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,6 +48,7 @@
         "B": "Beer consumption",
         "C": "Retail Sales",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Proportion of population at HIV risk protected by IRS by WHO Region",
         "C": "Proportion of population at malaria risk protected by WHO by IRS Region",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2000-2010",
         "C": "2009-2010",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Americas",
         "C": "Africa",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Americas",
         "C": "Africa",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,6 +48,7 @@
         "B": "WHO reports",
         "C": "IRS reports",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

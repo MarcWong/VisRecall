@@ -8,7 +8,8 @@
         "B": "The coldest years on record in degree celsius",
         "C": "The hottest years on record in Fahrenheit",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "3",
@@ -17,7 +18,8 @@
         "B": "1 - 20",
         "C": "1 - 100",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "1998",
         "C": "2010",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "3",
@@ -35,7 +38,8 @@
         "B": "Around 0.30 ",
         "C": "Around 0.50",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "UN climate organization",
         "C": "EPA",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

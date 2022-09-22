@@ -8,7 +8,8 @@
         "B": "Excess male deaths",
         "C": "Excess human deaths",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2008",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "India",
         "C": "South Asia",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Europe and Central Asia",
         "C": "Latin America and the Caribbean",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "India",
         "C": "Latin America and the Caribbean",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     }
 }

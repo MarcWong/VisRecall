@@ -8,7 +8,8 @@
         "B": "Wind power total installed costs by project, technology and capacity",
         "C": "Thermal power total installed costs by project, technology and capacity",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2007-2020",
         "C": "2012-2033",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Flash types",
         "C": "Enhanced geothermal",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Flash types",
         "C": "Enhanced geothermal",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,6 +48,7 @@
         "B": "IRENA Renewable price Database and local Data, 2016",
         "C": "Arena Renewable Cost Database and Global Data, 2020",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

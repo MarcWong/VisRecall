@@ -8,7 +8,8 @@
         "B": "Democracy and equality between the sexes",
         "C": "Democracy and inequality between the youth and senior",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,16 +18,18 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "7"
     },
     "Q3": {
-		"type": "2",
+		"type": "4",
         "question": "What area does the green circle represent?",
         "A": "Western Europe",
         "B": "Americas",
         "C": "Asia & Oceania",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Yemen",
         "C": "Russia",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Japan",
         "C": "Norway",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Computing only stock markets",
         "C": "Computing only a power on specific commodity",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "Intel,NYSE Euronext and The Economist",
         "C": "Intel",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "New Jersey",
         "C": "New York",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q4": {
         "type": "4",
@@ -35,7 +38,8 @@
         "B": "Shares traded on the New York Stock",
         "C": "Shares traded on the New Jersey Stock",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q5": {
         "type": "4",
@@ -44,6 +48,7 @@
         "B": "Shares traded on the New York Stock",
         "C": "Shares traded on the New Jersey Stock",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Regulation of product placements on internet",
         "C": "Regulation of product placements on newspaper",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "1",
@@ -17,7 +18,8 @@
         "B": "Regulation",
         "C": "Self-regulation",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Regulation",
         "C": "No regulation",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9"
     },
     "Q4": {
         "type": "4",
@@ -35,7 +38,8 @@
         "B": "No data available",
         "C": "Self-regulation",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "2005",
         "C": "2004",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     }
 }

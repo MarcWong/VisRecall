@@ -8,7 +8,8 @@
         "B": "Rental vacancy Rates Inclination",
         "C": "Rental vacancy Rates Saturation",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Monthly",
         "C": "Quarterly",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Since 2010",
         "C": "Since 2011",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "2009 and 2010",
         "C": "2010",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,6 +48,7 @@
         "B": "Above 20",
         "C": "Above 30",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }

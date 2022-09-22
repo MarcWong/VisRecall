@@ -8,16 +8,18 @@
         "B": "Human development index according to EU Human Development Report",
         "C": "Human development index according to WHO Human Development Report",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
-        "question": "What does the grey icon represent?",
+        "question": "What does the grey bar represent?",
         "A": "Life expectancy at birth",
         "B": "Income per person",
         "C": "Expected years of schooling",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q3": {
         "type": "1",
@@ -26,16 +28,18 @@
         "B": "United States",
         "C": "Germany",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "1",
-        "question": "Which years has the lowest rank?",
+        "question": "Which country has the lowest rank?",
         "A": "Brazil",
         "B": "Russia",
         "C": "Congo",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "Around 150 and below",
         "C": "Around 180 and above",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "7"
     }
 }

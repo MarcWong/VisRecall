@@ -8,7 +8,8 @@
         "B": "Efficiency of popular model of Cars by Brands",
         "C": "Efficiency of popular model of Cars by color",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Highway Miles per Gallon",
         "C": "Engine Displacement",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "4",
@@ -26,24 +28,27 @@
         "B": "1-8",
         "C": "2-6",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9"
     },
     "Q4": {
         "type": "1",
-        "question": "Which car is most prevelant in the visualization?",
+        "question": "Which car has least highway miles per gallon?",
         "A": "subcompact",
         "B": "SUV",
         "C": "midsize",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     },
     "Q5": {
         "type": "1",
-        "question": "Which car is least prevelant in the visualization?",
+        "question": "Which car has the most engine displacement (liters)?",
         "A": "compact",
         "B": "minivan",
         "C": "2seater",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,9,10"
     }
 }

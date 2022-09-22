@@ -8,7 +8,8 @@
         "B": "Company Finances",
         "C": "Number of companies in different countries",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,33 +18,37 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "1",
-        "question": "Which country has the highest Percentage?",
+        "question": "Which country has the highest percentage for this year?",
         "A": "China",
         "B": "Poland",
         "C": "India",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q4": {
 		"type": "1",
-        "question": "Which country has the lowest Percentage?",
+        "question": "Which country has the lowest percentage for this year?",
         "A": "United States",
         "B": "Greece",
         "C": "Mexico",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
-		"type": "1",
-        "question": "Compared with last year, which country has the largest increase in percentage?",
+		"type": "2",
+        "question": "Compared with last year, which country has an increase in percentage?",
         "A": "Spain",
         "B": "Italy",
         "C": "Greece",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     }
 }

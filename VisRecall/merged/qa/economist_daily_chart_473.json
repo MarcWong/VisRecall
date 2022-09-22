@@ -8,7 +8,8 @@
         "B": "US senate elections",
         "C": "UN elections",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2010",
         "C": "2018",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Clinton",
         "C": "Obama",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9"
     },
     "Q4": {
         "type": "2",
@@ -35,7 +38,8 @@
         "B": "Kennedy",
         "C": "Eisenhower",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "+10 to - 80",
         "C": "0 to 100",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     }
 }

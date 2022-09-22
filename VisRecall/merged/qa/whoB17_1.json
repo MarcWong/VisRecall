@@ -8,7 +8,8 @@
         "B": "Adolescence pregnancy rates by educational level in all countries",
         "C": "Adolescence pregnancy rates by educational level in selected cities",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "1",
@@ -17,7 +18,8 @@
         "B": "No education",
         "C": "Secondary education or higher",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "No education",
         "C": "Primary education only",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "type": "3",
@@ -35,7 +38,8 @@
         "B": "Below 40%",
         "C": "Above 60%",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "1995 - 2005",
         "C": "2000 - 2005",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

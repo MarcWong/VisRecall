@@ -8,7 +8,8 @@
         "B": "Share of men in the health workforce, selected countries",
         "C": "Share of women in the digital workforce, selected countries",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "1989-1997",
         "C": "1994-1997",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Uganda",
         "C": "Hungary",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Cambodia",
         "C": "Thailand",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "3",
@@ -44,6 +48,7 @@
         "B": "75%",
         "C": "100%",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     }
 }

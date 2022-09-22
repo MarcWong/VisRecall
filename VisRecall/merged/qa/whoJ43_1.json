@@ -8,7 +8,8 @@
         "B": "Direct implementation for WASH is 3% of total WASH aid",
         "C": "Programmes and projects via other institutions for WASH is 3% of total WASH aid",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Direct implementation",
         "C": "Programmes and projects via other institutions",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Direct implementation",
         "C": "Programmes and projects via other institutions",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,6 +48,7 @@
         "B": "2010 WASH surveys",
         "C": "20 ESAs surveys",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

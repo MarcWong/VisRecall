@@ -8,7 +8,8 @@
         "B": "Per cent distribution of age at diabetes by region, 2004",
         "C": "Value distribution of age at diabetes by region, 2004",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "1",
@@ -17,7 +18,8 @@
         "B": "Africa",
         "C": "Europe",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Western Pacific",
         "C": "High income",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Africa",
         "C": "Americas",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Africa",
         "C": "Americas",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     }
 }

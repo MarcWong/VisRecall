@@ -8,7 +8,8 @@
         "B": "Trends in sanitation and food aid commitments for fragile or conflict-affected states, 2004-2010",
         "C": "Trends in sanitation and tent aid commitments for fragile or conflict-affected states, 2004-2010",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "3",
@@ -17,7 +18,8 @@
         "B": "7%",
         "C": "9%",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
 		"type": "3",
@@ -26,7 +28,8 @@
         "B": "7%",
         "C": "11%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q4": {
 		"type": "1",
@@ -35,15 +38,17 @@
         "B": "2009",
         "C": "2004",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "2",
-        "question": "When was the data source published",
+        "question": "When was the data source published?",
         "A": "2004",
         "B": "2010",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "8"
     }
 }

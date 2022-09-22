@@ -8,7 +8,8 @@
         "B": "Adult and youth unemployment as % of labour wage",
         "C": "Adult and youth unemployment as % of labour market ",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2010",
         "C": "2015",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
         "type": "1",
@@ -26,16 +28,18 @@
         "B": "Estonia",
         "C": "Slovakia",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "type": "1",
-        "question": "Which years has the lowest unemployment rank?",
+        "question": "Which country has the lowest unemployment rank?",
         "A": "Germany",
         "B": "Austria",
         "C": "Switzerland",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "Aged around 20 - 50",
         "C": "Aged around 25 - 40",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     }
 }

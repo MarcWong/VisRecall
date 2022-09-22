@@ -8,7 +8,8 @@
         "B": "Comparing private commitments on Sanitation and drinking-water",
         "C": "Comparing public commitments on Sanitation and drinking-water",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "3",
@@ -17,16 +18,18 @@
         "B": "34%",
         "C": "40%",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9"
     },
     "Q3": {
         "type": "3",
         "question": "What is maximum percentage of aid is allocated?",
-        "A": "More than 75%",
-        "B": "More than 65%",
-        "C": "More than 80%",
+        "A": "Around 75%",
+        "B": "Around 65%",
+        "C": "Around 85%",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q4": {
         "type": "4",
@@ -35,7 +38,8 @@
         "B": "Sanitation",
         "C": "AEDs",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "2005 and 2006",
         "C": "2011 and 2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "8"
     }
 }
