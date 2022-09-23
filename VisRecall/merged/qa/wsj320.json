@@ -8,7 +8,8 @@
         "B": "Average probability of precipitation in the contiguous 48 states",
         "C": "Average Humidity in the contiguous 48 states",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "7"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "June",
         "C": "July",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "2",
@@ -26,7 +28,8 @@
         "B": "since 1900",
         "C": "since 1950",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "7"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "1936",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Around 74",
         "C": "Around 78",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     }
 }

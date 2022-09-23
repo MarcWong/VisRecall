@@ -8,7 +8,8 @@
         "B": "Global agricultural products exports",
         "C": "Global army dispatch",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6,9"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2006-2010",
         "C": "2006-2016",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Russia",
         "C": "China",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Britain",
         "C": "Germany",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,6 +48,7 @@
         "B": "China",
         "C": "India",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }

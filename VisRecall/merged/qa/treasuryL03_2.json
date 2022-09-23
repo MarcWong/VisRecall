@@ -8,7 +8,8 @@
         "B": "Agriculture",
         "C": "Tourism",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2008-2011",
         "C": "2009-2011",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Transportation Equipment",
         "C": "Computer and Electronic Products",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q4": {
 		"type": "2",
@@ -35,7 +38,8 @@
         "B": "Machinery",
         "C": "Computer and Electronic Products",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q5": {
 		"type": "2",
@@ -44,7 +48,8 @@
         "B": "Fabricated Metal Products",
         "C": "Plastics and Rubber Products",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     }
 }
 

@@ -8,7 +8,8 @@
         "B": "Disability rate due to Lung cancer by smoking status in the CPSII reference population",
         "C": "Mortality rate due to Lung cancer by smoking status in the CPSII reference population",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "1",
@@ -17,7 +18,8 @@
         "B": "70-79",
         "C": "80+",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q3": {
         "type": "3",
@@ -26,7 +28,8 @@
         "B": "10,000",
         "C": "1,000",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Male smokers",
         "C": "Male never smokers",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,6 +48,7 @@
         "B": "Male never smokers",
         "C": "Male smokers",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "recorded deaths during protests between civilians and Arab government security forces",
         "C": "recorded jobless during protests between civilians and Arab government security forces",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
         "type": "1",
@@ -26,16 +28,18 @@
         "B": "Egypt",
         "C": "Tunisia",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "1",
-        "question": "Which country has the longest time of unrest ?",
+        "question": "Which country has the longest time of unrest?",
         "A": "Syria",
         "B": "Tunisia",
         "C": "Yemen",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "Yemen",
         "C": "Bahrain",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }

@@ -8,7 +8,8 @@
     "B": "Mortality and Disease burden in men aged 15-44",
     "C": "Mortality and Disease burden in women aged 55-64",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,7 +18,8 @@
     "B": "2011",
     "C": "2004",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "6"
   },
   "Q3": {
     "type": "2",
@@ -26,7 +28,8 @@
     "B": "America",
     "C": "Africa",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "4,9,10"
   },
   "Q4": {
     "type": "2",
@@ -35,7 +38,8 @@
     "B": "Mental disorders",
     "C": "Cancers",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "4,9,10"
   },
   "Q5": {
     "type": "3",
@@ -44,6 +48,7 @@
     "B": "Around 300-350",
     "C": "Around 350-400",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "9,10"
   }
 }

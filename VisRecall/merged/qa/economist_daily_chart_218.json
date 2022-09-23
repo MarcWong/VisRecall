@@ -8,7 +8,8 @@
         "B": "North America troops abroad",
         "C": "America troops abroad",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,25 +18,28 @@
         "B": "1920-2011",
         "C": "1950-2011",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2"
     },
     "Q3": {
         "type": "4",
-        "question": "Which region is displayed in deep green?",
+        "question": "Which region is displayed in deep blue?",
         "A": "Americas",
         "B": "East Asia",
         "C": "Middle East",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "4",
-        "question": "Which region is displayed in blue?",
+        "question": "Which region is displayed in light blue?",
         "A": "Americas",
         "B": "East Asia",
         "C": "Middle East",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "4",
@@ -44,6 +48,7 @@
         "B": "0-1.1",
         "C": "0-1.2",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2"
     }
 }

@@ -8,7 +8,8 @@
         "B": "How much Finnish pension funds have invested in assets in each country",
         "C": "How much French pension funds have invested in assets in each country",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2009-2011",
         "C": "2010-2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Hungary",
         "C": "Greece",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Spain",
         "C": "Greece",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,10"
     },
     "Q5": {
         "type": "4",
@@ -44,6 +48,7 @@
         "B": "Italy",
         "C": "Spain",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,10"
     }
 }

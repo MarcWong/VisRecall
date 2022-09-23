@@ -8,7 +8,8 @@
         "B": "Incidence rates of HIV infections",
         "C": "Incidence rate of cervical cancer",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2004",
         "C": "2014",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q3": {
         "type": "3",
@@ -26,7 +28,8 @@
         "B": "50 to <100",
         "C": "20 to <30",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "North America",
         "C": "Oceania",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,10"
     },
     "Q5": {
         "type": "4",
@@ -44,7 +48,8 @@
         "B": "6",
         "C": "7",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,10"
     }
 }
 

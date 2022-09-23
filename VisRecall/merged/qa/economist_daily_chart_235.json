@@ -8,7 +8,8 @@
         "B": "Government Property yields",
         "C": "Government fund yields",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2010-2011",
         "C": "2011-2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Italy",
         "C": "France",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Italy",
         "C": "France",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "Around 15%",
         "C": "Around 25%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

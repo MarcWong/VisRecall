@@ -8,25 +8,28 @@
         "B": "In the Mix",
         "C": "Historic stockmarket returns",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
-        "type": "3",
+        "type": "4",
         "question": "What does the green bar graph indicate?",
         "A": "Home purchase",
         "B": "Refinance",
         "C": "Housing Market",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q3": {
-        "type": "3",
+        "type": "4",
         "question": "What does the orange bar graph indicate?",
         "A": "Refinance",
         "B": "Housing Market",
         "C": "Home purchase",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "2006",
         "C": "2009",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,7 +48,8 @@
         "B": "3.2 million",
         "C": "4.3 million",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9"
     }
 }
 

@@ -8,16 +8,18 @@
         "B": "It shows leaning buildings",
         "C": "It shows the tallest buildings",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "question": "What is the tallest building shown?",
 		"type": "1",
-        "A": "Tower of Bologna",
+        "A": "Two Towers of Bologna",
         "B": "Big Ben",
         "C": "Tower of Pisa",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q3": {
         "question": "What is the most leaning building?",
@@ -26,7 +28,8 @@
         "B": "Tower of Pisa",
         "C": "Bad Frankenhausen church tower",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q4": {
         "question": "What is the least leaning building?",
@@ -35,7 +38,8 @@
         "B": "Tiger Hill Pagoda",
         "C": "Big Ben",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q5": {
         "question": "How high is the highest building?",
@@ -44,6 +48,7 @@
         "B": "about 100m",
         "C": "about 75m",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Several banks regarding the rate changes for their Libor submissions",
         "C": "European banks regarding the rate changes for their Libor submissions",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2012",
         "C": "2021",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Bank of America",
         "C": "Credit suisse",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Societe Generale",
         "C": "RBC",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,7 +48,8 @@
         "B": "North American banks",
         "C": "Japanese banks",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     }
 }
 

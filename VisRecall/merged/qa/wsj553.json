@@ -8,7 +8,8 @@
     "B": "Female representation on the boards of the largest listed companies in January 201",
     "C": "Male representation as CEO's of the largest listed companies in January 201",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,33 +18,37 @@
     "B": "2011",
     "C": "2012",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "7"
   },
   "Q3": {
     "type": "1",
-    "question": "Which country has the highest percentage of Female representation ?",
+    "question": "Which country has the highest percentage of Female representation?",
     "A": "U.S.",
     "B": "Italy",
     "C": "Norway",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "5,9,10"
   },
   "Q4": {
     "type": "1",
-    "question": "Which country has the highest percentage of Female representation ?",
+    "question": "Which country has the highest percentage of Female representation?",
     "A": "U.S.",
     "B": "Italy",
     "C": "Norway",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "C",
+    "AOI": "5,9,10"
   },
   "Q5": {
     "type": "2",
     "question": "Whats the source of information visualization?",
-    "A": "Sud Deutsche",
+    "A": "Süd Deutsche",
     "B": "Euro News",
     "C": "European Commision",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "8"
   }
 }

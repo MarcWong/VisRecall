@@ -8,7 +8,8 @@
         "B": "The average age of cabinets and the policeman in different counties ",
         "C": "The average age of cabinets and the fireman in different countries ",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q3": {
         "type": "1",
@@ -26,16 +28,18 @@
         "B": "United States",
         "C": "India",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
         "type": "3",
-        "question": "What is the average age of cabinet ministers in China ?",
+        "question": "What is the average age of cabinet ministers in China?",
         "A": "65",
         "B": "63",
-        "C": "60",
+        "C": "55",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
         "type": "4",
@@ -44,6 +48,7 @@
         "B": "red",
         "C": "blue",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4"
     }
 }

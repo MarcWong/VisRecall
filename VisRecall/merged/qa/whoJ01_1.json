@@ -8,7 +8,8 @@
         "B": "Percentage of population using improved sanitation facilities",
         "C": "Percentage of population using Automated External Defibrillator (AED)",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2010",
         "C": "2015",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "2",
@@ -26,7 +28,8 @@
         "B": "76-90%",
         "C": "50-75%",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,10"
     },
     "Q4": {
 		"type": "2",
@@ -35,7 +38,8 @@
         "B": "76-90%",
         "C": "50-75%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,10"
     },
     "Q5": {
 		"type": "4",
@@ -44,7 +48,8 @@
         "B": "Yellow",
         "C": "Pink",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,10"
     }
 }
 

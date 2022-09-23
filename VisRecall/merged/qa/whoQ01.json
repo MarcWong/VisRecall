@@ -8,7 +8,8 @@
         "B": "Alcohol-attribute deaths per million inhabitants by income group and the world, 2004",
         "C": "Percentage of reporting forms received by month and by WHO region, 2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "Middle-East Asia",
         "C": "South-East Asia",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q3": {
 		"type": "2",
@@ -26,7 +28,8 @@
         "B": "African",
         "C": "European",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "African",
         "C": "Western pacific",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "August",
         "C": "October",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }

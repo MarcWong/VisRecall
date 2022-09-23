@@ -8,7 +8,8 @@
         "B": "Corrumption and country development",
         "C": "Consumption and human development",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q3": {
         "type": "4",
@@ -26,7 +28,8 @@
         "B": "Average",
         "C": "R2",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     },
     "Q4": {
         "type": "2",
@@ -35,15 +38,17 @@
         "B": "Transparency Internet; UN Human Development Report",
         "C": "Transparency Internet; UN Consumption Report",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     },
     "Q5": {
         "type": "3",
         "question": "What is the range of Y-axis?",
         "A": "0.2-1.0",
         "B": "0.1-1.0",
-        "C ": "0-1.0",
+        "C": "0-1.0",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2"
     }
 }

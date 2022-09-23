@@ -8,7 +8,8 @@
         "B": "Comparison of GDP per capita of different regions",
         "C": "Comparison of the average life expectancy of different regions",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2006",
         "C": "2007",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "4",
@@ -26,7 +28,8 @@
         "B": "Becoming higher then staying at a certain level",
         "C": "always lower",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Americas",
         "C": "Asia",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Americas",
         "C": "Europe",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "FY Total Liabilities",
         "C": "FY Total capitals",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "0",
@@ -17,7 +18,8 @@
         "B": "2013",
         "C": "2014",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Federal Debt and Interest Payable(Intra-Gov'tal)",
         "C": "Federal Debt and Interest Payable(With the Public)",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Other Liabilities",
         "C": "Federal Debt and Interest Payable(With the Public)",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "Federal Debt and Interest Payable(Intra-Gov'tal)",
         "C": "Federal Debt and Interest Payable(With the Public)",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     }
 }

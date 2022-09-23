@@ -8,7 +8,8 @@
         "B": "Legal definition of an alcoholic beverage",
         "C": "Legal definition of an cordial",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2009",
         "C": "2010",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "3",
@@ -26,7 +28,8 @@
         "B": "3-3.99",
         "C": "None",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "3",
@@ -35,7 +38,8 @@
         "B": "2-2.99",
         "C": "4-4.99",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "3",
@@ -44,6 +48,7 @@
         "B": "Around 10",
         "C": "Around 15",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }

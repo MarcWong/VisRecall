@@ -8,7 +8,8 @@
         "B": "Persons aged 50 years and over as a percentage of total population",
         "C": "Persons aged 40 years and over as a percentage of total population",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "1950-2005",
         "C": "1950-2050",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6,9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Males, high-income countries",
         "C": "Females, high-income countries",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Males, low and middle-income countrie",
         "C": "Males, high-income countries",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,7 +48,8 @@
         "B": "2020",
         "C": "2050",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     }
 }
 

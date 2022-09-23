@@ -8,7 +8,8 @@
     "B": "Break down of development aid",
     "C": "Number of cases of yaws reported in indonesia",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "9"
   },
   "Q2": {
     "type": "4",
@@ -17,7 +18,8 @@
     "B": "number of animals",
     "C": "number of studies",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "9,10"
   },
   "Q3": {
     "type": "1",
@@ -26,7 +28,8 @@
     "B": "adult pig",
     "C": "adult cattle",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "9,10"
   },
   "Q4": {
     "type": "1",
@@ -35,7 +38,8 @@
     "B": "adult cats",
     "C": "adult horses",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "9,10"
   },
   "Q5": {
     "type": "1",
@@ -44,6 +48,7 @@
     "B": "juvenile pig",
     "C": "adult cattle",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9,10"
   }
 }

@@ -8,7 +8,8 @@
     "B": "Student elections and selections in 2012",
     "C": "Leadership elections and selections in 2012 ",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,7 +18,8 @@
     "B": "New york Times",
     "C": "The Economist",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "8"
   },
   "Q3": {
     "type": "2",
@@ -26,7 +28,8 @@
     "B": "China",
     "C": "Malta",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "9,10"
   },
   "Q4": {
     "type": "2",
@@ -35,7 +38,8 @@
     "B": "France",
     "C": "Mexico",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9,10"
   },
   "Q5": {
     "type": "2",
@@ -44,6 +48,7 @@
     "B": "Hungary",
     "C": "Greece",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "9,10"
   }
 }

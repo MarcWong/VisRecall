@@ -8,7 +8,8 @@
         "B": "In the Mix",
         "C": "Democrats",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "Republicans",
         "C": "the same",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Likely D",
         "C": "Lean D",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Solid R",
         "C": "Likely R",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q5": {
         "type": "3",
@@ -44,7 +48,8 @@
         "B": "22",
         "C": "10",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     }
 }
 

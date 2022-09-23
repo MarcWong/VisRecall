@@ -5,10 +5,11 @@
         "type": "0",
         "question": "What is the theme of this visualization?",
         "A": "Trends in aid for water and sanitation, education and (health population HIV AIDS) as a percentage of total ODA commitments",
-        "B": "rends in aid for water and education and (health population HIV AIDS) as a percentage of total ODA commitments",
+        "B": "Trends in aid for water and education and (health population HIV AIDS) as a percentage of total ODA commitments",
         "C": "Trends in aid for water and sanitation and (health population HIV AIDS) as a percentage of total ODA commitments",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "1995-2010",
         "C": "1995-2015",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Education",
         "C": "Health, population, (HIV AIDS)",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,10"
     },
     "Q4": {
         "type": "3",
@@ -35,7 +38,8 @@
         "B": "US$ 13.3 billion",
         "C": "US$ 7.8 billion",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,6 +48,7 @@
         "B": "2000",
         "C": "2002",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

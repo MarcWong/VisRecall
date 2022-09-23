@@ -8,7 +8,8 @@
     "B": "Students of specific age not meeting recommended levels of Nutrition",
     "C": "Students of specific age not interested in mathematics",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,7 +18,8 @@
     "B": "2003-2008",
     "C": "2003-2011",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "6"
   },
   "Q3": {
     "type": "3",
@@ -26,7 +28,8 @@
     "B": "63",
     "C": "36",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "8"
   },
   "Q4": {
     "type": "2",
@@ -35,15 +38,17 @@
     "B": "Americas",
     "C": "Western-pacific",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "4,9,10"
   },
   "Q5": {
-    "type": "2",
+    "type": "4",
     "question": "What does each data point represent?",
     "A": "One Country",
-    "B": "One state",
+    "B": "One State",
     "C": "One Continent",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "4"
   }
 }

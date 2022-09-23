@@ -8,7 +8,8 @@
         "B": "The relationship between SAT scores, GPA and job admissions",
         "C": "The relationship between SAT scores, GPA and college admissions",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "8,9"
     },
     "Q2": {
         "type": "2",
@@ -17,25 +18,28 @@
         "B": "Sheffield University",
         "C": "Sussex University",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
         "type": "3",
-        "question": "What is the lowest GPA for admissions?",
+        "question": "What is the lowest GPA for accepted?",
         "A": "Over 1.50",
         "B": "Over 2.50",
         "C": "Over 2.00",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
         "type": "3",
-        "question": "What is the lowest SAT score for addmission?",
+        "question": "What is the lowest SAT score for accepted?",
         "A": "over 400",
         "B": "over 500",
         "C": "over 600",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "Math + Writing",
         "C": "Reading + Writing",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     }
 }

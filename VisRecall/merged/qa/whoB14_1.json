@@ -8,16 +8,18 @@
         "B": "Ethnic differences in key child health indicators",
         "C": "Age differences in key child health indicators",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
-        "question": "Which country are not displayed in this visualization?",
+        "question": "Which country or region is not displayed in this visualization?",
         "A": "Africa",
         "B": "Americas",
         "C": "China",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     },
     "Q3": {
 		"type": "2",
@@ -26,24 +28,27 @@
         "B": "2002-2007",
         "C": "2002-2010",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q4": {
-		"type": "1",
-        "question": "Which indicator has the least difference in all seletecd countries?",
+		"type": "4",
+        "question": "Which indicator has the least difference?",
         "A": "DPT3 coverage",
         "B": "Mosquito net use",
         "C": "Diarrhoea treatment",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "1",
-        "question": "Which indicator has the largest difference in Africa?",
+        "question": "Which indicator has the largest difference?",
         "A": "Mosquito net use",
         "B": "Stunting",
         "C": "Under-five morality rate",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

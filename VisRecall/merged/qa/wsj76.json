@@ -8,7 +8,8 @@
         "B": "Cellphone",
         "C": "Car",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q2": {
         "question": "Which time range is of interest here?",
@@ -17,7 +18,8 @@
         "B": "2008-2011",
         "C": "2018",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     },
     "Q3": {
         "question": "What percentage of households had no corded phone in 2011?",
@@ -26,7 +28,8 @@
         "B": "30%",
         "C": "34%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q4": {
         "question": "What is the source of the data presented in this graph?",
@@ -35,7 +38,8 @@
         "B": "World Health Organization",
         "C": "CDC/NCHS",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "8"
     },
     "Q5": {
         "question": "How many households were surveyed for this graph?",
@@ -44,6 +48,7 @@
         "B": "136,228",
         "C": "95,000",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     }
 }

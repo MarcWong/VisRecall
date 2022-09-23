@@ -8,7 +8,8 @@
         "B": "Alcolhol-attrubutable death",
         "C": "Child mortality",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "question": "In what year was this data gathered?",
@@ -17,7 +18,8 @@
         "B": "2002",
         "C": "2004",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q3": {
         "question": "Which income group has the highest death rate?",
@@ -26,7 +28,8 @@
         "B": "Upper middle income",
         "C": "Lower middle income",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "question": "Which income group has the lowest death rate?",
@@ -35,7 +38,8 @@
         "B": "Upper middle income",
         "C": "Lower middle income",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "question": "How many deaths per million does the Upper middle income group have?",
@@ -44,6 +48,7 @@
         "B": "Around 800",
         "C": "Around 900",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

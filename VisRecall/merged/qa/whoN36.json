@@ -8,7 +8,8 @@
         "B": "Countries reporting awareness campaigns on alcohol",
         "C": "Countries reporting awareness campaigns on tobacco",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2007",
         "C": "2008",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Youth",
         "C": "Social harm",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Youth",
         "C": "Indigenous people",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "3",
@@ -44,6 +48,7 @@
         "B": "Around 120",
         "C": "Around 140",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     }
 }

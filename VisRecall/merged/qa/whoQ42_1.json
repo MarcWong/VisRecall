@@ -8,16 +8,18 @@
         "B": "2007-2010",
         "C": "2001-2007",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "question": "What is the object being examined in the chart's content?",
-		"type": "3",
+		"type": "0",
         "A": "Blood",
         "B": "Urine",
         "C": "Saliva",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
         "question": "Which country has the highest blood examination rate?",
@@ -26,7 +28,8 @@
         "B": "Togo",
         "C": "Liberia",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "question": "Which country has an examination rate of around 15%?",
@@ -35,7 +38,8 @@
         "B": "Gambia",
         "C": "Mali",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "question": "Which country pairs have approximately similar annual blood examination rates?",
@@ -44,6 +48,7 @@
         "B": "Ghana and Nigeria",
         "C": "Cape Verde and Togo",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

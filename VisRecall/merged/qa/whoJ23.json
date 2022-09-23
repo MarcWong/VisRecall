@@ -8,7 +8,8 @@
         "B": "Revenues coverage of operating costs for rural utilities",
         "C": "Revenues coverage of operating costs for all utilities",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2021",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     },
     "Q3": {
         "type": "3",
@@ -26,7 +28,8 @@
         "B": "34",
         "C": "42",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "operating ratio between 0.8 and 1.2",
         "C": "operating ratio less than 0.8",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "80",
         "C": "66",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "8"
     }
 }

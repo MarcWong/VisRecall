@@ -8,7 +8,8 @@
         "B": "the global revenue and the market size of mobil games in different countries ",
         "C": "the global revenue and the market size of video games in different countries ",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "1",
@@ -26,16 +28,18 @@
         "B": "PC",
         "C": "In-game advertising",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
         "type": "1",
-        "question": "Which global revenue has the lowest value all the time ?",
+        "question": "Which global revenue has the lowest value all the time?",
         "A": "Online ",
         "B": "Console",
         "C": "donate",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,6 +48,7 @@
         "B": "China",
         "C": "France",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     }
 }

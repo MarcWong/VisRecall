@@ -8,7 +8,8 @@
         "B": "It plots the training loss over epochs",
         "C": "It plots the test loss over epochs",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q2": {
         "question": "Which models are compared?",
@@ -17,7 +18,8 @@
         "B": "An original model with a smaller version",
         "C": "An original model with a bigger version",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     },
     "Q3": {
         "question": "For how many epochs were the models trained?",
@@ -26,7 +28,8 @@
         "B": "20",
         "C": "15",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q4": {
         "question": "Which markers are used to visualize the data points?",
@@ -35,7 +38,8 @@
         "B": "Cross and Circle",
         "C": "Cross and Rectangle",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,10"
     },
     "Q5": {
         "question": "What is the highest validation loss achieved by any model?",
@@ -44,6 +48,7 @@
         "B": "about 1.1",
         "C": "about 0.9",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }

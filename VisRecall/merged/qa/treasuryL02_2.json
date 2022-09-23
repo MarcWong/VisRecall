@@ -8,7 +8,8 @@
         "B": "Covered Transactions by Country",
         "C": "Covered Transactions by Sector",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2010-2012",
         "C": "2011-2013",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Finance, Information and Services",
         "C": "Mining, Utilities and Construction",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
 		"type": "3",
@@ -35,7 +38,8 @@
         "B": "Around 30",
         "C": "Around 50",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Finance, Information and Services",
         "C": "Wholesale, Retail adn Transportatio",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     }
 }

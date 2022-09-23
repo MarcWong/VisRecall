@@ -8,7 +8,8 @@
         "B": "Recovered COVID-19 Cases in the United States",
         "C": "COVID-19 Deaths in the United States",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "Jan 2020-Dec 2020",
         "C": "Jan 2020-Mar 2020",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9"
     },
     "Q3": {
 		"type": "2",
@@ -26,7 +28,8 @@
         "B": "04mar2020",
         "C": "18mar2020",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "3",
@@ -35,7 +38,8 @@
         "B": "20000-30000",
         "C": "more than 30000",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,7 +48,8 @@
         "B": "19feb2020",
         "C": "05feb2020",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }
 

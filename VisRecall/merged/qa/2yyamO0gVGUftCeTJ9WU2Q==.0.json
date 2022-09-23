@@ -8,16 +8,18 @@
     "A": "Correlation between how well a country's population speaks more than one language and Human development index",
     "C": "Correlation between how well a country's population speaks german and Human development index",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "7"
   },
   "Q2": {
     "type": "0",
     "question": "What is the title of this visualization?",
-    "A": "Better Education Better Quality of Life",
-    "B": "Better English Better Quality of Life",
+    "A": "Better Education, Better Quality of Life",
+    "B": "Better English, Better Quality of Life",
     "C": "Commonwelath Nations have Better Quality of Life",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "6"
   },
   "Q3": {
     "type": "1",
@@ -26,7 +28,8 @@
     "B": "India",
     "C": "China",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "2,9,10"
   },
   "Q4": {
     "type": "1",
@@ -35,7 +38,8 @@
     "B": "India",
     "C": "China",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "2,9,10"
   },
   "Q5": {
     "type": "1",
@@ -44,6 +48,7 @@
     "B": "Russia",
     "C": "Greece",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "2,9,10"
   }
 }

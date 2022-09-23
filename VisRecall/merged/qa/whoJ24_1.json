@@ -8,7 +8,8 @@
         "B": "Countries Report Insufficient Staff to Operate and Maintain Urban and Rural Drinking-water Systems (Figure 4.1)",
         "C": "Figure 1: Urban VS Rural Births in Perceng During 2006-2007",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Number of countries",
         "C": "Number of cities",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "4",
@@ -26,7 +28,8 @@
         "B": "Lighter blue",
         "C": "Orange",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4"
     },
     "Q4": {
         "type": "2",
@@ -35,7 +38,8 @@
         "B": "Rural Drinking-water",
         "C": "Same",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "Rural Drinking-water",
         "C": "Same",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Is there a global information system used to inform decision-making?",
         "C": "Is there a regional information system used to inform decision-making?",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Under development",
         "C": "No",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,9"
     },
     "Q4": {
         "type": "2",
@@ -35,7 +38,8 @@
         "B": "Under evaluation",
         "C": "No",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "74",
         "C": "84",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     }
 }

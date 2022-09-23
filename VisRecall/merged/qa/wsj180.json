@@ -8,7 +8,8 @@
         "B": "Brick by Brick",
         "C": "Home by Home",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "0",
@@ -17,7 +18,8 @@
         "B": "Brick Price",
         "C": "Share Price",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "7"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Weekly",
         "C": "Monthly",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2"
     },
     "Q4": {
         "type": "3",
@@ -35,7 +38,8 @@
         "B": "around -5%",
         "C": "around -10%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "around -5%",
         "C": "around -10%",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Trends in global sea water coverage",
         "C": "Trends in global drinking water coverage",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "1990-2005",
         "C": "1990-2010",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
 		"type": "4",
@@ -26,7 +28,8 @@
         "B": "higher",
         "C": "fast constant",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     },
     "Q4": {
 		"type": "2",
@@ -35,7 +38,8 @@
         "B": "2014",
         "C": "2015",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q5": {
 		"type": "2",
@@ -44,6 +48,7 @@
         "B": "2005",
         "C": "2010",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     }
 }

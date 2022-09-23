@@ -8,7 +8,8 @@
         "B": "It shows which countries produce nuclear bombs",
         "C": "It shows which countries produce weapons",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "question": "What is the color of current producers?",
@@ -17,7 +18,8 @@
         "B": "Dark blue",
         "C": "Light blue",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q3": {
         "question": "What is the color of past producers?",
@@ -26,7 +28,8 @@
         "B": "Dark blue",
         "C": "Light blue",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     },
     "Q4": {
         "question": "From which year is the data?",
@@ -35,7 +38,8 @@
         "B": "2012",
         "C": "2011",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "7"
     },
     "Q5": {
         "question": "Only one country in africa is currently producing, which one is it?",
@@ -44,6 +48,7 @@
         "B": "South Africa",
         "C": "Central Africa",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Balance of payments for transport services",
         "C": "Balance of payments for Cross-Border Trade",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2004-2008",
         "C": "2005-2007",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Armenia",
         "C": "Australia",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Austria",
         "C": "Azerbaijan",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "3",
@@ -44,6 +48,7 @@
         "B": "Around 25%",
         "C": "Around 35%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

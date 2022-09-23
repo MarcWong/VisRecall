@@ -8,7 +8,8 @@
         "B": "Critical technology spendings by region within different industry sectors",
         "C": "Critical technology earnings by Region within different industry sectors",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2013",
         "C": "2011",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "East Asia",
         "C": "Canada, Australia & New Zealand",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Information Technology",
         "C": "Machinery & Equipment",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,7 +48,8 @@
         "B": "Aerospace & Defence",
         "C": "Pharma & Biotech",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }
 

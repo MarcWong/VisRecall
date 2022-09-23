@@ -8,7 +8,8 @@
         "B": "Currencies against the euro",
         "C": "Currencies against the rupee",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Jan to Oct",
         "C": "Jan to Dec",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "A",
+        "AOI": "2"
     },
     "Q4": {
         "type": "4",
@@ -35,15 +38,17 @@
         "B": "Zloty",
         "C": "Real",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,10"
     },
     "Q5": {
         "type": "4",
-        "question": "Which currency is displayed in brown?",
+        "question": "Which currency is displayed in grey?",
         "A": "Dollar",
         "B": "Euro",
         "C": "Rupee",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     }
 }

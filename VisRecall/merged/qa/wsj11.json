@@ -8,7 +8,8 @@
         "B": "Japanese",
         "C": "Americans",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "7"
     },
     "Q2": {
         "question": "Which two years are being compared in this figure?",
@@ -17,7 +18,8 @@
         "B": "2008 and 2013",
         "C": "2000 and 2010",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
         "question": "Which ethnic group is least represented in Spain, according to this graph?",
@@ -26,7 +28,8 @@
         "B": "France",
         "C": "Romania",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "question": "Approximately how many Chinese are self-employed in Spain in 2012?",
@@ -35,7 +38,8 @@
         "B": "40,000",
         "C": "10,000",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "question": "Which ethnic group increased the least its number of self-employed members in Spain between 2009 and 2012?",
@@ -44,6 +48,7 @@
         "B": "Germany",
         "C": "Italy",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }

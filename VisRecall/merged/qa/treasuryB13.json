@@ -8,7 +8,8 @@
         "B": "The crisis response helped prevent the collapse of the insurance system and stabilized AIA",
         "C": "The crisis response helped prevent the collapse of the financial system and stabilized AIG",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Loss",
         "C": "Balance out",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "March 2012",
         "C": "Mach 2008",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q4": {
         "type": "3",
@@ -35,15 +38,17 @@
         "B": "Over 50%",
         "C": "Over 75%",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q5": {
         "type": "2",
-        "question": "Where does the total committment come from?",
+        "question": "What is the source of this visualisation?",
         "A": "Treasury",
         "B": "Federal Reserve",
         "C": "Treasury and Federal Reserve",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "8"
     }
 }

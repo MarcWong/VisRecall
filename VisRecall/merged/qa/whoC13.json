@@ -8,7 +8,8 @@
     "B": "Number of cases of yaws reported in indonesia",
     "C": "Number of cases of crimes reported in indonesia",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,7 +18,8 @@
     "B": "2001-2009",
     "C": "2001-2010",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "6"
   },
   "Q3": {
     "type": "1",
@@ -26,7 +28,8 @@
     "B": "2007",
     "C": "2001",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9,10"
   },
   "Q4": {
     "type": "1",
@@ -35,7 +38,8 @@
     "B": "2001",
     "C": "2009",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9,10"
   },
   "Q5": {
     "type": "3",
@@ -44,6 +48,7 @@
     "B": "around 2000",
     "C": "around 3000",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "2,9,10"
   }
 }

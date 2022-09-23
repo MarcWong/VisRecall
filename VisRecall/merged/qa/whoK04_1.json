@@ -8,7 +8,8 @@
         "B": "Countries Report Insufficient Staff to Operate and Maintain Urban and Rural Drinking-water Systems (Figure 4.1)",
         "C": "Almost half of the two billion people who have gained access to drinking water since 1990 live in China or India",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Millions",
         "C": "Thousands",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "India",
         "C": "Other",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q4": {
         "type": "4",
@@ -35,15 +38,17 @@
         "B": "SOUTHERN ASIA",
         "C": "SUB-SAHARAN AFRICA",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4"
     },
     "Q5": {
         "type": "4",
-        "question": "Which region is represented in blue colormaps",
+        "question": "Which region is represented in blue colormaps?",
         "A": "WESTERN ASIA",
         "B": "SOUTHERN ASIA",
         "C": "DEVELOPED REGIONS",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     }
 }

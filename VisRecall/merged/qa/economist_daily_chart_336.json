@@ -8,7 +8,8 @@
     "B": "Biggest Military spenders",
     "C": "Biggest Video game makers",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,25 +18,28 @@
     "B": "2011",
     "C": "2012",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "7"
   },
   "Q3": {
     "type": "1",
-    "question": "Which country has the highest value?",
+    "question": "Which country has the highest spending as % of GDP?",
     "A": "Turkey",
     "B": "United states",
     "C": "Canada",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9"
   },
   "Q4": {
     "type": "1",
-    "question": "Which country has the lowest value?",
+    "question": "Which country has the lowest spending as % of GDP?",
     "A": "China",
     "B": "Japan",
     "C": "Britain",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9"
   },
   "Q5": {
     "type": "2",
@@ -44,6 +48,7 @@
     "B": "$mn (million dollars)",
     "C": "$tr (trillion dollars)",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "7"
   }
 }

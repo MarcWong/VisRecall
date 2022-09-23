@@ -3,12 +3,13 @@
     "vistype": "line",
     "Q1": {
         "type": "0",
-        "question": "What is the theme of this visualization?",
-        "A": "Blur Picture",
+        "question": "What is the title of this visualization?",
+        "A": "Unclear Picture",
         "B": "Film Cost",
         "C": "Share Price",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "Kodak",
         "C": "Fujifilm",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
         "type": "3",
@@ -26,7 +28,8 @@
         "B": "0.2",
         "C": "0.3",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q4": {
         "type": "3",
@@ -35,15 +38,17 @@
         "B": "4",
         "C": "5",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q5": {
-        "type": "1",
+        "type": "2",
         "question": "what is the latest event introduced in the visualization?",
         "A": "Draws down 160 million on credit line",
         "B": "Files for Chapter 11 bankruptcy protection",
         "C": "Says it is seeking financing",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     }
 }

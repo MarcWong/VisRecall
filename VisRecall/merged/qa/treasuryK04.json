@@ -8,7 +8,8 @@
         "B": "Most successful box office film of 2011",
         "C": "Summary Financial Information",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q2": {
         "question": "Which currency is used in the chart?",
@@ -17,16 +18,18 @@
         "B": "Dollars",
         "C": "Yen",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6,10"
     },
     "Q3": {
         "question": "How are negative numbers represented?",
-		"type": "3",
+		"type": "4",
         "A": "Negative sign",
         "B": "Red font",
         "C": "Parentheses",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "10"
     },
     "Q4": {
         "question": "Does the net custodial revenue compensate for the net federal debt interest costs in 2012?",
@@ -35,7 +38,8 @@
         "B": "No",
         "C": "They're the same",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q5": {
         "question": "Which time range is represented in this chart?",
@@ -44,6 +48,7 @@
         "B": "2010-2011",
         "C": "2012-2013",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     }
 }

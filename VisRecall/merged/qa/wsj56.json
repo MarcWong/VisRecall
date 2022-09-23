@@ -8,7 +8,8 @@
         "B": "Number of women",
         "C": "election of congress",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Didn't change",
         "C": "Increasing",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,10"
     },
     "Q3": {
         "type": "4",
@@ -26,7 +28,8 @@
         "B": "Green",
         "C": "Orange",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     },
     "Q4": {
         "type": "3",
@@ -35,7 +38,8 @@
         "B": "80-100",
         "C": "100-120",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "The Economist",
         "C": "Democatic National Committee",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Change over time in allocation of international funds for HIV control",
         "C": "Change over time in allocation of international funds for malaria control",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2001-2010",
         "C": "2003-2010",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "4",
@@ -26,7 +28,8 @@
         "B": "lower",
         "C": "higher",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "20% of countries with largest population at risk",
         "C": "20% of countries with lowest GNI per capita",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "20% of countries with largest population at risk",
         "C": "20% of countries with lowest GNI per capita",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     }
 }

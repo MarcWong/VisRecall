@@ -8,7 +8,8 @@
         "B": "What your Cat says about your Salary",
         "C": "What your Car says about your Payment",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Negative",
         "C": "Not obvious",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,10"
     },
     "Q3": {
         "type": "4",
@@ -26,7 +28,8 @@
         "B": "Car Price",
         "C": "Year",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9"
     },
     "Q4": {
         "type": "4",
@@ -35,7 +38,8 @@
         "B": "Car Price",
         "C": "Year",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q5": {
         "type": "4",
@@ -44,6 +48,7 @@
         "B": "American dollar",
         "C": "RMB",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2"
     }
 }

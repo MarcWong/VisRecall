@@ -8,7 +8,8 @@
         "B": "It's decreasing",
         "C": "It stays the same",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6,10"
     },
     "Q2": {
         "question": "In what currency is the budget support shown?",
@@ -17,7 +18,8 @@
         "B": "Canadian dollars",
         "C": "Euros",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
         "question": "How much total ODA was spent in 2007?",
@@ -26,7 +28,8 @@
         "B": "US$ 4.4 billion",
         "C": "US$ 125 billion",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "question": "What is the earliest year shown in this graph?",
@@ -35,7 +38,8 @@
         "B": "2005",
         "C": "2000",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q5": {
         "question": "What is the general trend to general budget support?",
@@ -44,6 +48,7 @@
         "B": "It stays the same",
         "C": "It is decreasing",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,10"
     }
 }

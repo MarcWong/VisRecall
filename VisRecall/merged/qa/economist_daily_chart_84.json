@@ -4,11 +4,12 @@
     "Q1": {
 		"type": "0",
         "question": "What is the theme of this visualization?",
-        "A": "Median age of population",
-        "B": "Median height of population",
-        "C": "Median weight of population",
+        "A": "Kings and median age of population",
+        "B": "Kings and median height of population",
+        "C": "Kings and median weight of population",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q2": {
 		"type": "2",
@@ -17,33 +18,37 @@
         "B": "1930-2010",
         "C": "1950-2010",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9"
     },
     "Q3": {
 		"type": "3",
-        "question": "What is the median value in 1980?",
+        "question": "What is the median age on population in 1980?",
         "A": "Around 15",
         "B": "Around 30",
         "C": "Around 60",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "3",
-        "question": "What is the median value in 2010?",
+        "question": "What is the median age on population in 2010?",
         "A": "Around 15",
         "B": "Around 30",
         "C": "Around 60",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "1",
-        "question": "Which region has the highest age?",
+        "question": "Which king has the highest age?",
         "A": "SAUD",
         "B": "FAISAL",
         "C": "ABDULIAH",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }

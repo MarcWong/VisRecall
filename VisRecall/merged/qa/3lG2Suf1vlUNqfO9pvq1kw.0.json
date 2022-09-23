@@ -8,7 +8,8 @@
         "B": "comparision between GDP per capita and daily supply of calories",
         "C": "comparision between the prevalence of undernourishment and GDP per capita",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2013",
         "C": "2018",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "North Korea",
         "C": "Zambia",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "type": "2",
@@ -35,7 +38,8 @@
         "B": "Russia",
         "C": "Egypt",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,7 +48,8 @@
         "B": "3000-3500 kcal",
         "C": "2500-3000 kcal",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }
 

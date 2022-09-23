@@ -8,7 +8,8 @@
     "B": "Real Average after-tax income in Germany",
     "C": "Real Average after-tax income in Europe",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,7 +18,8 @@
     "B": "1989-2005",
     "C": "1995-2005",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "9"
   },
   "Q3": {
     "type": "4",
@@ -26,7 +28,8 @@
     "B": "2",
     "C": "4",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "9,10"
   },
   "Q4": {
     "type": "3",
@@ -35,7 +38,8 @@
     "B": "Around 350-400",
     "C": "Around 450-500",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "4,9,10"
   },
   "Q5": {
     "type": "3",
@@ -44,6 +48,7 @@
     "B": "Around 150-200",
     "C": "Around 200-250",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "4,9,10"
   }
 }

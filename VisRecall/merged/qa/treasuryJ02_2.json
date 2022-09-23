@@ -8,7 +8,8 @@
         "B": "Quarterly commercial loan originations",
         "C": "Quarterly secured loans",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6,7"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2008-2012",
         "C": "2003-2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "2",
@@ -26,7 +28,8 @@
         "B": "Since April 1, 2009",
         "C": "Since April 1, 2010",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "2005",
         "C": "2007",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2, 9, 10"
     },
     "Q5": {
 		"type": "1",
@@ -44,7 +48,8 @@
         "B": "2006",
         "C": "2008",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2, 9, 10"
     }
 }
 

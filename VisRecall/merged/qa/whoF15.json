@@ -8,7 +8,8 @@
         "B": "Age distribution of burden of disease by income group",
         "C": "Age distribution of burden of air pollution by income group",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2009",
         "C": "2004",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "15-59 years",
         "C": "0-4 years",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q4": {
         "type": "1",
@@ -35,15 +38,17 @@
         "B": "15-59 years",
         "C": "0-4 years",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q5": {
-        "type": "4",
+        "type": "1",
         "question": "Which age group takes the second largest proportion in low- and middle-income countries?",
         "A": "60 years and over",
         "B": "15-59 years",
         "C": "0-4 years",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     }
 }

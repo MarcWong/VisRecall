@@ -8,7 +8,8 @@
         "B": "Earnings from international shops",
         "C": "Earnings from international trade",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Azerbaijan",
         "C": "Tonga",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,15 +38,17 @@
         "B": "Azerbaijan",
         "C": "Tonga",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,9,10"
     },
     "Q5": {
         "type": "2",
         "question": "Which currency has been chosen in this visualisation?",
         "A": "Euro",
         "B": "US dollar",
-        "C": "yen",
+        "C": "Yen",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     }
 }

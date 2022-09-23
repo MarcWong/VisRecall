@@ -8,7 +8,8 @@
     "B": "Deaths due to type 2 diabetes",
     "C": "Traffic cameras and road deaths",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,7 +18,8 @@
     "B": "2005-2009",
     "C": "2009-2013",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9"
   },
   "Q3": {
     "type": "1",
@@ -26,7 +28,8 @@
     "B": "Slovenia",
     "C": "Ukraine",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "2,9,10"
   },
   "Q4": {
     "type": "1",
@@ -35,7 +38,8 @@
     "B": "Britain",
     "C": "Estonia",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "2,9,10"
   },
   "Q5": {
     "type": "3",
@@ -44,6 +48,7 @@
     "B": "Around 40-50",
     "C": "Around 30-40",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "2,9,10"
   }
 }

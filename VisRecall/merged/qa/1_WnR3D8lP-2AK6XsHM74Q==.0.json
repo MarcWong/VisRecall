@@ -8,7 +8,8 @@
     "B": "House proces trend Forecast in Europe",
     "C": "House prices tredn Forecast in Germany",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "6"
   },
   "Q2": {
     "type": "2",
@@ -17,7 +18,8 @@
     "B": "2003-2011",
     "C": "2003-2012",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "6"
   },
   "Q3": {
     "type": "2",
@@ -26,7 +28,8 @@
     "B": "2009-2010",
     "C": "2006-2007",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "2,9,10"
   },
   "Q4": {
     "type": "3",
@@ -35,7 +38,8 @@
     "B": "30",
     "C": "50",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9"
   },
   "Q5": {
     "type": "2",
@@ -44,6 +48,7 @@
     "B": "MarketOracle.co.uk",
     "C": "MarketOracle.co.us",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "8"
   }
 }

@@ -8,7 +8,8 @@
         "B": "Female life expectancy at birth by country income group and region",
         "C": "Life expectancy at birth by country income group and region",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "1960-2015",
         "C": "1950-2015",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9"
     },
     "Q3": {
 		"type": "3",
@@ -26,7 +28,8 @@
         "B": "75-80",
         "C": "70-75",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "3",
@@ -35,7 +38,8 @@
         "B": "40-45",
         "C": "35-40",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,7 +48,8 @@
         "B": "1970-75",
         "C": "1965-70",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     }
 }
 

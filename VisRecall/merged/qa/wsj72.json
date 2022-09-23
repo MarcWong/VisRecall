@@ -8,7 +8,8 @@
     "B": "State income as a percentage as GDP",
     "C": "Federal income and spending as a percentage as GDP",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "7"
   },
   "Q2": {
     "type": "1",
@@ -17,7 +18,8 @@
     "B": "1990-2000",
     "C": "2000-2010",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "9,10"
   },
   "Q3": {
     "type": "2",
@@ -26,7 +28,8 @@
     "B": "To narrow the gap",
     "C": "To maintain it as it is",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "7"
   },
   "Q4": {
     "type": "2",
@@ -35,7 +38,8 @@
     "B": "White House",
     "C": "Department of Social welfare",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "8"
   },
   "Q5": {
     "type": "3",
@@ -44,6 +48,7 @@
     "B": "18.7%",
     "C": "22.7%",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "9,10"
   }
 }

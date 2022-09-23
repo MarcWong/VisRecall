@@ -8,7 +8,8 @@
         "B": "Healthcare buildings",
         "C": "Roads",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "question": "Which living area is mentioned in this chart?",
@@ -17,16 +18,18 @@
         "B": "Suburbs",
         "C": "Rural areas",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "7"
     },
     "Q3": {
         "question": "What percentage of respondent countries find the supply of skilled labour and technicians adequately developed to meet needs in rural sanitation?",
 		"type": "3",
         "A": "68%",
-        "B": "20%",
-        "C": "18%",
+        "B": "18%",
+        "C": "14%",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,7,9"
     },
     "Q4": {
         "question": "How many countries responded to the survey?",
@@ -35,7 +38,8 @@
         "B": "68",
         "C": "18",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     },
     "Q5": {
         "question": "In what year was the survey publicized?",
@@ -44,6 +48,7 @@
         "B": "1973",
         "C": "2021",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     }
 }

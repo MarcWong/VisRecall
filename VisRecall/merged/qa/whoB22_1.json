@@ -8,7 +8,8 @@
         "B": "Deaths in men attributable to six leading risk factors",
         "C": "Deaths in women attributable to six leading risk factors",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2005",
         "C": "2006",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Unsafe sex",
         "C": "Alcohol use",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "2",
@@ -35,7 +38,8 @@
         "B": "Unsafe sex",
         "C": "Alcohol use",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,7 +48,8 @@
         "B": "Middle-income countries",
         "C": "High-income countries",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }
 

@@ -8,7 +8,8 @@
         "B": "Motality and disease burden (DALYs) in girls under 20 years of age by region and broad causes",
         "C": "Motality and disease burden (DALYs) in women under 30 years of age by region and broad causes",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2005",
         "C": "2006",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "South-East Asia",
         "C": "Africa",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "High-income countries",
         "C": "Europe",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "Maternal conditions",
         "C": "Perinatal conditions",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

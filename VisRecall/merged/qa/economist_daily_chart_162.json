@@ -8,7 +8,8 @@
         "B": "It shows the number of server devices shipped per year",
         "C": "It shows the number of personal computer devices shipped per year",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "question": "What type of phone was sold the most within a year?",
@@ -17,7 +18,8 @@
         "B": "Android",
         "C": "iPhone",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q3": {
         "question": "What period of data does this visualization show?",
@@ -26,7 +28,8 @@
         "B": "1985-2010",
         "C": "1980-2012",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9"
     },
     "Q4": {
         "question": "What is the most selling group of devices every year since 1985?",
@@ -35,7 +38,8 @@
         "B": "Macintosh",
         "C": "PC total",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "question": "What is the source of the data?",
@@ -44,6 +48,7 @@
         "B": "Asymco",
         "C": "Asyntra",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Retirement ranked by GDP at effective retirement age in 2010, men, years",
         "C": "Retirement ranked by alphabetical order at effective retirement age in 2010, men, years",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "1980",
         "C": "1990",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Poland",
         "C": "Switzerland",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Australia",
         "C": "Greece",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,6 +48,7 @@
         "B": "55-90",
         "C": "50-90",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     }
 }

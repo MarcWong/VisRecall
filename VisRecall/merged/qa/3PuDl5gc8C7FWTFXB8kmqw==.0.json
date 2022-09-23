@@ -8,7 +8,8 @@
         "B": "Live births in US",
         "C": "Live births in Germany",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "7"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "1913-1930",
         "C": "1913-1950",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
 		"type": "4",
@@ -26,7 +28,8 @@
         "B": "Great Depression",
         "C": "World War Two",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,6,9,10"
     },
     "Q4": {
 		"type": "3",
@@ -35,7 +38,8 @@
         "B": "Around 800,000",
         "C": "Around 600,000",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,7 +48,8 @@
         "B": "1922",
         "C": "1919",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }
 

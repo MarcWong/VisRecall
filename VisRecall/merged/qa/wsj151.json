@@ -8,7 +8,8 @@
     "B": "Slow but Steady",
     "C": "Balancing Act",
     "D": "I can not remember",
-    "answer": "A"
+    "answer": "A",
+    "AOI": "6"
   },
   "Q2": {
     "type": "3",
@@ -17,7 +18,8 @@
     "B": "18%",
     "C": "22%",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "9"
   },
   "Q3": {
     "type": "1",
@@ -26,7 +28,8 @@
     "B": "Euro area",
     "C": "China",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "2,9,10"
   },
   "Q4": {
     "type": "2",
@@ -35,7 +38,8 @@
     "B": "China, Euro area, World, U.S.",
     "C": "China, World, U.S., Euro area",
     "D": "I can not remember",
-    "answer": "C"
+    "answer": "C",
+    "AOI": "9,10"
   },
   "Q5": {
     "type": "2",
@@ -44,6 +48,7 @@
     "B": "Wall Street Journal",
     "C": "European Commission",
     "D": "I can not remember",
-    "answer": "B"
+    "answer": "B",
+    "AOI": "8"
   }
 }

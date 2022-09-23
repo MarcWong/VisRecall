@@ -8,7 +8,8 @@
         "B": "Anticipated personal spending on public transportation",
         "C": "Anticipated personal spending on Christmas gifts",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6,7"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Finland",
         "C": "Luxembourg",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Germany",
         "C": "Netherlands",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,7 +48,8 @@
         "B": "Poland",
         "C": "Ukraine",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }
 

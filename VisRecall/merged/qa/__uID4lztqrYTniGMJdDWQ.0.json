@@ -8,7 +8,8 @@
         "B": "Sound mitigation at high frequencies",
         "C": "Sound mitigation at all frequencies",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "3",
@@ -17,7 +18,8 @@
         "B": "100 Hz - 10000 Hz",
         "C": "1000 Hz - 10000 Hz",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Betafoam AFI",
         "C": "Medium Expansion Baffle",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Betafoam AFI",
         "C": "Medium Expansion Baffle",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9,10"
     },
     "Q5": {
         "type": "4",
@@ -44,7 +48,8 @@
         "B": "Stays constant",
         "C": "Increases",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }
 

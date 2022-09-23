@@ -1,5 +1,5 @@
 {
-    "name": "whoL06.png",
+    "name": "whoQ01.png",
     "vistype": "bar",
     "Q1": {
         "question": "What is the theme of this table?",
@@ -8,7 +8,8 @@
         "B": "Income tax",
         "C": "Budget",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "question": "In what year was this data gathered?",
@@ -17,25 +18,28 @@
         "B": "2008",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "B",
+        "AOI": "8"
     },
     "Q3": {
-        "question": "Which region had the lowest percentage of reporting forms received in September?",
+        "question": "Which country had the lowest under-5 child mortality?",
 		"type": "1",
-        "A": "Western pacific",
-        "B": "European",
-        "C": "Eastern Mediterranean",
+        "A": "India",
+        "B": "Peru",
+        "C": "Morocco",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q4": {
-        "question": "Which region has the fewer number of countries per area?",
-		"type": "2",
-        "A": "European",
-        "B": "Western pacific",
-        "C": "African",
+        "question": "Which country had the highest under-5 child mortality?",
+		"type": "1",
+        "A": "Urganda",
+        "B": "India",
+        "C": "Turkmenistan",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q5": {
         "question": "What is the source of the data?",
@@ -44,6 +48,7 @@
         "B": "WHO",
         "C": "World Health Organization",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

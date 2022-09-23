@@ -8,7 +8,8 @@
         "B": "Football revenues",
         "C": "Football wage costs",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2001-2010",
         "C": "1995-2010",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Europe",
         "C": "Middle East",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "England",
         "C": "Germany",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,7 +48,8 @@
         "B": "Serie A",
         "C": "Ligue 1",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }
 

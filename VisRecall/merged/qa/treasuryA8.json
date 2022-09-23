@@ -8,7 +8,8 @@
         "B": "It shows the employment growth in the finance industry",
         "C": "It shows the employment growth in the auto industry",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "question": "What is the employment growth since June 2009?",
@@ -17,7 +18,8 @@
         "B": "about 200,000",
         "C": "about 2,000,000",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q3": {
         "question": "What period of data does this visualization show?",
@@ -26,7 +28,8 @@
         "B": "2009-2014",
         "C": "2009-2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9"
     },
     "Q4": {
         "question": "When did the restructuring of GM & Chrysler happen?",
@@ -35,7 +38,8 @@
         "B": "July 2009",
         "C": "August 2009",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q5": {
         "question": "What is the lowest amount of payrolls at any given time (in thousands)?",
@@ -44,6 +48,7 @@
         "B": "2250",
         "C": "5220",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     }
 }

@@ -8,7 +8,8 @@
         "B": "Relationship between GDP and Temkin NPS scores by industry",
         "C": "Relationship between ACSI and Temkin NPS scores by industry",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2010-2015",
         "C": "2013-2017",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "4",
@@ -26,7 +28,8 @@
         "B": "Quadratic function",
         "C": "Exponential function",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "4",
@@ -35,7 +38,8 @@
         "B": "60-85",
         "C": "70-100",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "4",
@@ -44,6 +48,7 @@
         "B": "0-70",
         "C": "10-80",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     }
 }

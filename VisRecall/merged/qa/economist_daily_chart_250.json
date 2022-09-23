@@ -8,7 +8,8 @@
         "B": "It shows nobel prices in physics",
         "C": "It shows nobel prices in mathematics",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "question": "What is the first decade the visualization reports?",
@@ -17,16 +18,18 @@
         "B": "1890",
         "C": "1900",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q3": {
         "question": "Which sub-discipline is always shown on the bottom of each bar?",
-		"type": "3",
+		"type": "4",
         "A": "Organic",
         "B": "Biological",
         "C": "Physical",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4,10"
     },
     "Q4": {
         "question": "How many nobel prizes are awarded at most each decade?",
@@ -35,7 +38,8 @@
         "B": "20",
         "C": "5",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q5": {
         "question": "Which sub-discipline is awarded the least amount of nobel prized on average?",
@@ -44,6 +48,7 @@
         "B": "Organic",
         "C": "Physical",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,10"
     }
 }

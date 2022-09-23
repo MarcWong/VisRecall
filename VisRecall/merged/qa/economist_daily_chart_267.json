@@ -8,7 +8,8 @@
         "B": "The world's biggest employers",
         "C": "The American biggest employers",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2000",
         "C": "2020",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Walmart",
         "C": "McDonald's",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "State Grid Corporation of China",
         "C": "Hon Hai Precision Industry",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q5": {
 		"type": "3",
@@ -44,7 +48,8 @@
         "B": "Around 1.5 million",
         "C": "Around 2 million",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }
 

@@ -8,7 +8,8 @@
         "B": "Top10 EU countries in terms of manufacturing contribution to GDP",
         "C": "Top10 EU countries in terms of agriculture contribution to GDP",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Slovenia",
         "C": "Malta",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Hungary",
         "C": "Estonia",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
 		"type": "2",
@@ -44,7 +48,8 @@
         "B": "Hungary",
         "C": "Greece",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9,10"
     }
 }
 

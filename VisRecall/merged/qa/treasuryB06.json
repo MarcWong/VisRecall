@@ -8,7 +8,8 @@
         "B": "The crisis response helped stabilize the car market",
         "C": "The crisis response helped stabilize the stock market",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "4",
@@ -17,7 +18,8 @@
         "B": "Decrease",
         "C": "Remain stable",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q3": {
         "type": "2",
@@ -26,7 +28,8 @@
         "B": "Mortgage modification programs",
         "C": "Finace modification programs",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q4": {
         "type": "3",
@@ -35,7 +38,8 @@
         "B": "5 million",
         "C": "6.5 million",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,6 +48,7 @@
         "B": "U.S Department of Housing and Urban Development",
         "C": "U.S Depratment of Commerce",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     }
 }

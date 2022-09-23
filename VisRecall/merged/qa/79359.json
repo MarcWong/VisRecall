@@ -8,7 +8,8 @@
         "B": "Percentage of male workers employed in the Service sector",
         "C": "Percentage of workers employed in the Service sector",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2005 - 2014",
         "C": "2004 - 2013",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "50-60",
         "C": "40-50",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,7 +48,8 @@
         "B": "Bhutan, Ethiopia",
         "C": "Malawi, Myanmar, Cuba",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4"
     }
 }
 

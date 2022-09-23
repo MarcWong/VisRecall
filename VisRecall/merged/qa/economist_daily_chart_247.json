@@ -8,7 +8,8 @@
         "B": "Exchange rate and merchandise trade-deficit between the US and Russia",
         "C": "Exchange rate and merchandise trade-deficit between Europe and China",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2007-2011",
         "C": "2008-2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2"
     },
     "Q3": {
         "type": "4",
@@ -26,7 +28,8 @@
         "B": "The exchange rate increases",
         "C": "The exchange rate remains stable",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "2010",
         "C": "2011",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
         "type": "3",
@@ -44,7 +48,8 @@
         "B": "150-250 billion",
         "C": "200-300 billion",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     }
 }
 

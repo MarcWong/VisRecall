@@ -8,7 +8,8 @@
         "B": "It plots the Human Development Index against self-reported happiness for different countries",
         "C": "It plots the Gross Domestic Product against self-reported happiness for different countries",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "7"
     },
     "Q2": {
         "question": "Which regions achieve the highest self-reported happiness?",
@@ -17,7 +18,8 @@
         "B": "European Union",
         "C": "Sub-Saharan Africa",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,4,9,10"
     },
     "Q3": {
         "question": "What is the earliest year the data is taken from?",
@@ -26,16 +28,18 @@
         "B": "2014",
         "C": "2015",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "8"
     },
     "Q4": {
-        "question": "Which region achieves the lowest Human Development Index",
+        "question": "Which region achieves the lowest Human Development Index?",
 		"type": "1",
         "A": "South Asia",
         "B": "Sub-Saharan Africa",
         "C": "Middle East",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
         "question": "How many regions are reported?",
@@ -44,6 +48,7 @@
         "B": "7",
         "C": "8",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     }
 }

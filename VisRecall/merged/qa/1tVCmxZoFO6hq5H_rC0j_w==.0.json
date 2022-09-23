@@ -8,7 +8,8 @@
         "B": "Comparison of employment rate of different regions",
         "C": "Comparison of the material deprivation of different regions",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q2": {
 		"type": "1",
@@ -17,7 +18,8 @@
         "B": "Romania",
         "C": "Latvia",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Belgium",
         "C": "Luxembourg",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Poland",
         "C": "Portugal",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "2,9,10"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "France",
         "C": "Slovakia",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,9,10"
     }
 }

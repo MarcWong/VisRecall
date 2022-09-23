@@ -8,7 +8,8 @@
         "B": "Electronic devices production and breakeven costs",
         "C": "Oil and gas production and breakeven costs",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011 and 2025",
         "C": "2011 and 2035",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "4"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Middle East and North Africa",
         "C": "Easter Europe / Eurasia",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "Asia",
         "C": "Rest of Africa",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "2,4,9,10"
     },
     "Q5": {
         "type": "2",
@@ -44,7 +48,8 @@
         "B": "Rest of OECD",
         "C": "Rest of Africa",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "2,4,9,10"
     }
 }
 

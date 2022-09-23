@@ -8,7 +8,8 @@
         "B": "Are hygiene promotion programmes implemented in high schools?",
         "C": "Are hygiene promotion programmes implemented in colleges?",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
         "type": "2",
@@ -17,7 +18,8 @@
         "B": "2011",
         "C": "2012",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "8"
     },
     "Q3": {
         "type": "3",
@@ -26,7 +28,8 @@
         "B": "25-75%",
         "C": "<25%",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "25-75%",
         "C": "<25%",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "4,9"
     },
     "Q5": {
         "type": "1",
@@ -44,6 +48,7 @@
         "B": "25-75%",
         "C": "<25%",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "4,9"
     }
 }

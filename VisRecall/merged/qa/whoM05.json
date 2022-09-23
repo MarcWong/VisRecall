@@ -8,7 +8,8 @@
         "B": "Alcohol",
         "C": "Cardiovascular",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q2": {
         "type": "1",
@@ -17,7 +18,8 @@
         "B": "European",
         "C": "South East Asian",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q3": {
         "type": "1",
@@ -26,7 +28,8 @@
         "B": "Eastern Mediterannean",
         "C": "Western Pacific",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     },
     "Q4": {
         "type": "1",
@@ -35,7 +38,8 @@
         "B": "African",
         "C": "Western Pacific",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9,10"
     },
     "Q5": {
         "type": "1",
@@ -44,6 +48,7 @@
         "B": "Women",
         "C": "Same",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9,10"
     }
 }

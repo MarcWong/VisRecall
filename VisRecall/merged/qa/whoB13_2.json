@@ -8,7 +8,8 @@
         "B": "Distribution of major causes of death in girls under ten years of age",
         "C": "Distribution of major causes of death in boys  under five years of age",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "6"
     },
     "Q2": {
 		"type": "2",
@@ -17,7 +18,8 @@
         "B": "2004",
         "C": "2006",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "6"
     },
     "Q3": {
 		"type": "1",
@@ -26,7 +28,8 @@
         "B": "Diarrhoea",
         "C": "Measles",
         "D": "I can not remember",
-        "answer": "A"
+        "answer": "A",
+        "AOI": "9"
     },
     "Q4": {
 		"type": "1",
@@ -35,7 +38,8 @@
         "B": "Diarrhoea",
         "C": "Severe neoatal infections",
         "D": "I can not remember",
-        "answer": "B"
+        "answer": "B",
+        "AOI": "9"
     },
     "Q5": {
 		"type": "1",
@@ -44,6 +48,7 @@
         "B": "Measles",
         "C": "Nutritional deficiencies",
         "D": "I can not remember",
-        "answer": "C"
+        "answer": "C",
+        "AOI": "9"
     }
 }
