@@ -58,15 +58,16 @@ $Root Directory
 If you think this repository is useful to you, please consider citing our work as:
 
 ```
-@ARTICLE{9855227,
-  author={Wang, Yao and Jiao, Chuhan and B&#x00E2;ce, Mihai and Bulling, Andreas},
-  journal={IEEE Transactions on Visualization and Computer Graphics}, 
-  title={VisRecall: Quantifying Information Visualisation Recallability Via Question Answering}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-12},
-  doi={10.1109/TVCG.2022.3198163}}
+@article{wang22_tvcg,
+  title = {VisRecall: Quantifying Information Visualisation Recallability via Question Answering},
+  author = {Wang, Yao and Jiao, Chuhan and Bâce, Mihai and Bulling, Andreas},
+  year = {2022},
+  pages = {4995-5005},
+  journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+  volume = {28},
+  number = {12},
+  doi = {10.1109/TVCG.2022.3198163}
+}
 ```
 
 contact: yao.wang@vis.uni-stuttgart.de
